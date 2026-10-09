@@ -102,7 +102,7 @@ def summarize_with_gemini(article, api_key):
 
     request = urllib.request.Request(
         "https://generativelanguage.googleapis.com/v1beta/"
-        "models/gemini-2.5-flash:generateContent",
+        "models/gemini-3.5-flash-lite:generateContent",
         data=json.dumps(payload).encode("utf-8"),
         headers={
             "Content-Type": "application/json",
