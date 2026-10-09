@@ -23,8 +23,10 @@ jobs:
           python-version: "3.12"
 
       - name: Recuperer les actualites
+        env:
+          GEMINI_API_KEY: ${{ secrets.VEILLE_IA }}
         run: python scripts/veille.py
-
+      
       - name: Enregistrer les actualites
         run: |
           git config user.name "github-actions[bot]"
