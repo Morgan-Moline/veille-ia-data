@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T09:28:37.085115+00:00",
+  "updated_at": "2026-10-09T09:51:47.056446+00:00",
   "articles": [
     {
       "title": "La France a expulsé deux agents des services de renseignement nigériens - TVA Nouvelles",
@@ -7,7 +7,8 @@
       "description": "La France a expulsé deux agents des services de renseignement nigériens TVA Nouvelles",
       "source": "TVA Nouvelles",
       "published_at": "2026-10-09T08:24:30+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Plans de vol revus, fiscalité pointée du doigt… Le transport aérien français décroche - Ouest-France",
@@ -15,7 +16,8 @@
       "description": "Plans de vol revus, fiscalité pointée du doigt… Le transport aérien français décroche Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-10-09T06:00:30+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Cette coopérative de matériel agricole raconte ses 45 ans d’activité en Maine-et-Loire - Ouest-France",
@@ -23,7 +25,8 @@
       "description": "Cette coopérative de matériel agricole raconte ses 45 ans d’activité en Maine-et-Loire Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-10-08T16:26:13+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "La fiscalité des travailleurs transfrontaliers résidents en France - Lesfrancais.press",
@@ -31,7 +34,8 @@
       "description": "La fiscalité des travailleurs transfrontaliers résidents en France Lesfrancais.press",
       "source": "Lesfrancais.press",
       "published_at": "2026-10-07T09:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Beaupréau-en-Mauges. La coopérative de matériel agricole raconte 45 ans d’évolution du métier - Ouest-France",
@@ -39,7 +43,8 @@
       "description": "Beaupréau-en-Mauges. La coopérative de matériel agricole raconte 45 ans d’évolution du métier Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-10-07T03:11:13+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Beaupréau-en-Mauges. La coopérative de matériel agricole raconte 45 ans d’évolution du métier - Ma Ville",
@@ -47,7 +52,8 @@
       "description": "Beaupréau-en-Mauges. La coopérative de matériel agricole raconte 45 ans d’évolution du métier Ma Ville",
       "source": "Ma Ville",
       "published_at": "2026-10-07T03:11:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Acheter en France cet été, sans payer la TVA? C’est possible avec Zapptax - Lepetitjournal.com",
@@ -55,7 +61,8 @@
       "description": "Acheter en France cet été, sans payer la TVA? C’est possible avec Zapptax Lepetitjournal.com",
       "source": "Lepetitjournal.com",
       "published_at": "2026-10-07T01:50:31+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Coiffeur-barbier à Paris facturé via une société à Dubaï en restant en France : article 155 A, siège de direction effective, TVA, qualification artisanale et comment contester le redressement - Kohen Avocats",
@@ -63,7 +70,8 @@
       "description": "Coiffeur-barbier à Paris facturé via une société à Dubaï en restant en France : article 155 A, siège de direction effective, TVA, qualification artisanale et comment contester le redressement Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-10-07T00:01:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national - CNews",
@@ -71,15 +79,8 @@
       "description": "Baisse de la TVA, préférence nationale, simplification administrative... Ce que contient le contre-budget du Rassemblement national CNews",
       "source": "CNews",
       "published_at": "2026-10-06T08:43:52+00:00",
-      "category": "Comptabilité & fiscalité"
-    },
-    {
-      "title": "Locations type Airbnb : la France compte alourdir la fiscalité - L'Echo touristique",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1p6X2hKN0RXcVdZdUlsQ1hHU1pYM0FFQTRpbHU0YjlwU3VoNEtyU3d1c2VUUTRmYWhhVVVzNFRyaXNNSzVCWHRnS2JLRE0tODNlMmV5dnZLdUZ0OHZHZHl6cEYwa1FXa0diN2h4eTcwamZPaV83M20yajVubExpZzNFeHlCNzk2OEVkbU8xdElKRUhLc2hGdmtncjBjOVFuX3c?oc=5",
-      "description": "Locations type Airbnb : la France compte alourdir la fiscalité L'Echo touristique",
-      "source": "L'Echo touristique",
-      "published_at": "2026-10-06T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fiscalité. Dette : la France risque d'être « étranglée » par les taux, alerte la Banque de France - Le Bien Public",
@@ -87,7 +88,8 @@
       "description": "Fiscalité. Dette : la France risque d'être « étranglée » par les taux, alerte la Banque de France Le Bien Public",
       "source": "Le Bien Public",
       "published_at": "2026-10-05T21:28:13+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Hausse de la TVA dans le projet de budget 2027 : Canal+ pourrait réduire son financement du cinéma de \"moitié, peut-être des trois-quarts\", prévient le patron de la chaîne cryptée - franceinfo",
@@ -95,7 +97,8 @@
       "description": "Hausse de la TVA dans le projet de budget 2027 : Canal+ pourrait réduire son financement du cinéma de \"moitié, peut-être des trois-quarts\", prévient le patron de la chaîne cryptée franceinfo",
       "source": "franceinfo",
       "published_at": "2026-10-05T10:16:02+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Face à une TVA doublée, \"Canal+ en France ne pourra pas absorber un choc de 200 millions d’euros\", assure Maxime Saada qui dénonce sur RTL \"une décision politique et absurde\" - RTL",
@@ -103,7 +106,8 @@
       "description": "Face à une TVA doublée, \"Canal+ en France ne pourra pas absorber un choc de 200 millions d’euros\", assure Maxime Saada qui dénonce sur RTL \"une décision politique et absurde\" RTL",
       "source": "RTL",
       "published_at": "2026-10-05T06:44:25+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Vers une hausse de la TVA appliquée à Canal + ? «La question de la pérennité de Canal + en France se pose», affirme Maxime Saada - Europe 1",
@@ -111,7 +115,8 @@
       "description": "Vers une hausse de la TVA appliquée à Canal + ? «La question de la pérennité de Canal + en France se pose», affirme Maxime Saada Europe 1",
       "source": "Europe 1",
       "published_at": "2026-10-05T06:27:36+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Éditeur SaaS à Paris facturé via une société à Dubaï avec des abonnés en France : siège de direction effective, article 155 A, TVA des services électroniques et comment contester le redressement - Kohen Avocats",
@@ -119,7 +124,8 @@
       "description": "Éditeur SaaS à Paris facturé via une société à Dubaï avec des abonnés en France : siège de direction effective, article 155 A, TVA des services électroniques et comment contester le redressement Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-10-03T01:53:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Entreprises : vos principales échéances du mois - economie.gouv.fr",
@@ -127,7 +133,8 @@
       "description": "Entreprises : vos principales échéances du mois economie.gouv.fr",
       "source": "economie.gouv.fr",
       "published_at": "2026-10-02T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Un doublement de la TVA dans le budget 2027 serait une \"attaque directe sur les activités\" de Canal+ en France: le groupe menace d'en \"tirer les conséquences\" - BFM",
@@ -135,7 +142,8 @@
       "description": "Un doublement de la TVA dans le budget 2027 serait une \"attaque directe sur les activités\" de Canal+ en France: le groupe menace d'en \"tirer les conséquences\" BFM",
       "source": "BFM",
       "published_at": "2026-10-01T18:42:19+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Furieux à l'idée d'une hausse de TVA, Canal+ menace de moins investir dans le cinéma et le sport - France 24",
@@ -143,7 +151,8 @@
       "description": "Furieux à l'idée d'une hausse de TVA, Canal+ menace de moins investir dans le cinéma et le sport France 24",
       "source": "France 24",
       "published_at": "2026-10-01T17:48:49+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "HAUSSE DE LA TVA SUR LES ABONNEMENTS DE TÉLÉVISION : UNE ATTAQUE DIRECTE SUR LES ACTIVITÉS DE CANA L EN FRANCE - Groupe CANAL+",
@@ -151,7 +160,8 @@
       "description": "HAUSSE DE LA TVA SUR LES ABONNEMENTS DE TÉLÉVISION : UNE ATTAQUE DIRECTE SUR LES ACTIVITÉS DE CANA L EN FRANCE Groupe CANAL+",
       "source": "Groupe CANAL+",
       "published_at": "2026-10-01T16:14:33+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Matériel agricole : la technologie du robot Aura intégrée à la nouvelle mélangeuse Antéa - Ouest-France",
@@ -159,7 +169,8 @@
       "description": "Matériel agricole : la technologie du robot Aura intégrée à la nouvelle mélangeuse Antéa Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-09-30T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "La France face au défi de la fiscalité - Lesfrancais.press",
@@ -167,7 +178,8 @@
       "description": "La France face au défi de la fiscalité Lesfrancais.press",
       "source": "Lesfrancais.press",
       "published_at": "2026-09-29T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fiscalité du Livret A à 1,7 % en 2026 : impôt, PFU et règles - Raisin",
@@ -175,7 +187,8 @@
       "description": "Fiscalité du Livret A à 1,7 % en 2026 : impôt, PFU et règles Raisin",
       "source": "Raisin",
       "published_at": "2026-09-29T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fiscalité de l’assurance vie : France Épargne dévoile ses propositions avant les débats budgétaires et l’élection présidentielle - L'Argus de l'assurance",
@@ -183,7 +196,8 @@
       "description": "Fiscalité de l’assurance vie : France Épargne dévoile ses propositions avant les débats budgétaires et l’élection présidentielle L'Argus de l'assurance",
       "source": "L'Argus de l'assurance",
       "published_at": "2026-09-28T12:55:42+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Est-il possible d'abaisser la TVA sur les carburants de 20% à 5,5% comme le défend le Rassemblement national ? - franceinfo",
@@ -191,7 +205,8 @@
       "description": "Est-il possible d'abaisser la TVA sur les carburants de 20% à 5,5% comme le défend le Rassemblement national ? franceinfo",
       "source": "franceinfo",
       "published_at": "2026-09-24T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Pas de TVA sur l’électricité cet hiver en Grande-Bretagne : une bonne idée pour la France ? - Connaissance des Énergies",
@@ -199,7 +214,8 @@
       "description": "Pas de TVA sur l’électricité cet hiver en Grande-Bretagne : une bonne idée pour la France ? Connaissance des Énergies",
       "source": "Connaissance des Énergies",
       "published_at": "2026-09-23T13:58:44+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Frédéric Bizard, économiste : « La France a besoin d’une réforme structurelle de son modèle, plutôt que d’une “TVA sociale” » - Le Monde.fr",
@@ -207,7 +223,8 @@
       "description": "Frédéric Bizard, économiste : « La France a besoin d’une réforme structurelle de son modèle, plutôt que d’une “TVA sociale” » Le Monde.fr",
       "source": "Le Monde.fr",
       "published_at": "2026-09-19T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Société étrangère qui vend en France : TVA, représentant fiscal, établissement stable et redressement, comment contester - Kohen Avocats",
@@ -215,7 +232,8 @@
       "description": "Société étrangère qui vend en France : TVA, représentant fiscal, établissement stable et redressement, comment contester Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-09-17T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Aides directes, baisse de la TVA, taxation des profits pétroliers… Quelles sont les solutions mises en place en Europe face à la flambée des prix des carburants - franceinfo",
@@ -223,7 +241,8 @@
       "description": "Aides directes, baisse de la TVA, taxation des profits pétroliers… Quelles sont les solutions mises en place en Europe face à la flambée des prix des carburants franceinfo",
       "source": "franceinfo",
       "published_at": "2026-09-17T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "La France décroche, Patrick Martin du Medef propose d'augmenter la TVA - Capital.fr",
@@ -231,7 +250,8 @@
       "description": "La France décroche, Patrick Martin du Medef propose d'augmenter la TVA Capital.fr",
       "source": "Capital.fr",
       "published_at": "2026-09-17T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Sénégal/MFPT : RESULTATS ADMISSIBILITES DES CONCOURS BTS CG – BTS SB – BTS CI – BTS GCAL SESSION 2025 - YOP L-FRII",
@@ -239,7 +259,8 @@
       "description": "Sénégal/MFPT : RESULTATS ADMISSIBILITES DES CONCOURS BTS CG – BTS SB – BTS CI – BTS GCAL SESSION 2025 YOP L-FRII",
       "source": "YOP L-FRII",
       "published_at": "2026-09-17T01:32:35+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Prix carburant France : la baisse de TVA proposée par le RN peut-elle vraiment soulager les ménages ruraux ? - parlons-politique.fr",
@@ -247,7 +268,8 @@
       "description": "Prix carburant France : la baisse de TVA proposée par le RN peut-elle vraiment soulager les ménages ruraux ? parlons-politique.fr",
       "source": "parlons-politique.fr",
       "published_at": "2026-09-13T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "TVA climatisation réversible, quel taux en 2026 - ENGIE",
@@ -255,7 +277,8 @@
       "description": "TVA climatisation réversible, quel taux en 2026 ENGIE",
       "source": "ENGIE",
       "published_at": "2026-09-11T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Une incroyable escroquerie à 41 000 € : à Saint-Malo, il vendait sur internet du faux matériel agricole - Le Télégramme",
@@ -263,7 +286,8 @@
       "description": "Une incroyable escroquerie à 41 000 € : à Saint-Malo, il vendait sur internet du faux matériel agricole Le Télégramme",
       "source": "Le Télégramme",
       "published_at": "2026-09-10T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Épargne : la fiscalité reste floue pour une grande majorité de Français selon une étude - Ouest-France",
@@ -271,7 +295,8 @@
       "description": "Épargne : la fiscalité reste floue pour une grande majorité de Français selon une étude Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-09-09T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Alain Madelin : « Vouloir faire de la France un champion de la TVA est une folie » - l'Opinion",
@@ -279,7 +304,17 @@
       "description": "Alain Madelin : « Vouloir faire de la France un champion de la TVA est une folie » l'Opinion",
       "source": "l'Opinion",
       "published_at": "2026-09-08T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "424,5 milliards d’euros de prélèvements : la fiscalité des entreprises devenue incontrôlable ! - L'echommerces",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2l6ekhEQ1hKWjJfZ295SEdOc2ZxNDdhZmd3ZXFCS2NpU2t6bG4teFBENldleTZLalJCTWJ2WW5Ic2MzaHZBbG9CRVFrWlFyRnE4MVgyVjZ0S3ZoaGdBa1E1QXQ2TXZpYmxYQzlXTllGdWJja2hlVmdsZTl2QUhaOVhzRjlBempBeElpYnViMlJ6WkJPOU9TYnExNkVhTVhTUE10TlFGNTVYakZjS1A5N0pCVQ?oc=5",
+      "description": "424,5 milliards d’euros de prélèvements : la fiscalité des entreprises devenue incontrôlable ! L'echommerces",
+      "source": "L'echommerces",
+      "published_at": "2026-09-04T11:12:47+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "FINOM lance son nouvel outil de comptabilité en France pour les micro-entrepreneurs et les indépendants - Challenges",
@@ -287,7 +322,8 @@
       "description": "FINOM lance son nouvel outil de comptabilité en France pour les micro-entrepreneurs et les indépendants Challenges",
       "source": "Challenges",
       "published_at": "2026-09-04T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "\"La TVA à 0% sur tous les produits agricoles made in France\" propose Flora Ghebali - BFM",
@@ -295,7 +331,8 @@
       "description": "\"La TVA à 0% sur tous les produits agricoles made in France\" propose Flora Ghebali BFM",
       "source": "BFM",
       "published_at": "2026-09-04T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Créer une société à Dubaï : après immatriculation TVA, comment remplir la CA3 française sans établissement stable - Kohen Avocats",
@@ -303,7 +340,8 @@
       "description": "Créer une société à Dubaï : après immatriculation TVA, comment remplir la CA3 française sans établissement stable Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-09-02T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "De Dominique Schelcher au Medef en passant par François Hollande, la TVA sociale s’invite dans le débat politique avant 2027 - Challenges",
@@ -311,7 +349,8 @@
       "description": "De Dominique Schelcher au Medef en passant par François Hollande, la TVA sociale s’invite dans le débat politique avant 2027 Challenges",
       "source": "Challenges",
       "published_at": "2026-09-02T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Société estonienne B2B en France : e-reporting des paiements et autoliquidation de TVA, que faire au 1er septembre 2026 - Kohen Avocats",
@@ -319,7 +358,8 @@
       "description": "Société estonienne B2B en France : e-reporting des paiements et autoliquidation de TVA, que faire au 1er septembre 2026 Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-09-01T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Suppression du régime simplifié de TVA en 2027 : quelles conséquences pour les TPE et PME ? - TGS France",
@@ -327,7 +367,8 @@
       "description": "Suppression du régime simplifié de TVA en 2027 : quelles conséquences pour les TPE et PME ? TGS France",
       "source": "TGS France",
       "published_at": "2026-08-31T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Créer une société à Dubaï et vendre sur Shopify en France : TVA, établissement stable et redressement fiscal - Kohen Avocats",
@@ -335,7 +376,8 @@
       "description": "Créer une société à Dubaï et vendre sur Shopify en France : TVA, établissement stable et redressement fiscal Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-08-30T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Société à Dubaï : Stripe ou PayPal en France créent-ils un établissement stable et une obligation de TVA - Kohen Avocats",
@@ -343,7 +385,17 @@
       "description": "Société à Dubaï : Stripe ou PayPal en France créent-ils un établissement stable et une obligation de TVA Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-08-30T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "TVA : en roue libre, le MEDEF veut faire payer les ménages modestes plutôt que les milliardaires - Attac France",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV1hya0NpTFZneU9PQjVxbTlvYU5JaV9JSEtsNTZXaU10QXZjR2RJTnUwdW14MG41b0ZibFJtc3NsN29DZG9heS13SEdDX2pneExUVmZtSUJyZldkYnRQNmdiM0hwcVd1WE9mUklOMHF4SXBmbGtGbWxxWHBlNHhuNDhuaVZIZ0JfVnVDT0R5djVrT2J1c0hFdklQWk5Xckkzc0FlUUJtY016SHByTHZSd2Rwb253aVZjT0dFZkpyWUhtdUtubm0wcDVYbVgyNzRrQmc?oc=5",
+      "description": "TVA : en roue libre, le MEDEF veut faire payer les ménages modestes plutôt que les milliardaires Attac France",
+      "source": "Attac France",
+      "published_at": "2026-08-28T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "TVA sociale : cinq choses à savoir sur cette mesure controversée remise sur la table par François Hollande et Bruno Le Maire - Les Echos",
@@ -351,7 +403,8 @@
       "description": "TVA sociale : cinq choses à savoir sur cette mesure controversée remise sur la table par François Hollande et Bruno Le Maire Les Echos",
       "source": "Les Echos",
       "published_at": "2026-08-28T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Qu’est-ce que la « TVA sociale », cette mesure défendue par les patrons qui revient dans les débats ? - Ouest-France",
@@ -359,7 +412,8 @@
       "description": "Qu’est-ce que la « TVA sociale », cette mesure défendue par les patrons qui revient dans les débats ? Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-08-28T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Pourquoi le Medef remet-il la TVA sociale sur la table ? - franceinfo",
@@ -367,7 +421,8 @@
       "description": "Pourquoi le Medef remet-il la TVA sociale sur la table ? franceinfo",
       "source": "franceinfo",
       "published_at": "2026-08-27T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Alors que \"25 restaurants ferment chaque jour en France\", le patron de l'UMIH Thierry Marx estime qu'une augmentation de la TVA serait \"une ligne rouge\" - BFM",
@@ -375,7 +430,8 @@
       "description": "Alors que \"25 restaurants ferment chaque jour en France\", le patron de l'UMIH Thierry Marx estime qu'une augmentation de la TVA serait \"une ligne rouge\" BFM",
       "source": "BFM",
       "published_at": "2026-08-27T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fribourg: condamnés pour 385'000 francs de matériel agricole volé - 20 Min",
@@ -383,7 +439,8 @@
       "description": "Fribourg: condamnés pour 385'000 francs de matériel agricole volé 20 Min",
       "source": "20 Min",
       "published_at": "2026-08-27T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Bruno Le Maire veut augmenter la TVA pour baisser les charges: ce que cela changerait pour votre portefeuille - RMC",
@@ -391,7 +448,8 @@
       "description": "Bruno Le Maire veut augmenter la TVA pour baisser les charges: ce que cela changerait pour votre portefeuille RMC",
       "source": "RMC",
       "published_at": "2026-08-26T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "[Podcasts] Une proposition pour la France : Bruno Le Maire veut augmenter la TVA pour baisser les charges - 26/08 - RMC",
@@ -399,7 +457,8 @@
       "description": "[Podcasts] Une proposition pour la France : Bruno Le Maire veut augmenter la TVA pour baisser les charges - 26/08 RMC",
       "source": "RMC",
       "published_at": "2026-08-26T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Société à Dubaï : frais Google et Meta, autoliquidation de la TVA française et justificatifs - Kohen Avocats",
@@ -407,7 +466,8 @@
       "description": "Société à Dubaï : frais Google et Meta, autoliquidation de la TVA française et justificatifs Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-08-26T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Une proposition pour la France - Augmenter la TVA pour baisser les charges? - RMC",
@@ -415,7 +475,8 @@
       "description": "Une proposition pour la France - Augmenter la TVA pour baisser les charges? RMC",
       "source": "RMC",
       "published_at": "2026-08-26T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Société à Dubaï en dropshipping : TVA française des colis importés de moins de 150 € et IOSS, que faire - Kohen Avocats",
@@ -423,7 +484,8 @@
       "description": "Société à Dubaï en dropshipping : TVA française des colis importés de moins de 150 € et IOSS, que faire Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-08-25T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Facturation électronique 2026 : ce que les Français de l’étranger doivent savoir - Lesfrancais.press",
@@ -431,7 +493,8 @@
       "description": "Facturation électronique 2026 : ce que les Français de l’étranger doivent savoir Lesfrancais.press",
       "source": "Lesfrancais.press",
       "published_at": "2026-08-25T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Société à Dubaï : Apple et Google prélèvent-ils la TVA d’un abonnement d’application en France - Kohen Avocats",
@@ -439,7 +502,8 @@
       "description": "Société à Dubaï : Apple et Google prélèvent-ils la TVA d’un abonnement d’application en France Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-08-24T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "« Réformer le financement de la protection sociale permettrait à la France de combiner solidarité, compétitivité et souveraineté » - Les Echos",
@@ -447,7 +511,8 @@
       "description": "« Réformer le financement de la protection sociale permettrait à la France de combiner solidarité, compétitivité et souveraineté » Les Echos",
       "source": "Les Echos",
       "published_at": "2026-08-23T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Société à Dubaï : comment réclamer le remboursement d’un crédit de TVA française refusé ? - Kohen Avocats",
@@ -455,7 +520,8 @@
       "description": "Société à Dubaï : comment réclamer le remboursement d’un crédit de TVA française refusé ? Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-08-21T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Créer une société à Dubaï avec un sous-traitant en France : TVA, établissement stable ou redressement - Kohen Avocats",
@@ -463,7 +529,8 @@
       "description": "Créer une société à Dubaï avec un sous-traitant en France : TVA, établissement stable ou redressement Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-08-21T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Créer une société à Dubaï et vendre à des particuliers en France : TVA, immatriculation et guichet OSS - Kohen Avocats",
@@ -471,7 +538,8 @@
       "description": "Créer une société à Dubaï et vendre à des particuliers en France : TVA, immatriculation et guichet OSS Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-08-19T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "État, fiscalité et finances publiques, navigation à vue : ces décisions qui ont coulé la France depuis 50 ans - Le Figaro",
@@ -479,7 +547,8 @@
       "description": "État, fiscalité et finances publiques, navigation à vue : ces décisions qui ont coulé la France depuis 50 ans Le Figaro",
       "source": "Le Figaro",
       "published_at": "2026-08-15T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Vols de 5 tracteurs John Deere : \"pourquoi viennent-ils voler des tracteurs agricoles en France ? À cause du laxisme des sanctions !\" - Vitisphere",
@@ -487,7 +556,8 @@
       "description": "Vols de 5 tracteurs John Deere : \"pourquoi viennent-ils voler des tracteurs agricoles en France ? À cause du laxisme des sanctions !\" Vitisphere",
       "source": "Vitisphere",
       "published_at": "2026-08-15T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Avec 19,14 de moyenne en BTS, le résident monégasque Théo Schellino sort major de toute l’Académie de Nice - Nice-Matin",
@@ -495,7 +565,8 @@
       "description": "Avec 19,14 de moyenne en BTS, le résident monégasque Théo Schellino sort major de toute l’Académie de Nice Nice-Matin",
       "source": "Nice-Matin",
       "published_at": "2026-08-06T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "À Lannion, ces passionnés de matériel agricole ancien organisent leur première fête pour « préserver ce patrimoine » - Ouest-France",
@@ -503,7 +574,8 @@
       "description": "À Lannion, ces passionnés de matériel agricole ancien organisent leur première fête pour « préserver ce patrimoine » Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "TVA sur l'électricité : si la France imitait Londres, les Français économiseraient en moyenne 170 € par an - JeChange",
@@ -511,7 +583,8 @@
       "description": "TVA sur l'électricité : si la France imitait Londres, les Français économiseraient en moyenne 170 € par an JeChange",
       "source": "JeChange",
       "published_at": "2026-07-21T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "L’OCDE appelle la France à repenser sa fiscalité pour redresser ses finances - Zoom Invest",
@@ -519,7 +592,8 @@
       "description": "L’OCDE appelle la France à repenser sa fiscalité pour redresser ses finances Zoom Invest",
       "source": "Zoom Invest",
       "published_at": "2026-07-21T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "« C’est la double peine » : comment la réglementation européenne et la fiscalité française font plonger le marché de l’automobile en France - Le Figaro",
@@ -527,7 +601,8 @@
       "description": "« C’est la double peine » : comment la réglementation européenne et la fiscalité française font plonger le marché de l’automobile en France Le Figaro",
       "source": "Le Figaro",
       "published_at": "2026-07-21T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "L’OCDE somme la France de refondre sa fiscalité - Actu-Juridique",
@@ -535,7 +610,8 @@
       "description": "L’OCDE somme la France de refondre sa fiscalité Actu-Juridique",
       "source": "Actu-Juridique",
       "published_at": "2026-07-20T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Incendie dans un élevage porcin en Mayenne : une cuve à fuel et du matériel agricole détruits - Ouest-France",
@@ -543,7 +619,8 @@
       "description": "Incendie dans un élevage porcin en Mayenne : une cuve à fuel et du matériel agricole détruits Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-07-17T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Bons de réduction : un fabricant non établi peut-il demander la restitution de la TVA ? - KPMG",
@@ -551,7 +628,8 @@
       "description": "Bons de réduction : un fabricant non établi peut-il demander la restitution de la TVA ? KPMG",
       "source": "KPMG",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Facturation électronique : enjeux et modalités pratiques pour les entreprises - Lefebvre Dalloz Compétences",
@@ -559,7 +637,8 @@
       "description": "Facturation électronique : enjeux et modalités pratiques pour les entreprises Lefebvre Dalloz Compétences",
       "source": "Lefebvre Dalloz Compétences",
       "published_at": "2026-07-01T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Epargne, retraite, fiscalité : France Invest interpelle les candidats à la présidentielle - Les Echos",
@@ -567,7 +646,8 @@
       "description": "Epargne, retraite, fiscalité : France Invest interpelle les candidats à la présidentielle Les Echos",
       "source": "Les Echos",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fraude à la TVA : le Parquet européen cible un réseau présumé de 26 sociétés en France - Anadolu Ajansı",
@@ -575,7 +655,8 @@
       "description": "Fraude à la TVA : le Parquet européen cible un réseau présumé de 26 sociétés en France Anadolu Ajansı",
       "source": "Anadolu Ajansı",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Canicules : le gouvernement mise sur une TVA réduite pour certaines pompes à chaleur - Effy | Rénovation énergétique",
@@ -583,7 +664,8 @@
       "description": "Canicules : le gouvernement mise sur une TVA réduite pour certaines pompes à chaleur Effy | Rénovation énergétique",
       "source": "Effy | Rénovation énergétique",
       "published_at": "2026-06-19T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Q&A pour tout savoir sur la fiscalité de TotalEnergies - TotalEnergies.com",
@@ -591,15 +673,8 @@
       "description": "Q&A pour tout savoir sur la fiscalité de TotalEnergies TotalEnergies.com",
       "source": "TotalEnergies.com",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
-    },
-    {
-      "title": "La commission des finances auditionne Patrick Pouyanné sur la fiscalité du groupe - Connaissance des Énergies",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlVTOW03Q212eXBfc0lkelhHQnFzM0xNUjZJWDRNNVRISC1KM3FKWU9CVGhVMWR0RHJrYmdoZGJQMnUwdGdkNmc3cmFqbkU5T3NCbXVHdUcxZHJVcWFXMGtRM0J2Sk1VSkZkNWE3OG1idWFGMVdRN0ZjYzFMTWJORnkteTBPcjQ2aGEwZHlrVUdwQU4zMmJCRzNJdVRGSk9nWU5HWHFvNng2VXdVUU5FWFk3bEE2NzZoUXd3djh2clFEamRqV1pZ?oc=5",
-      "description": "La commission des finances auditionne Patrick Pouyanné sur la fiscalité du groupe Connaissance des Énergies",
-      "source": "Connaissance des Énergies",
-      "published_at": "2026-06-17T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Non, la fiscalité et le travail ne sont pas les coûts les plus importants de l’industrie française - Alternatives économiques",
@@ -607,7 +682,8 @@
       "description": "Non, la fiscalité et le travail ne sont pas les coûts les plus importants de l’industrie française Alternatives économiques",
       "source": "Alternatives économiques",
       "published_at": "2026-06-15T18:27:41+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Avec leur mini-entreprise, ces étudiants de Maine-et-Loire sont champions de France - Ouest-France",
@@ -615,7 +691,8 @@
       "description": "Avec leur mini-entreprise, ces étudiants de Maine-et-Loire sont champions de France Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-06-12T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Fiscalité : la Cour des comptes dit non à toute suppression de la « niche Copé » prisée des grandes entreprises - Le Monde.fr",
@@ -623,7 +700,8 @@
       "description": "Fiscalité : la Cour des comptes dit non à toute suppression de la « niche Copé » prisée des grandes entreprises Le Monde.fr",
       "source": "Le Monde.fr",
       "published_at": "2026-06-09T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Jugeant la mesure coûteuse et inefficace, des experts déconseillent une baisse de la TVA sur les carburants - franceinfo",
@@ -631,7 +709,8 @@
       "description": "Jugeant la mesure coûteuse et inefficace, des experts déconseillent une baisse de la TVA sur les carburants franceinfo",
       "source": "franceinfo",
       "published_at": "2026-06-04T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "La France et son obsession pour la fiscalité financière - Contrepoints",
@@ -639,7 +718,8 @@
       "description": "La France et son obsession pour la fiscalité financière Contrepoints",
       "source": "Contrepoints",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "\"Nocif pour l'économie française\": l'économiste Gabriel Zucman estime que la TVA sociale \"n'a aucun sens, particulièrement dans le contexte actuel\" - BFM",
@@ -647,7 +727,8 @@
       "description": "\"Nocif pour l'économie française\": l'économiste Gabriel Zucman estime que la TVA sociale \"n'a aucun sens, particulièrement dans le contexte actuel\" BFM",
       "source": "BFM",
       "published_at": "2026-05-31T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Outils d’entraide et de solidarité, les Coopératives d’utilisation du matériel agricole comme lien social à Plabennec - Ouest-France",
@@ -655,7 +736,8 @@
       "description": "Outils d’entraide et de solidarité, les Coopératives d’utilisation du matériel agricole comme lien social à Plabennec Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-05-27T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Une grosse Fête des foins à venir pour les 20 ans de l’Association pour la sauvegarde du matériel agricole du Loir - Ouest-France",
@@ -663,7 +745,8 @@
       "description": "Une grosse Fête des foins à venir pour les 20 ans de l’Association pour la sauvegarde du matériel agricole du Loir Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-05-27T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Corrigé BTS CG 2026 épreuve E5 cas Stone&Stone à télécharger gratuitement - Compta Online",
@@ -671,7 +754,8 @@
       "description": "Corrigé BTS CG 2026 épreuve E5 cas Stone&Stone à télécharger gratuitement Compta Online",
       "source": "Compta Online",
       "published_at": "2026-05-22T14:27:54+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Carburants : baisser la TVA à 5,5%, une proposition contraire au droit européen - Factuel AFP",
@@ -679,7 +763,8 @@
       "description": "Carburants : baisser la TVA à 5,5%, une proposition contraire au droit européen Factuel AFP",
       "source": "Factuel AFP",
       "published_at": "2026-05-19T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "BTS 2026 : le sujet de l'épreuve de Mathématiques appliquées du BTS Comptabilité Gestion - Studyrama.com",
@@ -687,7 +772,8 @@
       "description": "BTS 2026 : le sujet de l'épreuve de Mathématiques appliquées du BTS Comptabilité Gestion Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2026-05-19T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Fiscalité : « N'y a-t-il personne en France pour souhaiter que les superprofits fassent des super investissements, des super salaires et des super patrimoines - Les Echos",
@@ -695,7 +781,8 @@
       "description": "Fiscalité : « N'y a-t-il personne en France pour souhaiter que les superprofits fassent des super investissements, des super salaires et des super patrimoines Les Echos",
       "source": "Les Echos",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "AIKO éligible à la TVA réduite de 5,5 % en France : Conformité validée selon les critères carbone stricts de l’Appel d’Offres PPE2 V2 - AIKO Website",
@@ -703,7 +790,8 @@
       "description": "AIKO éligible à la TVA réduite de 5,5 % en France : Conformité validée selon les critères carbone stricts de l’Appel d’Offres PPE2 V2 AIKO Website",
       "source": "AIKO Website",
       "published_at": "2026-05-08T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fiscalité des non-résidents - La France aux Pays-Bas",
@@ -711,7 +799,8 @@
       "description": "Fiscalité des non-résidents La France aux Pays-Bas",
       "source": "La France aux Pays-Bas",
       "published_at": "2026-05-01T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fiscalité du travail : la France toujours sur le podium des pays les plus taxés - Previssima",
@@ -719,7 +808,8 @@
       "description": "Fiscalité du travail : la France toujours sur le podium des pays les plus taxés Previssima",
       "source": "Previssima",
       "published_at": "2026-04-28T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fiscalité : pourquoi la France prélève encore plus que ses voisins européens - Boursorama",
@@ -727,7 +817,8 @@
       "description": "Fiscalité : pourquoi la France prélève encore plus que ses voisins européens Boursorama",
       "source": "Boursorama",
       "published_at": "2026-04-28T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Dates du BTS 2026 : épreuves écrites communes - digiSchool France",
@@ -735,7 +826,8 @@
       "description": "Dates du BTS 2026 : épreuves écrites communes digiSchool France",
       "source": "digiSchool France",
       "published_at": "2026-04-24T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Facturation électronique : ce que vous devez absolument savoir avant le 1er septembre 2026 - Les Echos Solutions",
@@ -743,7 +835,8 @@
       "description": "Facturation électronique : ce que vous devez absolument savoir avant le 1er septembre 2026 Les Echos Solutions",
       "source": "Les Echos Solutions",
       "published_at": "2026-04-21T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "BTS comptabilité et gestion : tout savoir sur cette formation - Le Figaro Etudiant",
@@ -751,7 +844,8 @@
       "description": "BTS comptabilité et gestion : tout savoir sur cette formation Le Figaro Etudiant",
       "source": "Le Figaro Etudiant",
       "published_at": "2026-04-21T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "TVA, matière première, marges des distributeurs… Comment se décomposent les prix des carburants à la pompe - franceinfo",
@@ -759,7 +853,8 @@
       "description": "TVA, matière première, marges des distributeurs… Comment se décomposent les prix des carburants à la pompe franceinfo",
       "source": "franceinfo",
       "published_at": "2026-04-17T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Inégalités économiques en France ? Entre partage de la valeur, la fiscalité et dépenses contraintes : où les situer - Groupe Caisse des Dépôts",
@@ -767,7 +862,8 @@
       "description": "Inégalités économiques en France ? Entre partage de la valeur, la fiscalité et dépenses contraintes : où les situer Groupe Caisse des Dépôts",
       "source": "Groupe Caisse des Dépôts",
       "published_at": "2026-04-14T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Les coopératives d’usage de matériel agricole, formidables outils de réduction des coûts - l'Opinion",
@@ -775,7 +871,8 @@
       "description": "Les coopératives d’usage de matériel agricole, formidables outils de réduction des coûts l'Opinion",
       "source": "l'Opinion",
       "published_at": "2026-04-13T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Les Cuma s’imposent comme « la mutualisation de matériel agricole » - Terre-net",
@@ -783,7 +880,8 @@
       "description": "Les Cuma s’imposent comme « la mutualisation de matériel agricole » Terre-net",
       "source": "Terre-net",
       "published_at": "2026-04-07T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Le groupe automobile de Willermin reprend la concession Claas Avignon - La France Agricole",
@@ -791,7 +889,8 @@
       "description": "Le groupe automobile de Willermin reprend la concession Claas Avignon La France Agricole",
       "source": "La France Agricole",
       "published_at": "2026-04-01T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "La baisse de la TVA sur l'essence \"est inefficace et coûteuse\", affirme Sébastien Lecornu devant l'Assemblée nationale - franceinfo",
@@ -799,7 +898,8 @@
       "description": "La baisse de la TVA sur l'essence \"est inefficace et coûteuse\", affirme Sébastien Lecornu devant l'Assemblée nationale franceinfo",
       "source": "franceinfo",
       "published_at": "2026-03-25T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "La Coopérative d’utilisation de matériel agricole de Saint-Lumine-de-Coutais envisage de construire un nouveau bâtiment - Ouest-France",
@@ -807,7 +907,8 @@
       "description": "La Coopérative d’utilisation de matériel agricole de Saint-Lumine-de-Coutais envisage de construire un nouveau bâtiment Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-03-22T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Carburant: 0.25€ de rabais en Italie, l'Espagne baisse la TVA... les pays de l'UE réagissent (pas la France) - RMC",
@@ -815,7 +916,8 @@
       "description": "Carburant: 0.25€ de rabais en Italie, l'Espagne baisse la TVA... les pays de l'UE réagissent (pas la France) RMC",
       "source": "RMC",
       "published_at": "2026-03-19T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Carburants et pouvoir d'achat : rendre 4,5 milliards de fiscalité aux Français ! - Fondation IFRAP",
@@ -823,7 +925,8 @@
       "description": "Carburants et pouvoir d'achat : rendre 4,5 milliards de fiscalité aux Français ! Fondation IFRAP",
       "source": "Fondation IFRAP",
       "published_at": "2026-03-17T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Loi de finances 2026 : mesures relatives à la TVA - Lefebvre Dalloz Compétences",
@@ -831,7 +934,8 @@
       "description": "Loi de finances 2026 : mesures relatives à la TVA Lefebvre Dalloz Compétences",
       "source": "Lefebvre Dalloz Compétences",
       "published_at": "2026-03-13T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Réforme facturation électronique : échéances 2026-2027 - kpmg.com",
@@ -839,7 +943,8 @@
       "description": "Réforme facturation électronique : échéances 2026-2027 kpmg.com",
       "source": "kpmg.com",
       "published_at": "2026-03-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Vrai ou faux. Guerre au Moyen-Orient : baisser la TVA sur les carburants de 20% à 5,5% coûterait-il vraiment 17 milliards d'euros aux finances publiques - franceinfo",
@@ -847,7 +952,8 @@
       "description": "Vrai ou faux. Guerre au Moyen-Orient : baisser la TVA sur les carburants de 20% à 5,5% coûterait-il vraiment 17 milliards d'euros aux finances publiques franceinfo",
       "source": "franceinfo",
       "published_at": "2026-03-11T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Une cinquantaine de pompiers mobilisés par l’incendie d’un atelier agricole à Vaiges - Ouest-France",
@@ -855,7 +961,8 @@
       "description": "Une cinquantaine de pompiers mobilisés par l’incendie d’un atelier agricole à Vaiges Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-03-10T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "« Sans ma cuma, je ne serais plus agriculteur », témoigne cet éleveur de Vendée - Ouest-France",
@@ -863,7 +970,8 @@
       "description": "« Sans ma cuma, je ne serais plus agriculteur », témoigne cet éleveur de Vendée Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-03-04T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "« L'histoire de la France se résume à une dépense publique qui ne cesse de croître et une fiscalité qui lui court après, sans parvenir à colmater les brèches » : l'impôt, une tragédie française - Les Echos",
@@ -871,7 +979,8 @@
       "description": "« L'histoire de la France se résume à une dépense publique qui ne cesse de croître et une fiscalité qui lui court après, sans parvenir à colmater les brèches » : l'impôt, une tragédie française Les Echos",
       "source": "Les Echos",
       "published_at": "2026-02-26T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Les 5 chiffres fous de la fiscalité française - Les Echos",
@@ -879,7 +988,8 @@
       "description": "Les 5 chiffres fous de la fiscalité française Les Echos",
       "source": "Les Echos",
       "published_at": "2026-02-26T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fraude à la TVA : Bercy lance le compte à rebours de la facturation électronique pour les entreprises - Les Echos",
@@ -887,7 +997,8 @@
       "description": "Fraude à la TVA : Bercy lance le compte à rebours de la facturation électronique pour les entreprises Les Echos",
       "source": "Les Echos",
       "published_at": "2026-02-25T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Prêt de matériel agricole, entraide, lien social : « L’esprit Cuma est essentiel » - Ouest-France",
@@ -895,7 +1006,8 @@
       "description": "Prêt de matériel agricole, entraide, lien social : « L’esprit Cuma est essentiel » Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-02-21T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "La France Agricole lance ses Grandes Occasions à Poussay - Web-agri.fr",
@@ -903,7 +1015,8 @@
       "description": "La France Agricole lance ses Grandes Occasions à Poussay Web-agri.fr",
       "source": "Web-agri.fr",
       "published_at": "2026-02-20T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Distribution. Le concessionnaire de matériel agricole Michel Odic rachète l'ancien QG d’Iberdrola à Pleudaniel - Ouest-France",
@@ -911,7 +1024,8 @@
       "description": "Distribution. Le concessionnaire de matériel agricole Michel Odic rachète l'ancien QG d’Iberdrola à Pleudaniel Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-02-20T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "La fiscalité des entreprises en France (2024) - Deloitte",
@@ -919,7 +1033,8 @@
       "description": "La fiscalité des entreprises en France (2024) Deloitte",
       "source": "Deloitte",
       "published_at": "2026-02-17T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "TVA: 3 ans de stagnation des recettes et d'erreurs de prévisions - Fondation IFRAP",
@@ -927,7 +1042,8 @@
       "description": "TVA: 3 ans de stagnation des recettes et d'erreurs de prévisions Fondation IFRAP",
       "source": "Fondation IFRAP",
       "published_at": "2026-02-17T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "« Le mystère » enfin résolu ? Voici pourquoi les recettes de TVA patinent - Ouest-France",
@@ -935,7 +1051,8 @@
       "description": "« Le mystère » enfin résolu ? Voici pourquoi les recettes de TVA patinent Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-02-16T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Poussay accueille un nouvel événement dédié au matériel agricole d’occasion - Matériel Agricole",
@@ -943,7 +1060,8 @@
       "description": "Poussay accueille un nouvel événement dédié au matériel agricole d’occasion Matériel Agricole",
       "source": "Matériel Agricole",
       "published_at": "2026-02-16T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "9 milliards de moins que prévu: pourquoi la TVA ne progresse presque pas en France? - BFM",
@@ -951,7 +1069,8 @@
       "description": "9 milliards de moins que prévu: pourquoi la TVA ne progresse presque pas en France? BFM",
       "source": "BFM",
       "published_at": "2026-02-13T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Le mystère de la TVA perdue enfin résolu - Les Echos",
@@ -959,7 +1078,8 @@
       "description": "Le mystère de la TVA perdue enfin résolu Les Echos",
       "source": "Les Echos",
       "published_at": "2026-02-12T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Fiscalité : les mesures phares de la loi de finances pour 2026 - TGS France",
@@ -967,7 +1087,8 @@
       "description": "Fiscalité : les mesures phares de la loi de finances pour 2026 TGS France",
       "source": "TGS France",
       "published_at": "2026-02-12T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Rocheservière. Depuis 50 ans, BPM Agri est spécialiste du matériel agricole - Ouest-France",
@@ -975,7 +1096,8 @@
       "description": "Rocheservière. Depuis 50 ans, BPM Agri est spécialiste du matériel agricole Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-02-03T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Combien rapporte la TVA à la France ? - L'Essentiel de l'Éco",
@@ -983,7 +1105,8 @@
       "description": "Combien rapporte la TVA à la France ? L'Essentiel de l'Éco",
       "source": "L'Essentiel de l'Éco",
       "published_at": "2026-01-27T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Bilan de 40 ans d'impôt sur la fortune en France: un impact négatif sur la croissance et les comptes publics - Rexecode",
@@ -991,7 +1114,8 @@
       "description": "Bilan de 40 ans d'impôt sur la fortune en France: un impact négatif sur la croissance et les comptes publics Rexecode",
       "source": "Rexecode",
       "published_at": "2026-01-23T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Le crédit d’impôt pour les Cuma déclenche la colère des ETA - Terre-net",
@@ -999,7 +1123,8 @@
       "description": "Le crédit d’impôt pour les Cuma déclenche la colère des ETA Terre-net",
       "source": "Terre-net",
       "published_at": "2026-01-23T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Convention d'objectifs et de performance de France Compétences 2026-2028 : nouveautés annoncées sur la comptabilité analytique et les NPEC - Centre Inffo",
@@ -1007,7 +1132,8 @@
       "description": "Convention d'objectifs et de performance de France Compétences 2026-2028 : nouveautés annoncées sur la comptabilité analytique et les NPEC Centre Inffo",
       "source": "Centre Inffo",
       "published_at": "2026-01-22T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Un incendie détruit un bâtiment contenant du matériel agricole dans cette petite commune près de Flers - Ouest-France",
@@ -1015,7 +1141,8 @@
       "description": "Un incendie détruit un bâtiment contenant du matériel agricole dans cette petite commune près de Flers Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-01-22T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Comment ramener la fiscalité française à la moyenne européenne ? - Les Echos",
@@ -1023,7 +1150,8 @@
       "description": "Comment ramener la fiscalité française à la moyenne européenne ? Les Echos",
       "source": "Les Echos",
       "published_at": "2026-01-21T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Facturation électronique : c’est pour bientôt ! - Entreprendre Service Public",
@@ -1031,7 +1159,8 @@
       "description": "Facturation électronique : c’est pour bientôt ! Entreprendre Service Public",
       "source": "Entreprendre Service Public",
       "published_at": "2026-01-19T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Les constructeurs de tracteurs dans le viseur de l’Autorité de la concurrence - La France Agricole",
@@ -1039,7 +1168,8 @@
       "description": "Les constructeurs de tracteurs dans le viseur de l’Autorité de la concurrence La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-12-19T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Gueudet Agri vend 12 machines haut de gamme d’occasion aux enchères - Terre-net",
@@ -1047,7 +1177,8 @@
       "description": "Gueudet Agri vend 12 machines haut de gamme d’occasion aux enchères Terre-net",
       "source": "Terre-net",
       "published_at": "2025-12-17T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Le groupe automobile Emil Frey monte sa filiale agricole - La France Agricole",
@@ -1055,7 +1186,8 @@
       "description": "Le groupe automobile Emil Frey monte sa filiale agricole La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-12-16T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Concessionnaires agricoles – Quelles perspectives sur l’évolution du marché du matériel agricole en 2026 ? - Réussir",
@@ -1063,7 +1195,8 @@
       "description": "Concessionnaires agricoles – Quelles perspectives sur l’évolution du marché du matériel agricole en 2026 ? Réussir",
       "source": "Réussir",
       "published_at": "2025-12-14T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "TVA : quels sont les taux de votre quotidien ? - economie.gouv.fr",
@@ -1071,7 +1204,8 @@
       "description": "TVA : quels sont les taux de votre quotidien ? economie.gouv.fr",
       "source": "economie.gouv.fr",
       "published_at": "2025-12-11T17:47:55+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "« Les concessionnaires jouent les banquiers pour les agriculteurs » - La France Agricole",
@@ -1079,7 +1213,8 @@
       "description": "« Les concessionnaires jouent les banquiers pour les agriculteurs » La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-12-11T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Franchise en base de TVA : les dernières actualités - TGS France",
@@ -1087,7 +1222,8 @@
       "description": "Franchise en base de TVA : les dernières actualités TGS France",
       "source": "TGS France",
       "published_at": "2025-12-05T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité"
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Trois tracteurs volés dans un magasin de matériel agricole en Deux-Sèvres - Ouest-France",
@@ -1095,7 +1231,8 @@
       "description": "Trois tracteurs volés dans un magasin de matériel agricole en Deux-Sèvres Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-12-02T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "DeLaval Glairon-Mondet s’étend avec la reprise d’Agri-Élevage Plus, rebaptisé Ain Élevage - Web-agri.fr",
@@ -1103,7 +1240,8 @@
       "description": "DeLaval Glairon-Mondet s’étend avec la reprise d’Agri-Élevage Plus, rebaptisé Ain Élevage Web-agri.fr",
       "source": "Web-agri.fr",
       "published_at": "2025-11-24T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Comment les vendeurs de tracteurs sont devenus des géants du matériel agricole - Ouest-France",
@@ -1111,7 +1249,8 @@
       "description": "Comment les vendeurs de tracteurs sont devenus des géants du matériel agricole Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-11-11T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "INFO OUEST-FRANCE. En Mayenne, les cambrioleurs du magasin de matériel agricole interrompus par la police - Ouest-France",
@@ -1119,7 +1258,8 @@
       "description": "INFO OUEST-FRANCE. En Mayenne, les cambrioleurs du magasin de matériel agricole interrompus par la police Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-11-07T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Cédric Stoehr : de champion de labour à revendeur de matériel agricole - WikiAgri",
@@ -1127,7 +1267,8 @@
       "description": "Cédric Stoehr : de champion de labour à revendeur de matériel agricole WikiAgri",
       "source": "WikiAgri",
       "published_at": "2025-10-28T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Un magasin de matériel agricole peaufine son intérieur avant une ouverture à Bressuire - Ouest-France",
@@ -1135,7 +1276,8 @@
       "description": "Un magasin de matériel agricole peaufine son intérieur avant une ouverture à Bressuire Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-10-27T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "BTS 2026 : voici les dates des épreuves qui auront lieu en mai - Le Parisien",
@@ -1143,7 +1285,8 @@
       "description": "BTS 2026 : voici les dates des épreuves qui auront lieu en mai Le Parisien",
       "source": "Le Parisien",
       "published_at": "2025-10-09T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "60 ans après, cette coopérative d’utilisation de matériel agricole à Langon est toujours aussi utile - Ouest-France",
@@ -1151,7 +1294,8 @@
       "description": "60 ans après, cette coopérative d’utilisation de matériel agricole à Langon est toujours aussi utile Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-10-01T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "« C’était trop tard » : un hangar et du matériel agricole détruits par un incendie en Côtes-d’Armor - Ouest-France",
@@ -1159,7 +1303,8 @@
       "description": "« C’était trop tard » : un hangar et du matériel agricole détruits par un incendie en Côtes-d’Armor Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-09-29T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "« Il faut mutualiser le matériel agricole » : à 36 ans, cette éleveuse porte la voix des Cuma - Ouest-France",
@@ -1167,7 +1312,8 @@
       "description": "« Il faut mutualiser le matériel agricole » : à 36 ans, cette éleveuse porte la voix des Cuma Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-09-24T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Le concessionnaire John Deere BPM ouvre sa filiale Irrigation - La France Agricole",
@@ -1175,7 +1321,8 @@
       "description": "Le concessionnaire John Deere BPM ouvre sa filiale Irrigation La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-08-29T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Deux frères, dont un arrêté dans la Manche, soupçonnés de nombreux vols de matériel agricole en Europe - Actu.fr",
@@ -1183,7 +1330,8 @@
       "description": "Deux frères, dont un arrêté dans la Manche, soupçonnés de nombreux vols de matériel agricole en Europe Actu.fr",
       "source": "Actu.fr",
       "published_at": "2025-08-13T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Des agriculteurs piégés par la liquidation du concessionnaire breton SDMA - La France Agricole",
@@ -1191,7 +1339,8 @@
       "description": "Des agriculteurs piégés par la liquidation du concessionnaire breton SDMA La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-08-01T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Rocha Agri devient le concessionnaire exclusif Massey Ferguson dans la Meuse - FARM Connexion",
@@ -1199,7 +1348,8 @@
       "description": "Rocha Agri devient le concessionnaire exclusif Massey Ferguson dans la Meuse FARM Connexion",
       "source": "FARM Connexion",
       "published_at": "2025-07-23T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "BTS CG : calcul de la moyenne et consultation des notes - Compta Online",
@@ -1207,7 +1357,8 @@
       "description": "BTS CG : calcul de la moyenne et consultation des notes Compta Online",
       "source": "Compta Online",
       "published_at": "2025-07-20T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Quelles sont les dispenses du DCG avec un BTS CG ? - Compta Online",
@@ -1215,7 +1366,8 @@
       "description": "Quelles sont les dispenses du DCG avec un BTS CG ? Compta Online",
       "source": "Compta Online",
       "published_at": "2025-07-19T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Deux gérants d’un commerce de matériel agricole de La Souterraine jugés pour usage de faux et escroquerie - ici.fr",
@@ -1223,7 +1375,8 @@
       "description": "Deux gérants d’un commerce de matériel agricole de La Souterraine jugés pour usage de faux et escroquerie ici.fr",
       "source": "ici.fr",
       "published_at": "2025-07-17T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Les agriculteurs sont-ils trop rudes avec leurs concessionnaires ? - La France Agricole",
@@ -1231,7 +1384,8 @@
       "description": "Les agriculteurs sont-ils trop rudes avec leurs concessionnaires ? La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-07-03T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Ils sont soupçonnés d’avoir volé et vendu du matériel agricole à plus de 2 000 km d’Angers - Ouest-France",
@@ -1239,7 +1393,8 @@
       "description": "Ils sont soupçonnés d’avoir volé et vendu du matériel agricole à plus de 2 000 km d’Angers Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-07-02T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Le constructeur de matériel agricole Kuhn veut fermer son usine de Chaumes-en-Retz - L'Usine Nouvelle",
@@ -1247,7 +1402,8 @@
       "description": "Le constructeur de matériel agricole Kuhn veut fermer son usine de Chaumes-en-Retz L'Usine Nouvelle",
       "source": "L'Usine Nouvelle",
       "published_at": "2025-06-19T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "« L’agriculteur cherche la disponibilité et la compétence » selon ce concessionnaire quinquagénaire - Ouest-France",
@@ -1255,7 +1411,8 @@
       "description": "« L’agriculteur cherche la disponibilité et la compétence » selon ce concessionnaire quinquagénaire Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-06-11T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Corrigé BTS CG 2025 E5 Cas BeeHappy à télécharger - Compta Online",
@@ -1263,7 +1420,8 @@
       "description": "Corrigé BTS CG 2025 E5 Cas BeeHappy à télécharger Compta Online",
       "source": "Compta Online",
       "published_at": "2025-05-23T12:47:22+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Les sujets et corrigés de l'épreuve de Traitement et contrôle des opérations comptables, fiscales et sociales du BTS Comptabilité Gestion 2025 - Studyrama.com",
@@ -1271,7 +1429,8 @@
       "description": "Les sujets et corrigés de l'épreuve de Traitement et contrôle des opérations comptables, fiscales et sociales du BTS Comptabilité Gestion 2025 Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2025-05-19T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Cette société creuse son sillon dans l’achat et la revente de matériel agricole et BTP - Ouest-France",
@@ -1279,7 +1438,8 @@
       "description": "Cette société creuse son sillon dans l’achat et la revente de matériel agricole et BTP Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-05-16T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Les sujets et corrigés de l’épreuve de Mathématiques du BTS Comptabilité Gestion 2025 - Studyrama.com",
@@ -1287,7 +1447,8 @@
       "description": "Les sujets et corrigés de l’épreuve de Mathématiques du BTS Comptabilité Gestion 2025 Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2025-05-14T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Les prix du matériel agricole ne flambent plus - Terre-net",
@@ -1295,7 +1456,8 @@
       "description": "Les prix du matériel agricole ne flambent plus Terre-net",
       "source": "Terre-net",
       "published_at": "2025-05-13T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "«Nés dans les tracteurs», ces Finistériens ont créé une asso pour sauver le vieux matériel agricole - Ouest-France",
@@ -1303,7 +1465,8 @@
       "description": "«Nés dans les tracteurs», ces Finistériens ont créé une asso pour sauver le vieux matériel agricole Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-05-07T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Le distributeur de matériel agricole T3M veut passer le cap des 200 millions d’euros de chiffre d’affaires - Le Journal des Entreprises",
@@ -1311,7 +1474,8 @@
       "description": "Le distributeur de matériel agricole T3M veut passer le cap des 200 millions d’euros de chiffre d’affaires Le Journal des Entreprises",
       "source": "Le Journal des Entreprises",
       "published_at": "2025-05-02T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "La demande en matériel agricole progresse de 50 % en début d’année 2025 - WikiAgri",
@@ -1319,7 +1483,8 @@
       "description": "La demande en matériel agricole progresse de 50 % en début d’année 2025 WikiAgri",
       "source": "WikiAgri",
       "published_at": "2025-04-24T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Matériel agricole : Carré est placé en redressement judiciaire - La France Agricole",
@@ -1327,7 +1492,8 @@
       "description": "Matériel agricole : Carré est placé en redressement judiciaire La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-04-23T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Les grands groupes de l’automobile redessinent la distribution agricole - La France Agricole",
@@ -1335,7 +1501,8 @@
       "description": "Les grands groupes de l’automobile redessinent la distribution agricole La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-04-23T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Les concessions familiales changent de dimension - La France Agricole",
@@ -1343,7 +1510,8 @@
       "description": "Les concessions familiales changent de dimension La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-04-23T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Au lycée Europe, des élèves de première année aident leurs aînés à décrocher un stage à Cholet - Ouest-France",
@@ -1351,7 +1519,8 @@
       "description": "Au lycée Europe, des élèves de première année aident leurs aînés à décrocher un stage à Cholet Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-03-25T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Se former en Charente : le BTS comptabilité-gestion ouvre sur un secteur porteur - Sud Ouest",
@@ -1359,7 +1528,8 @@
       "description": "Se former en Charente : le BTS comptabilité-gestion ouvre sur un secteur porteur Sud Ouest",
       "source": "Sud Ouest",
       "published_at": "2025-03-14T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "T3M, spécialiste du machinisme agricole, rachète Occitaine Agri - La Gazette du Midi",
@@ -1367,7 +1537,8 @@
       "description": "T3M, spécialiste du machinisme agricole, rachète Occitaine Agri La Gazette du Midi",
       "source": "La Gazette du Midi",
       "published_at": "2025-03-14T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Matériel agricole : Quelles sont les clés pour en réussir l’utilisation en copropriété ? - Réussir",
@@ -1375,7 +1546,8 @@
       "description": "Matériel agricole : Quelles sont les clés pour en réussir l’utilisation en copropriété ? Réussir",
       "source": "Réussir",
       "published_at": "2025-03-05T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Le groupe Emil Frey France veut renforcer son activité agricole - Auto Infos",
@@ -1383,7 +1555,8 @@
       "description": "Le groupe Emil Frey France veut renforcer son activité agricole Auto Infos",
       "source": "Auto Infos",
       "published_at": "2025-02-24T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Le groupe Emil Frey reprend le groupe Douillet, concessionnaire Case IH et New Holland - Réussir",
@@ -1391,7 +1564,8 @@
       "description": "Le groupe Emil Frey reprend le groupe Douillet, concessionnaire Case IH et New Holland Réussir",
       "source": "Réussir",
       "published_at": "2025-02-24T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Près d’un millier de Coopératives d’utilisation du matériel agricole dans les Pays de la Loire - Ouest-France",
@@ -1399,7 +1573,8 @@
       "description": "Près d’un millier de Coopératives d’utilisation du matériel agricole dans les Pays de la Loire Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-02-11T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Matériel agricole : le désherbage au Kvick-Finn en démonstration - Ouest-France",
@@ -1407,7 +1582,8 @@
       "description": "Matériel agricole : le désherbage au Kvick-Finn en démonstration Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-01-28T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Lons-le-Saunier. Le BTS comptabilité gestion sera bien maintenu au lycée Jean-Michel - Le Progrès",
@@ -1415,7 +1591,8 @@
       "description": "Lons-le-Saunier. Le BTS comptabilité gestion sera bien maintenu au lycée Jean-Michel Le Progrès",
       "source": "Le Progrès",
       "published_at": "2025-01-22T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Matériel agricole. Le japonais Kubota parie sur le savoir-faire de sa filiale vendéenne Kverneland - Ouest-France",
@@ -1423,7 +1600,8 @@
       "description": "Matériel agricole. Le japonais Kubota parie sur le savoir-faire de sa filiale vendéenne Kverneland Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-01-15T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Déméterre devient concessionnaire Massey Ferguson - La France Agricole",
@@ -1431,7 +1609,8 @@
       "description": "Déméterre devient concessionnaire Massey Ferguson La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-01-10T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "A quoi ressemble le matériel agricole chinois ? - Matériel Agricole",
@@ -1439,7 +1618,8 @@
       "description": "A quoi ressemble le matériel agricole chinois ? Matériel Agricole",
       "source": "Matériel Agricole",
       "published_at": "2025-01-08T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "« C’est une question de compétitivité » : l’appel des cuma à consommer moins de matériel agricole - Ouest-France",
@@ -1447,7 +1627,8 @@
       "description": "« C’est une question de compétitivité » : l’appel des cuma à consommer moins de matériel agricole Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-01-07T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Lons-le-Saunier. Le BTS comptabilité-gestion du lycée Jean-Michel est-il menacé ? - Le Progrès",
@@ -1455,7 +1636,8 @@
       "description": "Lons-le-Saunier. Le BTS comptabilité-gestion du lycée Jean-Michel est-il menacé ? Le Progrès",
       "source": "Le Progrès",
       "published_at": "2024-10-17T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Salon du machinisme agricole : le Sima revient en février 2026 - La France Agricole",
@@ -1463,7 +1645,8 @@
       "description": "Salon du machinisme agricole : le Sima revient en février 2026 La France Agricole",
       "source": "La France Agricole",
       "published_at": "2024-09-27T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Décret exécutif sur la réglementation de l'importation de matériel agricole et de production usagé ou d'occasion - Team France Export",
@@ -1471,7 +1654,8 @@
       "description": "Décret exécutif sur la réglementation de l'importation de matériel agricole et de production usagé ou d'occasion Team France Export",
       "source": "Team France Export",
       "published_at": "2024-08-30T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Le matériel agricole animera la fête de la Moisson jeudi 15 août à Saint-Denis-de-Gastines - Ouest-France",
@@ -1479,7 +1663,8 @@
       "description": "Le matériel agricole animera la fête de la Moisson jeudi 15 août à Saint-Denis-de-Gastines Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-08-12T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "La coopérative d’utilisation du matériel agricole fête ses 85 ans - Ouest-France",
@@ -1487,7 +1672,8 @@
       "description": "La coopérative d’utilisation du matériel agricole fête ses 85 ans Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-08-06T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "En Mayenne, le système des Cumas, le prêt de matériel agricole, est de plus en plus vital pour les agriculteurs - ici.fr",
@@ -1495,7 +1681,8 @@
       "description": "En Mayenne, le système des Cumas, le prêt de matériel agricole, est de plus en plus vital pour les agriculteurs ici.fr",
       "source": "ici.fr",
       "published_at": "2024-08-05T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Dousset Matelin fête ses 100 ans de partenariat avec Claas - Terre-net",
@@ -1503,7 +1690,8 @@
       "description": "Dousset Matelin fête ses 100 ans de partenariat avec Claas Terre-net",
       "source": "Terre-net",
       "published_at": "2024-07-18T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Corrigé BTS CG 2024 E41 Cas Biscuiterie Gwen Malo à télécharger - Compta Online",
@@ -1511,7 +1699,8 @@
       "description": "Corrigé BTS CG 2024 E41 Cas Biscuiterie Gwen Malo à télécharger Compta Online",
       "source": "Compta Online",
       "published_at": "2024-05-22T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "À Mellac, la coopérative d’utilisation de matériel agricole a fêté ses 60 ans - Ouest-France",
@@ -1519,7 +1708,8 @@
       "description": "À Mellac, la coopérative d’utilisation de matériel agricole a fêté ses 60 ans Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-05-19T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Les sujets et corrigés de l'épreuve de Mathématiques du BTS Comptabilité Gestion 2024 sont disponibles ! - Studyrama.com",
@@ -1527,7 +1717,8 @@
       "description": "Les sujets et corrigés de l'épreuve de Mathématiques du BTS Comptabilité Gestion 2024 sont disponibles ! Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2024-05-14T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "« Beaucoup viennent rêver » : la vente aux enchères de matériel agricole a attiré la foule à Vion - Ouest-France",
@@ -1535,7 +1726,8 @@
       "description": "« Beaucoup viennent rêver » : la vente aux enchères de matériel agricole a attiré la foule à Vion Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-04-11T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Vente aux enchères : le vieux matériel agricole de ce Sarthois a attiré un monde fou chez lui - Ouest-France",
@@ -1543,7 +1735,8 @@
       "description": "Vente aux enchères : le vieux matériel agricole de ce Sarthois a attiré un monde fou chez lui Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-04-10T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Des tracteurs et du matériel agricole anciens vendus aux enchères - Ouest-France",
@@ -1551,7 +1744,8 @@
       "description": "Des tracteurs et du matériel agricole anciens vendus aux enchères Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-04-09T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Classement 2024 des meilleurs BTS comptabilité-gestion - L'Etudiant",
@@ -1559,7 +1753,8 @@
       "description": "Classement 2024 des meilleurs BTS comptabilité-gestion L'Etudiant",
       "source": "L'Etudiant",
       "published_at": "2024-02-29T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Grand Est - Farminove et Agrinove forment le plus gros concessionnaire Case IH de France et d’Europe - www.reussir.fr",
@@ -1567,7 +1762,8 @@
       "description": "Grand Est - Farminove et Agrinove forment le plus gros concessionnaire Case IH de France et d’Europe www.reussir.fr",
       "source": "www.reussir.fr",
       "published_at": "2024-02-21T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "BTS Professions Immobilières et BTS Comptabilité Gestion : l'ESPI élargit son offre de formation - Studyrama.com",
@@ -1575,7 +1771,8 @@
       "description": "BTS Professions Immobilières et BTS Comptabilité Gestion : l'ESPI élargit son offre de formation Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2024-02-09T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Cette entreprise bretonne imagine des balises GPS pour retrouver le matériel agricole volé - Ouest-France",
@@ -1583,7 +1780,8 @@
       "description": "Cette entreprise bretonne imagine des balises GPS pour retrouver le matériel agricole volé Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-02-05T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "L’entreprise Scar-Le Goff, spécialiste du matériel agricole à Loudéac - Ouest-France",
@@ -1591,7 +1789,8 @@
       "description": "L’entreprise Scar-Le Goff, spécialiste du matériel agricole à Loudéac Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-01-09T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Matériel agricole. Le groupe Claas enregistre une forte hausse de son activité - Ouest-France",
@@ -1599,7 +1798,8 @@
       "description": "Matériel agricole. Le groupe Claas enregistre une forte hausse de son activité Ouest-France",
       "source": "Ouest-France",
       "published_at": "2023-12-18T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Les Coopératives d’utilisation de matériel agricole s’adaptent aux moissons tardives à Saint-Lô - Ouest-France",
@@ -1607,7 +1807,8 @@
       "description": "Les Coopératives d’utilisation de matériel agricole s’adaptent aux moissons tardives à Saint-Lô Ouest-France",
       "source": "Ouest-France",
       "published_at": "2023-08-20T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "À Petosse, la Coopérative d’utilisation de matériel agricole fête ses 60 ans - Ouest-France",
@@ -1615,7 +1816,8 @@
       "description": "À Petosse, la Coopérative d’utilisation de matériel agricole fête ses 60 ans Ouest-France",
       "source": "Ouest-France",
       "published_at": "2023-06-14T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "À Petosse, la Coopérative d’utilisation de matériel agricole fête ses 60 ans - - La Roche sur Yon.maville.com",
@@ -1623,7 +1825,8 @@
       "description": "À Petosse, la Coopérative d’utilisation de matériel agricole fête ses 60 ans - La Roche sur Yon.maville.com",
       "source": "- La Roche sur Yon.maville.com",
       "published_at": "2023-06-14T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Corrigé BTS CG 2022 E41 cas LAMBALLE Nouvelle Calédonie à télécharger - Compta Online",
@@ -1631,7 +1834,8 @@
       "description": "Corrigé BTS CG 2022 E41 cas LAMBALLE Nouvelle Calédonie à télécharger Compta Online",
       "source": "Compta Online",
       "published_at": "2023-06-05T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Corrigé BTS CG 2023 E41 Cas SEMAB à télécharger - Compta Online",
@@ -1639,7 +1843,8 @@
       "description": "Corrigé BTS CG 2023 E41 Cas SEMAB à télécharger Compta Online",
       "source": "Compta Online",
       "published_at": "2023-05-24T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "BTS : les coefficients par BTS et par matière - digiSchool France",
@@ -1647,7 +1852,8 @@
       "description": "BTS : les coefficients par BTS et par matière digiSchool France",
       "source": "digiSchool France",
       "published_at": "2023-05-15T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Sujet et corrigé Mathématiques - BTS Comptabilité Gestion - Studyrama.com",
@@ -1655,7 +1861,8 @@
       "description": "Sujet et corrigé Mathématiques - BTS Comptabilité Gestion Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2023-05-11T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Les dates du BTS CG 2025 - Compta Online",
@@ -1663,7 +1870,8 @@
       "description": "Les dates du BTS CG 2025 Compta Online",
       "source": "Compta Online",
       "published_at": "2023-02-28T21:09:46+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Blosville. Arnaud, 18 ans, le surdoué de la maintenance de matériel agricole - Ouest-France",
@@ -1671,7 +1879,8 @@
       "description": "Blosville. Arnaud, 18 ans, le surdoué de la maintenance de matériel agricole Ouest-France",
       "source": "Ouest-France",
       "published_at": "2023-02-13T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Le BTS comptabilité-gestion du lycée Margueritte de Verdun est menacé de fermeture - La Gazette France",
@@ -1679,7 +1888,8 @@
       "description": "Le BTS comptabilité-gestion du lycée Margueritte de Verdun est menacé de fermeture La Gazette France",
       "source": "La Gazette France",
       "published_at": "2023-02-06T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Verdun : mobilisation contre la fermeture du BTS Comptabilité-Gestion du lycée Margueritte - Actu.fr",
@@ -1687,7 +1897,8 @@
       "description": "Verdun : mobilisation contre la fermeture du BTS Comptabilité-Gestion du lycée Margueritte Actu.fr",
       "source": "Actu.fr",
       "published_at": "2023-02-01T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Matériel agricole - La France Agricole",
@@ -1695,7 +1906,8 @@
       "description": "Matériel agricole La France Agricole",
       "source": "La France Agricole",
       "published_at": "2023-01-17T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Manutention et chargement dans le matériel agricole : quoi de neuf ? - Ouest-France",
@@ -1703,7 +1915,8 @@
       "description": "Manutention et chargement dans le matériel agricole : quoi de neuf ? Ouest-France",
       "source": "Ouest-France",
       "published_at": "2023-01-15T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "MÂCON - Lycée Lamartine : Un stage dating pour les BTS Comptabilité-Gestion, une première ! - Macon Infos",
@@ -1711,7 +1924,8 @@
       "description": "MÂCON - Lycée Lamartine : Un stage dating pour les BTS Comptabilité-Gestion, une première ! Macon Infos",
       "source": "Macon Infos",
       "published_at": "2022-11-08T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Mâcon. Au lycée Lamartine, un stage-dating pour les BTS comptabilité-gestion - Le JSL",
@@ -1719,7 +1933,8 @@
       "description": "Mâcon. Au lycée Lamartine, un stage-dating pour les BTS comptabilité-gestion Le JSL",
       "source": "Le JSL",
       "published_at": "2022-11-08T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Corrigé BTS CG 2021 E41 étude de cas à télécharger - Compta Online",
@@ -1727,7 +1942,8 @@
       "description": "Corrigé BTS CG 2021 E41 étude de cas à télécharger Compta Online",
       "source": "Compta Online",
       "published_at": "2022-11-01T20:27:05+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Colère des enseignants face à la probable fermeture d'un BTS à Genevoix à Bressuire - lanouvellerepublique.fr",
@@ -1735,7 +1951,8 @@
       "description": "Colère des enseignants face à la probable fermeture d'un BTS à Genevoix à Bressuire lanouvellerepublique.fr",
       "source": "lanouvellerepublique.fr",
       "published_at": "2022-10-07T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Dispenses du DCG 2026 : liste complète des épreuves dispensées par diplôme - Compta Online",
@@ -1743,7 +1960,8 @@
       "description": "Dispenses du DCG 2026 : liste complète des épreuves dispensées par diplôme Compta Online",
       "source": "Compta Online",
       "published_at": "2022-07-25T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Guise : 9e édition du salon régional de matériel agricole pour le grou ... - La Gazette France",
@@ -1751,7 +1969,8 @@
       "description": "Guise : 9e édition du salon régional de matériel agricole pour le grou ... La Gazette France",
       "source": "La Gazette France",
       "published_at": "2022-06-24T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Longué-Jumelles. La Coopérative d’utilisateurs de matériel agricole a 40 ans - Ouest-France",
@@ -1759,7 +1978,8 @@
       "description": "Longué-Jumelles. La Coopérative d’utilisateurs de matériel agricole a 40 ans Ouest-France",
       "source": "Ouest-France",
       "published_at": "2022-06-22T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Les épreuves du BTS CG 2025 : détail des épreuves et calendrier des examens - Compta Online",
@@ -1767,7 +1987,8 @@
       "description": "Les épreuves du BTS CG 2025 : détail des épreuves et calendrier des examens Compta Online",
       "source": "Compta Online",
       "published_at": "2022-06-19T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Gennes-Longuefuye. Romet, l’entreprise familiale spécialiste du matériel agricole, passe la main - Ouest-France",
@@ -1775,7 +1996,8 @@
       "description": "Gennes-Longuefuye. Romet, l’entreprise familiale spécialiste du matériel agricole, passe la main Ouest-France",
       "source": "Ouest-France",
       "published_at": "2022-06-09T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Sujet BTS CG 2026 : annales et corrigés à télécharger gratuitement - Compta Online",
@@ -1783,7 +2005,8 @@
       "description": "Sujet BTS CG 2026 : annales et corrigés à télécharger gratuitement Compta Online",
       "source": "Compta Online",
       "published_at": "2022-05-25T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Résultats BTS CG : consulter ses notes et calculer sa moyenne - Compta Online",
@@ -1791,7 +2014,8 @@
       "description": "Résultats BTS CG : consulter ses notes et calculer sa moyenne Compta Online",
       "source": "Compta Online",
       "published_at": "2022-04-20T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "BTS CG : débouchés, formations et salaires - Compta Online",
@@ -1799,7 +2023,8 @@
       "description": "BTS CG : débouchés, formations et salaires Compta Online",
       "source": "Compta Online",
       "published_at": "2022-04-03T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Tracteurs les plus vendus en France en 2021 - Terre-net",
@@ -1807,7 +2032,8 @@
       "description": "Tracteurs les plus vendus en France en 2021 Terre-net",
       "source": "Terre-net",
       "published_at": "2022-01-11T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "L’entreprise de matériel agricole Hiliade équipements s’implante à Pacé - Ouest-France",
@@ -1815,7 +2041,8 @@
       "description": "L’entreprise de matériel agricole Hiliade équipements s’implante à Pacé Ouest-France",
       "source": "Ouest-France",
       "published_at": "2021-12-22T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Bretagne. Avec son « Bon Coin des agriculteurs », il revend le matériel qui dort dans les fermes - Ouest-France",
@@ -1823,7 +2050,8 @@
       "description": "Bretagne. Avec son « Bon Coin des agriculteurs », il revend le matériel qui dort dans les fermes Ouest-France",
       "source": "Ouest-France",
       "published_at": "2021-10-14T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Alençon : au lycée Marguerite-de-Navarre, les anciens élèves devenus comptables parlent aux étudiants - Actu.fr",
@@ -1831,7 +2059,8 @@
       "description": "Alençon : au lycée Marguerite-de-Navarre, les anciens élèves devenus comptables parlent aux étudiants Actu.fr",
       "source": "Actu.fr",
       "published_at": "2021-10-13T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Au lycée polyvalent de Falaise, le BTS Comptabilité gestion recrute encore des étudiants - Ouest-France",
@@ -1839,7 +2068,8 @@
       "description": "Au lycée polyvalent de Falaise, le BTS Comptabilité gestion recrute encore des étudiants Ouest-France",
       "source": "Ouest-France",
       "published_at": "2021-09-25T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Brandt Tractors acquiert Cervus Equipment - Matériel Agricole",
@@ -1847,7 +2077,8 @@
       "description": "Brandt Tractors acquiert Cervus Equipment Matériel Agricole",
       "source": "Matériel Agricole",
       "published_at": "2021-08-20T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Matériel agricole : Downs, l’entreprise qui a la « patate » - Région Hauts-de-France",
@@ -1855,7 +2086,8 @@
       "description": "Matériel agricole : Downs, l’entreprise qui a la « patate » Région Hauts-de-France",
       "source": "Région Hauts-de-France",
       "published_at": "2021-05-31T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Profiter de taux encore très bas pour renouveler son matériel agricole - Réussir",
@@ -1863,7 +2095,8 @@
       "description": "Profiter de taux encore très bas pour renouveler son matériel agricole Réussir",
       "source": "Réussir",
       "published_at": "2021-05-20T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Matériel agricole : les Cuma lancent une centrale d’achat contre la hausse des prix - Ouest-France",
@@ -1871,7 +2104,8 @@
       "description": "Matériel agricole : les Cuma lancent une centrale d’achat contre la hausse des prix Ouest-France",
       "source": "Ouest-France",
       "published_at": "2021-03-25T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Matériel agricole. Le groupe Blanchard rachète Centre Bretagne élevage, concessionnaire Lely - Ouest-France",
@@ -1879,7 +2113,8 @@
       "description": "Matériel agricole. Le groupe Blanchard rachète Centre Bretagne élevage, concessionnaire Lely Ouest-France",
       "source": "Ouest-France",
       "published_at": "2021-03-08T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Préparation d’une mobilisation pour maintenir le BTS Comptabilité gestion au lycée Henri Parriat - Montceau News",
@@ -1887,7 +2122,8 @@
       "description": "Préparation d’une mobilisation pour maintenir le BTS Comptabilité gestion au lycée Henri Parriat Montceau News",
       "source": "Montceau News",
       "published_at": "2021-01-11T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Ritchie Bros propose des ventes aux enchères réservées au matériel agricole - Terre-net",
@@ -1895,7 +2131,8 @@
       "description": "Ritchie Bros propose des ventes aux enchères réservées au matériel agricole Terre-net",
       "source": "Terre-net",
       "published_at": "2020-11-26T08:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Aube. Un homme condamné pour avoir volé du matériel agricole sur plusieurs exploitations - Ouest-France",
@@ -1903,7 +2140,8 @@
       "description": "Aube. Un homme condamné pour avoir volé du matériel agricole sur plusieurs exploitations Ouest-France",
       "source": "Ouest-France",
       "published_at": "2020-07-17T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Handicap: \"Océane contre Lyme\" - Le Podcast Journal",
@@ -1911,7 +2149,8 @@
       "description": "Handicap: \"Océane contre Lyme\" Le Podcast Journal",
       "source": "Le Podcast Journal",
       "published_at": "2020-05-29T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Payen cède son activité agricole - La France Agricole",
@@ -1919,7 +2158,8 @@
       "description": "Payen cède son activité agricole La France Agricole",
       "source": "La France Agricole",
       "published_at": "2019-07-15T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Parcoursup : le classement des BTS CG les plus demandés en Ile-de-France - Studyrama.com",
@@ -1927,7 +2167,8 @@
       "description": "Parcoursup : le classement des BTS CG les plus demandés en Ile-de-France Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2019-07-04T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Matériel agricole. Le Salon aux champs cible les jeunes - Ouest-France",
@@ -1935,7 +2176,8 @@
       "description": "Matériel agricole. Le Salon aux champs cible les jeunes Ouest-France",
       "source": "Ouest-France",
       "published_at": "2019-07-02T07:00:00+00:00",
-      "category": "Secteur professionnel"
+      "category": "Secteur professionnel",
+      "summary": ""
     },
     {
       "title": "Saint-Paul. 65 étudiants du BTS comptabilité-gestion ont participé à la première Innov’Epa - Le Télégramme",
@@ -1943,7 +2185,8 @@
       "description": "Saint-Paul. 65 étudiants du BTS comptabilité-gestion ont participé à la première Innov’Epa Le Télégramme",
       "source": "Le Télégramme",
       "published_at": "2018-09-11T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Sujet et corrigé Mathématiques BTS – BTS Comptabilité et gestion (CG) - Studyrama.com",
@@ -1951,7 +2194,8 @@
       "description": "Sujet et corrigé Mathématiques BTS – BTS Comptabilité et gestion (CG) Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2018-05-15T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Le BTS compta-gestion de Jean-Monnet a lancé des animations - La Montagne",
@@ -1959,7 +2203,8 @@
       "description": "Le BTS compta-gestion de Jean-Monnet a lancé des animations La Montagne",
       "source": "La Montagne",
       "published_at": "2017-10-03T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Mélissa Rosmade, élève du lycée Bel-Air, à Baie-Mahault, mal-entendante admise en BTS Comptabilité-gestion. - guadeloupe.franceantilles.fr",
@@ -1967,7 +2212,8 @@
       "description": "Mélissa Rosmade, élève du lycée Bel-Air, à Baie-Mahault, mal-entendante admise en BTS Comptabilité-gestion. guadeloupe.franceantilles.fr",
       "source": "guadeloupe.franceantilles.fr",
       "published_at": "2017-07-12T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Comptabilité : des étudiants de BTS primés - La Montagne",
@@ -1975,7 +2221,8 @@
       "description": "Comptabilité : des étudiants de BTS primés La Montagne",
       "source": "La Montagne",
       "published_at": "2016-12-08T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "Un BTS comptabilité gestion au CFA Descartes de Champs-sur-Marne - Le Parisien",
@@ -1983,7 +2230,8 @@
       "description": "Un BTS comptabilité gestion au CFA Descartes de Champs-sur-Marne Le Parisien",
       "source": "Le Parisien",
       "published_at": "2016-03-28T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "zoom. Flavie, major de la promotion BTS comptabilité gestion - Le Progrès",
@@ -1991,7 +2239,8 @@
       "description": "zoom. Flavie, major de la promotion BTS comptabilité gestion Le Progrès",
       "source": "Le Progrès",
       "published_at": "2015-12-01T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "mobilisation : La Rochelle : 2e journée de blocus au lycée Dautet pour le maintien du BTS comptabilité-ges - ubacto.com",
@@ -1999,7 +2248,8 @@
       "description": "mobilisation : La Rochelle : 2e journée de blocus au lycée Dautet pour le maintien du BTS comptabilité-ges ubacto.com",
       "source": "ubacto.com",
       "published_at": "2012-12-19T08:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion"
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     }
   ]
 }
