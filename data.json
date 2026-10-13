@@ -1,24 +1,6 @@
 {
-  "updated_at": "2026-10-12T13:38:36.470277+00:00",
+  "updated_at": "2026-10-13T10:41:21.562371+00:00",
   "articles": [
-    {
-      "title": "France : des installations frigorifiques victimes d'une cyberattaque - TVA Nouvelles",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU1FJLTJFajhRRVN0TTVFZ0FZSlBSaUtYdzFsSXBkbXNTRHZEWFhXNnFOM0h2N1RKOGFTNEFOekRqbWdTTmExQzY3S01YdWJYZUllT0ZucmVROElpbjVuTUxEaEdSeGpSTHd1SnY1b3I5ZEJWT3JETjAzOFVKbDJQekQySXh4SERlRXU1ekVYdk0tcGh4NWJyS1l6dEtiaXRKYk1FY2Y2UlQ?oc=5",
-      "description": "France : des installations frigorifiques victimes d'une cyberattaque TVA Nouvelles",
-      "source": "TVA Nouvelles",
-      "published_at": "2026-10-12T12:42:41+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Nouvelle semaine de mobilisation lycéenne en France - TVA Nouvelles",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1RrcGJ3eWZEYjNLUmFGU3dIcjZfMlNXS0RfMkU0NkFKeFZHOWh5TmFwb3hUcG5nN2ZKVExtTEVvUmUtQkpmaHZZNTNiOFFJck9KUFJxU3ZGUlRUcVVTbHBxZzVFV3BwYjVIYVlLM0k4NmNvaE9QZXAwQ0ZKanFUWWoxWWVPSXVaTnFEVUhNdkY1TTB1?oc=5",
-      "description": "Nouvelle semaine de mobilisation lycéenne en France TVA Nouvelles",
-      "source": "TVA Nouvelles",
-      "published_at": "2026-10-11T23:03:21+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé pertinent, le titre et la description mentionnant uniquement une « Nouvelle semaine de mobilisation lycéenne en France » sans aucun lien direct avec la comptabilité, la fiscalité, le matériel agricole ou la location. Par conséquent, aucun fait ne peut être inventé pour relier cet événement au secteur d'activité du BTS Comptabilité-Gestion."
-    },
     {
       "title": "Marbrier à Paris facturé via une société à Dubaï en restant en France : article 155 A, siège de direction effective, TVA, qualification artisanale et décennale, comment contester le redressement - Kohen Avocats",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVlpqYnczVGsxdTcxNUJmb0VwQ1ZfOE5IRTNIem4tVWlmU2kwWFFfTllPOG1vcHlSTExVUVFVN0dEcTl0T3NfaEs3MWQzdjFyWjlaWkRyTXNSMXlzMG1ETUkyMWJLNUxWdlpiajZLQUdjVmc5cThyVnpiaU13WkxfVGkxenpWa1FyQk9pS1k1N0ZBVDJ5Mll3UlNmSUlXYU5abVZEM2tlMW9jc0w2a3J4NGkwNTRYMXN1ZjV0N1ZPNjFUckNxMC0xakJHckg4YWRqa0pOYmNaWXlmM3R6YlA4NGN3ZUVzWXF3V3c?oc=5",
@@ -26,7 +8,7 @@
       "source": "Kohen Avocats",
       "published_at": "2026-10-10T18:51:00+00:00",
       "category": "Comptabilité & fiscalité",
-      "summary": ""
+      "summary": "Les informations fournies dans le titre et la description sont insuffisantes pour rédiger un résumé détaillé, car seule la mention d'un redressement fiscal concernant un marbrier facturant depuis Dubaï tout en résidant en France est indiquée. Cet article aborde des aspects pratiques liés au droit fiscal (article 155 A, siège de direction effective, TVA) et aux obligations professionnelles (qualification artisanale et décennale). Pour un étudiant en BTS Comptabilité-Gestion, ce cas illustre les risques de requalification fiscale et l'importance de la conformité en matière de facturation internationale et de domiciliation d'entreprise."
     },
     {
       "title": "Mécanicien automobile à Paris facturé via une société à Dubaï en restant en France : article 155 A, siège de direction effective, TVA, qualification et contrôle technique, comment contester le redressement - Kohen Avocats",
@@ -36,33 +18,6 @@
       "published_at": "2026-10-10T15:53:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": "Les informations fournies dans le titre et la description sont insuffisantes pour rédiger un résumé détaillé, car elles se limitent à une liste de mots-clés évoquant un redressement fiscal concernant une structure offshore à Dubaï. Sur le plan pratique, cet article aborde néanmoins des notions clés en fiscalité internationale et en gestion (article 155 A, TVA, siège de direction effective) qui peuvent croiser les problématiques de contrôle fiscal des prestations transfrontalières."
-    },
-    {
-      "title": "Pâtissier à Paris facturé via une société à Dubaï en restant en France : article 155 A, siège de direction effective, TVA, qualification artisanale et sanitaire, comment contester le redressement - Kohen Avocats",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZHY0SHVheEE0NU5JWGhWVlRaa1FSV3hmMnRpUUtpeUw5VTc1Szc3MUtzVlo5RGpsM2hDYlFwUWNFNzd4cEVSSTdDUU9WamNNZzR3c2RUVVU1Y21wbW9fTXB5Y2MzNHVNUk13d3hBWXNCMUExQUtFLWprMFJNVkJUQ284b1NsZ1NReWtGcEpJWmcwZHNBNEdqeVk4Yk00U2szNEtxSVlRaTZDSHVOTGstdnZxQm5SZFRzWFJfaHJaTTVNd3VBMTBQak1DSkxWTUcyLUxycGtvQVZxY2lsamFkNGpQY1VnNm1HTmR3?oc=5",
-      "description": "Pâtissier à Paris facturé via une société à Dubaï en restant en France : article 155 A, siège de direction effective, TVA, qualification artisanale et sanitaire, comment contester le redressement Kohen Avocats",
-      "source": "Kohen Avocats",
-      "published_at": "2026-10-09T09:55:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": "Les informations fournies dans le titre et la description sont insuffisantes pour rédiger un résumé précis et contextualisé, car elles se limitent à une liste de mots-clés sans explications détaillées. Néanmoins, cet article aborde un cas de redressement fiscal concernant un entrepreneur domicilié en France mais facturant via une structure à Dubaï, en mobilisant des notions clés comme l'article 155 A, le siège de direction effective et la TVA. Pour un étudiant en BTS Comptabilité-Gestion, cette actualité présente un intérêt pratique pour illustrer les risques liés à l'optimisation fiscale transfrontalière agressive et les mécanismes de contestation face à l'administration fiscale."
-    },
-    {
-      "title": "Plans de vol revus, fiscalité pointée du doigt… Le transport aérien français décroche - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU2htQVpiQ3pyYnpSXzhFc0JxV2JnSlNJbjdSejV0UnZTbDZxc2VTUEZZd05Wb3JNNmRYWjMxR0NtUENfeVk5YndOTldmcUx0QVJ1ME1VT3JUTVdOUFBZalA0TmQxR3dSLVFjY3c5YzJvNGxBXzlaUXFuQkVqX0s2MEFDVGVSREMwWTVrXzRpc1QwcjFPNjU2Rm1xNDJLQ0lHTjlPbXJaYWUyalcwUVJvNDY1MmZ5dDJ5eDNSVXBCZVc3SzhWNWZtdmJkWEVEdHAwZjN3cGJPVDY5cWpXRDdkUExNNUFmM1BYNm1CSzNaZE5kdk0yV01jTTctM3FuZHJod3ZYWA?oc=5",
-      "description": "Plans de vol revus, fiscalité pointée du doigt… Le transport aérien français décroche Ouest-France",
-      "source": "Ouest-France",
-      "published_at": "2026-10-09T06:00:30+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": "L'article d'Ouest-France indique que le transport aérien français décroche en raison de plans de vol revus et d'une fiscalité pointée du doigt. Pour un étudiant en BTS Comptabilité-Gestion dans la location et le matériel agricole, cette information est insuffisante car elle ne fournit pas de données chiffrées ni de lien direct avec son secteur d'activité. L'intérêt pratique se limite à observer l'impact de la fiscalité sur un secteur économique, sans application directe immédiate."
-    },
-    {
-      "title": "Consultant SEO et marketing digital à Paris facturé via une société à Dubaï en restant en France : article 155 A, siège de direction effective, TVA, article 123 bis et comment contester le redressement - Kohen Avocats",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQd25PZER5UU85cTRXcTltYjVnZzdleWlKT3pxM2NHblZQbFkwMzA3T3NhYmFUSHVWS0RsSkIzV2c5NTROV0Z3STJzeUlWSUNqYU9nLUJCdEdGY3ptcC1FSnE3ZEJrUWwxT3YwWWYzZmMxTDQ1d185dGZzb3c0YXgtbUNGWXE0bjNuWElPbUNCV2xtbzJDaXBYSHhZM3ZDbno4VWticGptNENla1dwa2x0VVVCeDd3SEJzczVFTUd3Sy14SFhJZXZ5OGYxazBHU1M5dHEtb3pxa2ZFSGRqT18zNkhLVG9OSEg2WUNvMnB6WC1kXzQ?oc=5",
-      "description": "Consultant SEO et marketing digital à Paris facturé via une société à Dubaï en restant en France : article 155 A, siège de direction effective, TVA, article 123 bis et comment contester le redressement Kohen Avocats",
-      "source": "Kohen Avocats",
-      "published_at": "2026-10-09T04:53:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": "Les informations fournies dans le titre et la description sont insuffisantes pour rédiger un résumé complet et précis, car aucun détail sur le contenu de l'article n'est mentionné. L'actualité évoque les risques fiscaux (article 155 A, TVA, article 123 bis) liés à l'utilisation d'une société à Dubaï par un consultant basé en France, ainsi que les moyens de contester un redressement. Pour un étudiant en BTS CG, cela illustre l'importance de la domiciliation fiscale et de la lutte contre l'évasion internationale, mais le cas ne concerne pas directement le secteur du matériel agricole et de la location."
     },
     {
       "title": "Cette coopérative de matériel agricole raconte ses 45 ans d’activité en Maine-et-Loire - Ouest-France",
@@ -98,16 +53,16 @@
       "source": "angers ma ville.com",
       "published_at": "2026-10-07T03:11:00+00:00",
       "category": "Secteur professionnel",
-      "summary": ""
+      "summary": "Les informations fournies sont actuellement insuffisantes pour rédiger un résumé détaillé, car la description se limite à reprendre le titre. On y apprend toutefois qu'une coopérative de matériel agricole à Beaupréau-en-Mauges retrace 45 ans d'évolution du métier. Pour un étudiant en BTS CG, cela offre un contexte historique et sectoriel intéressant pour comprendre l'évolution des pratiques et des investissements dans la gestion du matériel agricole et de la location."
     },
     {
       "title": "Acheter en France cet été, sans payer la TVA? C’est possible avec Zapptax - Lepetitjournal.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNME1FdUxEZ2pYb2VZaU53QmF5V1pvYTBGVHBBdXRnUDE2TFctaEZYMWJDWV9SZXROa3l3d0hCQVFJbjBkUkhYRTBlN0tuWGZfWTFOWUdpRWVoeEJZV1NMcjY3cVJOSVhsb0FlcGZOcFZKUkt3WTNTQ0d2cms1YzZROEJyQkpLTUxWZExKWHYzMXBHdGtqZFo0VWRLNEI4cGdQU0dBOTg1UU5QeHpEWktKMW9mZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ29kVl9vWHdkSHVRSnl5TVQxdk4zUWFQcUtvZ0VBaG5kaUNFaG9oR3RQcmkxdjRPaW9CVUdqeFNncnh2SlFqNnZ5U3psczJJRndHYk4yY3JYZWJMMmJ0aE0zSFlSQ2NJZGpCY2xSYzJ4Z2lrTmpMd3ZMalFNU2pyMzJJTDA4LVRjMUpILXBJcnRScVl6N1E0amZCV0dlckpCc3A5bHBXTU9iZTdJcWlr?oc=5",
       "description": "Acheter en France cet été, sans payer la TVA? C’est possible avec Zapptax Lepetitjournal.com",
       "source": "Lepetitjournal.com",
-      "published_at": "2026-10-06T20:58:39+00:00",
+      "published_at": "2026-10-07T01:50:31+00:00",
       "category": "Comptabilité & fiscalité",
-      "summary": ""
+      "summary": "Les informations fournies sont actuellement insuffisantes pour rédiger un résumé détaillé, se limitant au fait que l'application Zapptax permettrait d'acheter en France cet été sans payer la TVA. Pour un étudiant en BTS Comptabilité-Gestion, cette actualité pourrait potentiellement concerner la gestion de la TVA et les opérations intracommunautaires ou à l'export, mais aucun fait précis sur le mécanisme comptable ou fiscal n'est mentionné dans le texte."
     },
     {
       "title": "Fiscalité. Dette : la France risque d'être « étranglée » par les taux, alerte la Banque de France - Le Bien Public",
@@ -119,6 +74,15 @@
       "summary": "La Banque de France alerte sur le risque pour la France d'être « étranglée » par les taux d'intérêt de sa dette publique. Cette information souligne l'importance du contexte macroéconomique et fiscal pour les entreprises. En tant qu'étudiant en BTS CG, cela permet d'anticiper les potentielles tensions sur les finances publiques et leur impact sur la fiscalité des entreprises du secteur agricole et de la location. Les détails fournis étant toutefois très succincts, aucune autre précision pratique ne peut être déduite."
     },
     {
+      "title": "Vers une hausse de la TVA appliquée à Canal + ? «La question de la pérennité de Canal + en France se pose», affirme Maxime Saada - Europe 1",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYkY2VjhjZUxqZFNkRFRNUTRCbEhYVHNGdkdBS2ttcDNtdC1nR3cwTWlwQ0Q4RFJ5S0hHalM4a0RhcjhabUtoZTl2ZkVzN3c2Qmh5WjdTQ3RROExFTnp2VXlreXJQT25LR2dPUkk1Rjc0dXdMR2JRZWhlZDk4RmNHX0lpdjgwRm5leVJsRHBOeWpyUUQ1NGg2VWxTdlYxdWFaUmlvUE1CSmtJNDJRUEtKeGdfcjdSUHFNcndiTjh6Y0E3MzNtbUZqeUVsUWhicDg4ZzhrbnVzQkFleDUwUFB2aUcwZHZoZTYxR3E3eFE4NXrSAfYBQVVfeXFMUFJJamhFZzBGaTV0NzlEUVpxdU1YZ1B4QkZycEhUNzI1SngzMWZzZWRBX1ZvZXVCaUNpUUNmZnZ1T1lYSVJ3MzJPVm1SbWc2dEJVd1JQa3hMWURIMHQyMXlVdXJmdVJpcEhUbnBLemNYWm5JRndIS3BJM1d4cjlIZ2s2aGtNODVLaFlWNnNScXZpbEMzbGRTMDhLcVdqUWVDTTJSY1dLQ2tPWHVVSFZ5LXJ4UlNnUFlZTlZ6RGw2dzNPc1NWc3EtSUdYVEdybTNCcGRTX25OcXFIc3k2YW1DcnNLLXJnci00NENIRmlXNkV0bUE2eWxB?oc=5",
+      "description": "Vers une hausse de la TVA appliquée à Canal + ? «La question de la pérennité de Canal + en France se pose», affirme Maxime Saada Europe 1",
+      "source": "Europe 1",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": "Le texte fourni indique que Maxime Saada évoque une possible hausse de la TVA appliquée à Canal + ainsi qu'une question sur la pérennité de l'entreprise en France. Cependant, les informations fournies sont insuffisantes pour déterminer l'impact pratique ou la réalité de cette mesure fiscale. Aucun fait précis sur les taux de TVA ou sur les conséquences comptables et de gestion n'est mentionné dans le titre et la description."
+    },
+    {
       "title": "Face à une TVA doublée, \"Canal+ en France ne pourra pas absorber un choc de 200 millions d’euros\", assure Maxime Saada qui dénonce sur RTL \"une décision politique et absurde\" - RTL",
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQaUJoR2tMd3lxY2lEYXRrSHBBYWlkdWgzelAyLUpBLV9UcFZDY1p0NFh1R04xVGFNS3NlbWUxQXBiRklYcFE2Z0hIYTl0MFpaY2VTV0Z3RkplcW5OOEJaQVVOM05FTnd6dlU0REYwRG9RVUM3Z1JheGZPODhNT3J2cjZtSERMankweWE4elBCaFNWdHpQb0hnVDR2NENDblNpemZKTEtsbndVZm5mSWJMeG1fZ3hZb1dCYWJtRExrSjE5ZFBlNjM1N015RWEtdTNVa2N4Rk1GX2dvc2hoNnFqZU1KQzJuQmdsMlFLa3QxQjYtc1FMbnREWXROZnBzOUxYa0F0TThSdG1VZWR5eHJ5VXFxNjYtc2c2QUhoRGI2eXAzNkNZaHQ5TXBVd09wbjRFVGdvUkRwQQ?oc=5",
       "description": "Face à une TVA doublée, \"Canal+ en France ne pourra pas absorber un choc de 200 millions d’euros\", assure Maxime Saada qui dénonce sur RTL \"une décision politique et absurde\" RTL",
@@ -126,15 +90,6 @@
       "published_at": "2026-10-05T06:44:25+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": "Les informations fournies sont insuffisantes pour faire le lien avec le secteur du matériel agricole et de la location. En effet, le texte se limite à rapporter les déclarations de Maxime Saada sur RTL concernant l'impact d'un doublement de la TVA, estimé à 200 millions d'euros, pour le groupe Canal+. Aucun élément concret n'est apporté sur le plan comptable ou fiscal pour les entreprises de notre secteur."
-    },
-    {
-      "title": "Vers une hausse de la TVA appliquée à Canal + ? «La question de la pérennité de Canal + en France se pose», affirme Maxime Saada - Europe 1",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYkY2VjhjZUxqZFNkRFRNUTRCbEhYVHNGdkdBS2ttcDNtdC1nR3cwTWlwQ0Q4RFJ5S0hHalM4a0RhcjhabUtoZTl2ZkVzN3c2Qmh5WjdTQ3RROExFTnp2VXlreXJQT25LR2dPUkk1Rjc0dXdMR2JRZWhlZDk4RmNHX0lpdjgwRm5leVJsRHBOeWpyUUQ1NGg2VWxTdlYxdWFaUmlvUE1CSmtJNDJRUEtKeGdfcjdSUHFNcndiTjh6Y0E3MzNtbUZqeUVsUWhicDg4ZzhrbnVzQkFleDUwUFB2aUcwZHZoZTYxR3E3eFE4NXrSAfYBQVVfeXFMUFJJamhFZzBGaTV0NzlEUVpxdU1YZ1B4QkZycEhUNzI1SngzMWZzZWRBX1ZvZXVCaUNpUUNmZnZ1T1lYSVJ3MzJPVm1SbWc2dEJVd1JQa3hMWURIMHQyMXlVdXJmdVJpcEhUbnBLemNYWm5JRndIS3BJM1d4cjlIZ2s2aGtNODVLaFlWNnNScXZpbEMzbGRTMDhLcVdqUWVDTTJSY1dLQ2tPWHVVSFZ5LXJ4UlNnUFlZTlZ6RGw2dzNPc1NWc3EtSUdYVEdybTNCcGRTX25OcXFIc3k2YW1DcnNLLXJnci00NENIRmlXNkV0bUE2eWxB?oc=5",
-      "description": "Vers une hausse de la TVA appliquée à Canal + ? «La question de la pérennité de Canal + en France se pose», affirme Maxime Saada Europe 1",
-      "source": "Europe 1",
-      "published_at": "2026-10-05T06:27:36+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": "Le texte fourni indique que Maxime Saada évoque une possible hausse de la TVA appliquée à Canal + ainsi qu'une question sur la pérennité de l'entreprise en France. Cependant, les informations fournies sont insuffisantes pour déterminer l'impact pratique ou la réalité de cette mesure fiscale. Aucun fait précis sur les taux de TVA ou sur les conséquences comptables et de gestion n'est mentionné dans le titre et la description."
     },
     {
       "title": "Éditeur SaaS à Paris facturé via une société à Dubaï avec des abonnés en France : siège de direction effective, article 155 A, TVA des services électroniques et comment contester le redressement - Kohen Avocats",
@@ -251,7 +206,16 @@
       "source": "Connaissance des Énergies",
       "published_at": "2026-09-23T13:58:44+00:00",
       "category": "Comptabilité & fiscalité",
-      "summary": ""
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé détaillé, se limitant à une interrogation sur l'absence de TVA sur l'électricité en Grande-Bretagne cet hiver et son éventuelle application en France. Pour un étudiant en BTS Comptabilité-Gestion, ce sujet touche à la fiscalité indirecte et aux taux de TVA, mais aucun fait précis, chiffré ou réglementaire n'est présent dans le texte pour en dégager un intérêt pratique direct."
+    },
+    {
+      "title": "Budget 2027 : Bercy veut relever la TVA sur la télévision payante, Canal+ prêt à des mesures de riposte - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRkJQRkVuWGNWVjJJaWVBa05JREJJR0tWY0lNTHdJcGE0b1hCbkVJWkswYzBqQ281ZUd1dW1zQ3A0SmRsYTFFNmNTcU84d3ZPWTZIeUpPZ25WWTV3THItMjZHdHdnYTZOTTgxZ3M2dGdEOVNoRWZ6ZkYzVlozNVl1aTNuLVp1cVpXMkJlYk5zV0lZNFFWU2FZbWxmUENxenZ5dHNGQXo3azBkSjFqQjhNaGtnbUtZZ0NBeUZsemE2cjliOUREdld5SEFKOVkwNGFzV1Q5alIxcTdvUGxmV21tSUVTWmkxT00?oc=5",
+      "description": "Budget 2027 : Bercy veut relever la TVA sur la télévision payante, Canal+ prêt à des mesures de riposte Les Echos",
+      "source": "Les Echos",
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé précis, car la description se limite à répéter le titre sans donner de détails chiffrés ni expliciter les mesures envisagées. \n\nNéanmoins, l'actualité mentionne un projet de relèvement de la TVA sur la télévision payante dans le cadre du budget 2027, entraînant une contestation de Canal+. Pour un étudiant en BTS CG dans le secteur de la location de matériel agricole, cette information a un intérêt pratique limité, hormis la nécessité de surveiller l'évolution générale des taux de TVA et leur impact potentiel sur la fiscalité des entreprises."
     },
     {
       "title": "Frédéric Bizard, économiste : « La France a besoin d’une réforme structurelle de son modèle, plutôt que d’une “TVA sociale” » - Le Monde.fr",
@@ -299,6 +263,15 @@
       "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé détaillé, se limitant au constat du Medef selon lequel « la France décroche » et à la proposition de son président, Patrick Martin, d'augmenter la TVA. En tant qu'étudiant en BTS Comptabilité-Gestion, cette actualité fiscale potentielle mérite d'être surveillée car une modification du taux de TVA impacterait directement la facturation, la gestion de la TVA collectée/déductible et la trésorerie des entreprises, notamment dans le secteur de la location et de la vente de matériel agricole."
     },
     {
+      "title": "Sénégal/MFPT : RESULTATS ADMISSIBILITES DES CONCOURS BTS CG – BTS SB – BTS CI – BTS GCAL SESSION 2025 - YOP L-FRII",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMG9IQUVheHpNTEM0UE5WVDlLT1ZJdzVFc0hVTkF5bkd5S1NEOEtTc19BbUtHX3c1MnNSTXhrWW80dVRTelYzbjIzblZ3V19QMEw3RHI5QXZETy1xbWprX0dYeWpRNVI5VzBLQ2lmdDJPQmdqZ1RHYmZQckZDNGxzZTJhQTl1eWQ3QVU3eXQ5V19QVFNLNXloZl9vbTR1aDBaU1IwVHVReDJEMkZKZG1oS1k3b1cwa0I4?oc=5",
+      "description": "Sénégal/MFPT : RESULTATS ADMISSIBILITES DES CONCOURS BTS CG – BTS SB – BTS CI – BTS GCAL SESSION 2025 YOP L-FRII",
+      "source": "YOP L-FRII",
+      "published_at": "2026-09-17T01:32:35+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé utile, car le texte se limite à l'intitulé de la publication des résultats d'admissibilité de concours BTS au Sénégal sans donner de détails chiffrés ou contextuels. Par conséquent, cet événement n'apporte aucun enseignement pratique direct pour votre veille en comptabilité-gestion dans le secteur du matériel agricole."
+    },
+    {
       "title": "Carburants à plus de 2 euros : voici combien l’État prélève réellement sur chaque litre à la pompe - Capital.fr",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ20tSHgtS2d1UlNBRTRtWmM0UEprOXVscmRCMnZuNnpral9acWRZenVCMWRzRXpTUURCUENaZzdFcF9wbXVhT0pxWDFQNHFLT3F4WHNkSjNMRVZGZFBZQlVmRlZQSk9CMmhXLVJuNkRnWGVQU3R3RXhRMDZFenh6QWZHU1JSRER3LVU4VHZPZXVRejJ6SENaTW9vVE5zTHdX?oc=5",
       "description": "Carburants à plus de 2 euros : voici combien l’État prélève réellement sur chaque litre à la pompe Capital.fr",
@@ -306,6 +279,15 @@
       "published_at": "2026-09-15T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": "Les informations fournies dans le titre et la description sont insuffisantes pour résumer précisément l'actualité, se limitant à mentionner un prix du carburant supérieur à 2 euros et le montant des prélèvements de l'État. D'un point de vue pratique pour un étudiant en BTS CG dans le secteur de la location de matériel agricole, cette actualité concerne directement le suivi des charges d'exploitation et la fiscalité des carburants (TVA et TICPE). Toutefois, en l'absence de chiffres précis dans le texte fourni, il est impossible de détailler l'impact chiffré sur la comptabilité de l'entreprise sans inventer de faits."
+    },
+    {
+      "title": "Prix carburant France : la baisse de TVA proposée par le RN peut-elle vraiment soulager les ménages ruraux ? - parlons-politique.fr",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMUxmQ0NkVU42dUxPOHJTRGV2UzNqTEFfU2NTODBlRGNIMkctNW9Jc0tzSUpDWnM2eW1aVEg1eDctMVNKWjVZSGM2NzZnUVB0cEpESkczejBrWEJkTU1zd0xrblhkTGpmQm0tSDY0ZFVIX1FXakdkaVZoamdGZTd6ekZ3ak8wc2JWUC1aX2JaTjd6SHlnS29oMnY2eWhqS1ZoajVGdkFURTYwR1VmcEtaZTBFb25tXzlOZDdTQ0JrSXQ2eWVoMFBsUWJScnNiUVpzbG9kZGFrLXZ0dk1hb2doZU9lTlNEX2g4LXpDT0ZOMWZvcTg?oc=5",
+      "description": "Prix carburant France : la baisse de TVA proposée par le RN peut-elle vraiment soulager les ménages ruraux ? parlons-politique.fr",
+      "source": "parlons-politique.fr",
+      "published_at": "2026-09-13T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé précis, car la description se limite à reprendre le titre de l'article sur la proposition de baisse de la TVA sur le carburant par le RN. Le texte ne détaille ni les mesures exactes ni leur impact potentiel. Par conséquent, son intérêt pratique pour la gestion financière ou la fiscalité d'une entreprise de location de matériel agricole ne peut pas être établi à partir de ces seuls éléments."
     },
     {
       "title": "TVA climatisation réversible, quel taux en 2026 - ENGIE",
@@ -317,6 +299,15 @@
       "summary": "L'actualité fournie par ENGIE aborde la question du taux de TVA applicable aux climatisations réversibles en 2026. Toutefois, les informations fournies dans le titre et la description sont insuffisantes pour en préciser le contenu exact ou les taux applicables. Pour un étudiant en BTS CG dans le secteur de la location et du matériel agricole, cette veille nécessite des recherches complémentaires afin de déterminer l'impact fiscal potentiel sur les investissements ou la facturation des équipements thermiques."
     },
     {
+      "title": "Faut-il programmer la fiscalité des entreprises sur cinq ans ? - FashionNetwork France",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUG5xeHVNNmh2Q0xVeG5KV2E3ZGMyWVg3bWx6UDQ0SjkwdWdXNGVBZHFwLUtZWkhRT2ZmWTFmTDh3N2IzYVR2U0ZScVVEMWhobnJhVG9vN0o4cFQzVE5tWmx3ZnY5QUEyT3AtYkFoc2p5UDhLcTZobUhaZFFkWnFsdVQyU3dwQV9pRkdiT09TTnBraXJ1bWYxREcxNDBDSl9yaEJncS1QdEJWak9ISWc?oc=5",
+      "description": "Faut-il programmer la fiscalité des entreprises sur cinq ans ? FashionNetwork France",
+      "source": "FashionNetwork France",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": "Les informations fournies sont actuellement insuffisantes pour rédiger un résumé précis, la description se limitant à répéter le titre de l'article sur la programmation de la fiscalité des entreprises sur cinq ans. Cet article de FashionNetwork France pose néanmoins la question d'une vision pluriannuelle de la fiscalité, ce qui présente un intérêt potentiel pour la gestion prévisionnelle et la stratégie financière en entreprise. Dans l'attente de détails complémentaires, il convient de surveiller l'évolution de ce débat fiscal pour anticiper d'éventuels impacts sur la comptabilité et la gestion budgétaire."
+    },
+    {
       "title": "Une incroyable escroquerie à 41 000 € : à Saint-Malo, il vendait sur internet du faux matériel agricole - Le Télégramme",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPb1BHZVo3cE1rdHRsTUJfZ1VCalRqMjBYYi13Z242Y1p3UFR4SEt0dklUSVJPS2F0eXQyRmRCaXRxWVF5anZqUkRLbXJKbEJKdkZBSmVfNkpTQzB0SmdjYWk3ekJzbC1sMGpyaWdJVTB0aG9DWWkzRFphN1VjS3ZNRjNjU24zTEJWNHRsR0Q4bTFWZnVXM25kMEpZV2h6ZnNuMUpzUlF3NkM1NWdXcGJ4UmoxaWczRjN1RUpmWUl2UmdsWE5GWk5hS0MyeThINVllbEhFZnRPRl96Q1J5NTBibzRIZkwzdmlrTmNqQjZQb2hOTXJXdGY4UFNmVXF0cVF6UF9NS1NB?oc=5",
       "description": "Une incroyable escroquerie à 41 000 € : à Saint-Malo, il vendait sur internet du faux matériel agricole Le Télégramme",
@@ -326,11 +317,38 @@
       "summary": "D'après les informations fournies, un individu a mené une escroquerie à hauteur de 41 000 € en vendant du faux matériel agricole sur internet à Saint-Malo. Les détails précis sur les méthodes comptables ou les impacts sur la location ne sont pas mentionnés. Cette actualité présente un intérêt pratique pour la gestion des risques et la sécurisation des transactions financières et des acquisitions dans le secteur du matériel agricole."
     },
     {
+      "title": "Épargne : la fiscalité reste floue pour une grande majorité de Français selon une étude - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMnNydFhoYk03eFh5alM1aFJVcGFpVXgtZDlubldLX2djRmtvdUtqdzc0X1BZMzJLZXNSOTZuOWtpb1E1UUhsM2pKX2hLaEdnNm9qa1EycFBMZ2dOVjVxamNhbWJ3VHJCa1YwSUdiNEktYVVuLUtFSjRqVjNMNEpzelQwMnEwT0RDeWFEd0NiTWlnR2Z1WGc1X2VmMWNQQjg2VGhnSTlDT1FRUk9mSTcyal9nRzBfaUxwVGxzMUw4dHhZSHc2QTJocU5Gcm9JMVh1Y2ZVUWZSa29tOTNpczZ6YzdCOFVsM044QjRrNEZqRXY2Y3JHWjFFandPOA?oc=5",
+      "description": "Épargne : la fiscalité reste floue pour une grande majorité de Français selon une étude Ouest-France",
+      "source": "Ouest-France",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "Créer une société à Dubaï pour vendre à des clients en France en restant en France : TVA française, représentant fiscal, autoliquidation et redressement, comment contester - Kohen Avocats",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFhEVlVlQlBORmJfSF9hd0FGNE04eVo3MDNvYnVvNElsOVlVLXhPbGt1MlFCQXUtdXFvNmpzWFFKdVRTVXZrMEdnMEt6UEpQdDk5WmFOeUc5TUFaNzBrLTRrTjNqR0x0bDBSV2hSSjFzVktQak1sXzFtN0Rucm5uakhGdklHazJ5WkVBajk4ZkVJYUZ5S053Z2JYVjh4Uks2SXRYX0RLWXJ4Q1N3TWJBODBRRm5NSWcwaGltQnVzQVBUdmhTd1RJRi13eGs?oc=5",
       "description": "Créer une société à Dubaï pour vendre à des clients en France en restant en France : TVA française, représentant fiscal, autoliquidation et redressement, comment contester Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-09-08T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Alain Madelin : « Vouloir faire de la France un champion de la TVA est une folie » - l'Opinion",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGdWc1dvY09WSjRJOWJnNHZnQ25vZV91S2duWVhVLUdPWEwwaHV0aDBucy1jMVRpdWZNaVZibF83N1VpTmVROWlaWXlOOHZhcWJqR0pFOGhZLTlTeHdrOGtZMEhRcGxLYmpYcjRWaGlPUS04YlhxNlFRSTZxNVF5X0VxMnlSWFJJY2RZSEdyd19vNTBBTWVIb0NiLVV3OWh2RDRKN0hobllad3d3WXJqNFFR?oc=5",
+      "description": "Alain Madelin : « Vouloir faire de la France un champion de la TVA est une folie » l'Opinion",
+      "source": "l'Opinion",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "De 7 à 13 euros le paquet en 10 ans mais moins d'argent pour l'Etat: pourquoi la hausse des taxes sur le tabac rapporte de moins en moins de recettes fiscales - BFM",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNUjZSMjRPckUyRnFaLTdWMWZwUXkxVWVCOXhzZWNUenlGV1A3eEMxNG5JRTc3RFQ0dUpHOHNlbjBuWTBPRldTbVhnZm94cUNKenB5b3VkNjJnN3NBVXlNa2E3VkUwQ1RrX2w4X1pEVk45c2lQZHNzUTVCWEJNNTVUUEdETFdNQzROQ0tEN2c5R1M3NFdCTUJtX1B0RUdtekZMQnBBQW5zcWgzMHNDT2NZRjQ1Q3oxYmN0SWY0UFU5NnhDenJHS0Nla0NpaEFWUjNDelNsdlJnby1MQU5KQlVUZ3NlOEJUT0YxZU9HbWtGa01nOXpzT1Q2amNWNHg2ajhGSGt1cjBGZjctX0RVMVlGOGVqQTV4RGJmc1RKZjJqRVF2MEsydkVuM1V0ZWxqUEw4dlpRX09CM3pQREVMd0J1NGY4MlI?oc=5",
+      "description": "De 7 à 13 euros le paquet en 10 ans mais moins d'argent pour l'Etat: pourquoi la hausse des taxes sur le tabac rapporte de moins en moins de recettes fiscales BFM",
+      "source": "BFM",
+      "published_at": "2026-09-07T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
@@ -349,6 +367,15 @@
       "description": "Créer une société à Dubaï et vendre sur Amazon FBA en France : TVA, établissement stable et redressement fiscal, que faire Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-09-05T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "424,5 milliards d’euros de prélèvements : la fiscalité des entreprises devenue incontrôlable ! - L'echommerces",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ2l6ekhEQ1hKWjJfZ295SEdOc2ZxNDdhZmd3ZXFCS2NpU2t6bG4teFBENldleTZLalJCTWJ2WW5Ic2MzaHZBbG9CRVFrWlFyRnE4MVgyVjZ0S3ZoaGdBa1E1QXQ2TXZpYmxYQzlXTllGdWJja2hlVmdsZTl2QUhaOVhzRjlBempBeElpYnViMlJ6WkJPOU9TYnExNkVhTVhTUE10TlFGNTVYakZjS1A5N0pCVQ?oc=5",
+      "description": "424,5 milliards d’euros de prélèvements : la fiscalité des entreprises devenue incontrôlable ! L'echommerces",
+      "source": "L'echommerces",
+      "published_at": "2026-09-04T11:12:47+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
@@ -398,6 +425,15 @@
       "summary": ""
     },
     {
+      "title": "Créer une société à Dubaï : après immatriculation TVA, comment remplir la CA3 française sans établissement stable - Kohen Avocats",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjVScnJ1c1N3NXU3MkRvM1hWaHptbS1kSHVXeXQ3X21lQno2RzJiSmVmbFhLUWFLU3FnNVhZZmZMd2FPQlBEUGIzTmJaWDRNSTRaVi1ncDBwQVFPOVN1RW5XQ0I5ekRYYkdnclZzd2s5RHhkZTRPUlJBQVlYZGFNdGk0azR2ZnBoUHF2TDlJQ0RvRnJ3RFM0UkhUS2N2MHNqd1VvaFI2OGJkc3JQR0VfQllsRlpJcW9KRVpxQQ?oc=5",
+      "description": "Créer une société à Dubaï : après immatriculation TVA, comment remplir la CA3 française sans établissement stable Kohen Avocats",
+      "source": "Kohen Avocats",
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "Société à Dubaï : comment corriger une facture de TVA française après la recodification du 1er septembre 2026 - Kohen Avocats",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFplM3hLSG1kNWd5S2N3OGNZRmtQVFY2aE5qMlpfRl9uZUZsYzNmRXJfVEpsOXdrSGZSdnFuRERTYlR2cC10VHZna3hBTUw5NWhqRm9PUGtnRjlJWXhncDhyWGE1MUdvTTlGbHVkTHhpaWpaaUtNbW8wckttdFpzM09qeTdRUDk3NjhZOVF0SWNtWktzOHhN?oc=5",
       "description": "Société à Dubaï : comment corriger une facture de TVA française après la recodification du 1er septembre 2026 Kohen Avocats",
@@ -425,6 +461,15 @@
       "summary": "Les informations fournies dans le titre et la description sont actuellement insuffisantes pour détailler précisément les obligations comptables et fiscales requises. Cet article aborde néanmoins l'échéance du 1er septembre 2026 concernant l'e-reporting des paiements et l'autoliquidation de TVA pour une société estonienne B2B en France. Pour un étudiant en gestion dans le secteur du matériel agricole, cette veille met en lumière l'importance d'anticiper les futures règles de facturation électronique et de gestion de la TVA pour les opérations internationales."
     },
     {
+      "title": "Société au Portugal : facture intracommunautaire à une entreprise française, autoliquidation de TVA et preuve — que faire - Kohen Avocats",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEVSZGlmUHJ3NW9hanBoTmI0NXo5TGhocHpERTlSNUtWb3ZyVElPQXpqcWFFbE5UNVNZQl91VkFCSU45Y2pGTzBhMHYtWXFLRjhhdEJDTUtWbGtCOXk0YW92RlpGYWZ5YUlqdmcyNUJlMWV5V3Bvc19pR1ZuVkFkckdnZExGcnhaR1BsdWJkOFQ4dms3M1NvZzNwbHJkODl3VDJiVjF6NFZyZnBEeWhYX1J3RWxtQ3FRa210eUpBTXNQd2IyTnBGak16YndzOG9OdEZr?oc=5",
+      "description": "Société au Portugal : facture intracommunautaire à une entreprise française, autoliquidation de TVA et preuve — que faire Kohen Avocats",
+      "source": "Kohen Avocats",
+      "published_at": "2026-09-01T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "Suppression du régime simplifié de TVA en 2027 : quelles conséquences pour les TPE et PME ? - TGS France",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdU1UYi1jRjRZVXFfcW8tQTlSZ1RFMFlreEtTNGdnUG03VmUxVTgtNDFuRDFueGxPYkNJSy15aWJPeHZuYVIwMm15cjlOekEwZ2QzY0l1ekQtYVVKLXRFUVZxaTFvdm40Z2VrWHpvbG8xdnYzSGxRN3VkbFRZbmhmNG5LM1lZVzhmZEhEQzF6VENncWpMODZlWkFPazNCNFJSOUgxYVRiQ2pnem5BR0k5dGhGeHFIMWhVSWd2bQ?oc=5",
       "description": "Suppression du régime simplifié de TVA en 2027 : quelles conséquences pour les TPE et PME ? TGS France",
@@ -432,6 +477,15 @@
       "published_at": "2026-08-31T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": "L'article annonce la suppression programmée du régime simplifié de TVA pour 2027 et s'interroge sur ses conséquences pour les TPE et PME. Les informations fournies sont toutefois insuffisantes pour détailler les impacts précis ou les mesures transitoires. Pour un étudiant en BTS CG dans la location et le matériel agricole, cette veille invite à suivre l'évolution de la réglementation fiscale relative aux déclarations de TVA."
+    },
+    {
+      "title": "Société à Dubaï : la franchise en base de TVA française est-elle possible pour vendre en France - Kohen Avocats",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUY0MEZDMDc2bkRGdkQtYVZ3VzRtaUI0UERCZ3ExUUY3b2RON1ZpWllKWHJ2TVVaYmRnWE42UV9EQ2loSmlyR20zNlNoWFVwb1RRMGQtNlVqRHBrYU1qZTBydFpVYTlwSTZhWTZuQlFQRVNVd2tiOEc3Z25GYWJmNG1yaFBneVh2MFc5bg?oc=5",
+      "description": "Société à Dubaï : la franchise en base de TVA française est-elle possible pour vendre en France Kohen Avocats",
+      "source": "Kohen Avocats",
+      "published_at": "2026-08-30T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Créer une société à Dubaï et vendre sur Shopify en France : TVA, établissement stable et redressement fiscal - Kohen Avocats",
@@ -551,12 +605,30 @@
       "summary": "Les informations fournies sont actuellement insuffisantes pour rédiger un résumé précis, car la description se limite à répéter le titre sans apporter de détails sur le contenu. Cet article aborde néanmoins l'impact de la réforme de la facturation électronique prévue pour 2026 en lien avec les Français de l'étranger. Pour un étudiant en BTS Comptabilité-Gestion, ce sujet présente un intérêt potentiel concernant les règles de facturation internationale, mais l'exploitation pratique nécessite des sources plus complètes."
     },
     {
+      "title": "Créer une société en Estonie depuis la France : un stock dans un entrepôt français déclenche-t-il la TVA et un établissement stable - Kohen Avocats",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSWZzTVY3bzNSMElpSDlHNVk4LThpNmZPV0dPdU5GRVRBejQ1UmYxVUNrUm9mNW1oWUc0OHZBNVFTcy10bmVwVTFtLXoyNFMtRzdGd0hKTkx0eXlPRXJadk01V0ZXSV85aVZ5Q0Y5cjVlclNHQUQxaWJDbjB4emNMdGRrUW5RXzNZNUlIZGF5dVNIcjVUQ2tSWW5WM3FaSFRCWERySFd3b2M5S2VBbms0MzF0SGk?oc=5",
+      "description": "Créer une société en Estonie depuis la France : un stock dans un entrepôt français déclenche-t-il la TVA et un établissement stable Kohen Avocats",
+      "source": "Kohen Avocats",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "Transférer le siège social à Dubaï : que devient la TVA française sur le stock resté en France - Kohen Avocats",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejhSd3hkdUxOa3NoRndZdTRiTzMxSDh4RFBDUEVLOTNVaWNHRDdSUmloRmhoQjZYUzFqM3J0MWktdUJEbEdEWkk2Yk5RbUgyVHBFd1dQemdBNDloS3h0cl9IdXdiN1JYektmZ0NRcDVQTnAtWlNOTTZQcVQxYjUtWnNXTUpXem8w?oc=5",
       "description": "Transférer le siège social à Dubaï : que devient la TVA française sur le stock resté en France Kohen Avocats",
       "source": "Kohen Avocats",
       "published_at": "2026-08-24T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Limerzel. Agri Limerzel poursuit l’activité de mécanique agricole - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNV3EzYXA2WUk0NkUwNTc3UFRtRGtHWG43Y2ZtOTlYb0dLTXJVeGhESUxrYUxCU3dpUU9uckpTcGV0TjNnOV9DNUhIZzc4cF9EU3dkME5pMmVxNlBlMHdWdGFNSFVPMVNjNXZJTnFKQS01ZF94cmV6bnU3ODBDZ3ZIekF5MTdQVkpUMXo2a0t6RmVOVUJJMi0tZFZfMUVraWdRZHZEUUpVNnJwVC1sRGY0WGwzRFVvWVotYnVybEd6QlZlZ25VdmZ5TEFfOWVFS1FUVk96T0FZNm9sbXlOMG53OGdkZHc4RVE?oc=5",
+      "description": "Limerzel. Agri Limerzel poursuit l’activité de mécanique agricole Ouest-France",
+      "source": "Ouest-France",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "category": "Secteur professionnel",
       "summary": ""
     },
     {
@@ -567,6 +639,15 @@
       "published_at": "2026-08-23T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé détaillé, se limitant uniquement au titre de l'article évoquant la nécessité de réformer le financement de la protection sociale en France. Du point de vue pratique pour un étudiant en BTS CG dans le secteur agricole et de la location, cette actualité soulève potentiellement des enjeux liés aux charges sociales et à la compétitivité des entreprises. Cependant, l'absence de description concrète ne permet pas d'analyser des impacts chiffrés ou des mesures fiscales applicables."
+    },
+    {
+      "title": "Société étrangère : peut-on demander un rescrit TVA français avant de vendre en France ? - Kohen Avocats",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXJNMWp2OC1MLU9tVk55TGxNbzJfNUJ3YV8yVGhQdTNib3J0c2gyWXNYdXVkU0JTZzdrNTBtdV9HdEgxYUFNcFBUTmoxRHlleE1pVHVMc05tc2VqcU9CNjRzZXRDX0NnVDdITkhRU09iWWJmZDFwQ2MxTkd2bkVxcDNmME5JLXgtLUJhbHhR?oc=5",
+      "description": "Société étrangère : peut-on demander un rescrit TVA français avant de vendre en France ? Kohen Avocats",
+      "source": "Kohen Avocats",
+      "published_at": "2026-08-22T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Société à Dubaï : qui déclare la TVA française sur une prestation liée à un immeuble en France - Kohen Avocats",
@@ -605,6 +686,15 @@
       "summary": ""
     },
     {
+      "title": "Créer une société à Dubaï et vendre à des particuliers en France : TVA, immatriculation et guichet OSS - Kohen Avocats",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV3VwQnp4bUNZUW9NYUQxNVNtUmpuVXNEVFJLdFozaVo3VDhlbWZRTFJ5ZXVkMFUyMjNzeEVLVzQ0UHlVVXlrVFh1MkV6dWpiQW5ieGxCaEFwaWVhZGlVMkh5bE5lWFRpNzZjaWE0bVNabDkyMmRlUzllUXV4ZkhILUNHYXN0Y0d3RGJJ?oc=5",
+      "description": "Créer une société à Dubaï et vendre à des particuliers en France : TVA, immatriculation et guichet OSS Kohen Avocats",
+      "source": "Kohen Avocats",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "État, fiscalité et finances publiques, navigation à vue : ces décisions qui ont coulé la France depuis 50 ans - Le Figaro",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeDlYN1pMclFQbzktUHJGYUowN183WGV3WU5ILVFVWFpMVHNEaTFHNmdTMi15ang3eUNULWc0MHFLaHo4VVRpV1o4MVBCLW9rWWhmSjdadlltcHRqUmFhdkRRbXYydTNad2JWV0ZQOHdQOGNEcW82eVZKWXhzeDhVUW8wN2tVQlMzcFRVMkF1OWdmRFZ4eU80Qm9Qd2U3MmdOdU00dFpBbENLakh2dVRvRlFIS3h1anBsc1RFRFNkYjdCTXBuaEQzYk9udnYxaEhYTGt0cllrdzEzTS1xU3VqamNYMTg?oc=5",
       "description": "État, fiscalité et finances publiques, navigation à vue : ces décisions qui ont coulé la France depuis 50 ans Le Figaro",
@@ -621,6 +711,24 @@
       "published_at": "2026-08-15T07:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": "D'après l'actualité fournie, cinq tracteurs John Deere ont été volés en France, un phénomène attribué par la source au \"laxisme des sanctions\". Pour un étudiant en BTS CG dans le secteur de la location et du matériel agricole, cette information met en lumière un risque majeur de perte d'actifs et de dépréciation de stocks. Elle souligne l'intérêt pratique de renforcer les procédures de contrôle interne, la sécurisation des parcs de machines et la vérification des garanties d'assurance contre le vol. Les informations fournies étant toutefois très succinctes, aucun détail chiffré sur l'impact financier n'est disponible."
+    },
+    {
+      "title": "Quatre points de CO2 gagnés, un quart du marché en moins : le bilan du malus automobile et de la fiscalité française - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZUd5OF9PRDBSaUp2NVptMElTLWthTUVTSVBveGRiczkzdWR6Y2RxUTViY0hCSzNLeFpCR1JDZkpuT2hGYl95Z2tyR3VkYXNxLWY1QVhOVjNDalphZXdhNHZ6X3hoWEhyRTlnRS1fZG40Mi1uZTNSbXRWLS1mWHYxNURCSTFEd2k3MVRpTlVwbTk5cVF6NkZOc3JFM1ppVk1EM2hQWkhDaHA0UmhhZTM3YlU5QWVueHBNblhUY0xxSmVSekF4MWpraTdRY0NsUjVZQW1WNGNlZW5YYzBUVVRPOVhHTGt3TlBPS2x3M18tSlZ5ck1rU0Y1dA?oc=5",
+      "description": "Quatre points de CO2 gagnés, un quart du marché en moins : le bilan du malus automobile et de la fiscalité française Les Echos",
+      "source": "Les Echos",
+      "published_at": "2026-08-06T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Avec 19,14 de moyenne en BTS, le résident monégasque Théo Schellino sort major de toute l’Académie de Nice - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaE5UQm9JTUVnN1FSeTVKYldBaXVXRHVtdVJJRTRRdUpIRlpZVXBBelhhZm02T3NXZ1pyQWJTdkFjVjdsdTZFZURqYkFNZm1xNFlFRWxFRE14ZlBkTEozQ0lqMkFvTW03eHBtRjVhQjZFeTNKa1dtUldwZnpobXF0MEkyTVlJUFJpa1NsMkUwZjNOZzZza0RoNjNjTFY1RHI1LUJBWEp6aFBBa3JENjFnUThfYkVhdVZwY2tfdHU4OTYzOHFMTTl4ZHA2V0M0aDZJRWVPcUF3WkJSSzQwWHhqMmp3eEhyOEppOGZ3azF2cw?oc=5",
+      "description": "Avec 19,14 de moyenne en BTS, le résident monégasque Théo Schellino sort major de toute l’Académie de Nice Nice-Matin",
+      "source": "Nice-Matin",
+      "published_at": "2026-08-06T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
     },
     {
       "title": "À Lannion, ces passionnés de matériel agricole ancien organisent leur première fête pour « préserver ce patrimoine » - Ouest-France",
@@ -659,6 +767,15 @@
       "summary": "D'après le titre et la description fournis, les informations sont insuffisantes pour rédiger un résumé précis, car le texte ne mentionne que de manière générale l'impact de la réglementation européenne et de la fiscalité française sur le marché automobile. Par conséquent, aucun fait concret ou intérêt pratique direct pour la comptabilité-gestion dans le secteur agricole et de la location ne peut être dégagé de cette source."
     },
     {
+      "title": "Le commerce est le secteur le plus fiscalisé de l’économie française ! - L'echommerces",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUFIc2Q0LVYxMHZJdTdndkpYaW9nMmQ2SUlNM3ZBWFA3NnFUYk5HakRvRjVwdXBOaGJKdUlsRUZMMklrWHhGQWxoSGZOU3pFVXdQamdncm9BaE00bVNGVExoVjUwUkVXbXViNS0yZEg1eXB1UzBWcjBYYzhMMTlFYkM0RE45cGQwRnltd3cxT0YzUXJvZlBV?oc=5",
+      "description": "Le commerce est le secteur le plus fiscalisé de l’économie française ! L'echommerces",
+      "source": "L'echommerces",
+      "published_at": "2026-07-21T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "L’OCDE somme la France de refondre sa fiscalité - Actu-Juridique",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmY5WWY5Q3c4ak9yamxUX3FTYlUxdXhMMkpzVi13MlBFUk96dy13RFUwNjJpV0lsY205alNieUZYUHh5c0M2V0c4S1ZJckNoaFlEZ3NPS204WWRrQWxiN0VZV2dCd1d5V0lxalk0bE5vZFhlSG5NREViWWVEWXI0b25hSmpuTVpKdUpjWC1UWkE5SHhpNDUxT05kR3VXbmFmWVBQSHFB?oc=5",
       "description": "L’OCDE somme la France de refondre sa fiscalité Actu-Juridique",
@@ -668,6 +785,24 @@
       "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé détaillé, le contenu se limitant au fait que l'OCDE demande à la France de refondre sa fiscalité. Pour un étudiant en BTS Comptabilité-Gestion, cette actualité générale pourrait potentiellement impacter le cadre fiscal des entreprises, notamment dans le secteur de la location et du matériel agricole, mais aucun détail pratique ne permet de le confirmer. Il conviendra de surveiller les prochaines publications sur le sujet pour identifier les mesures fiscales concrètes envisagées."
     },
     {
+      "title": "Climatisation réversible : voici le nouveau taux de TVA - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbFNWZlItc2pMRWhNX2dmYkVTYXpaSXh4WlNHMUlyd1U4bmpWRmV4NjVQRGpOQktackwxTlhMRU4wb3kzV0tyaWhvZnU5ejQ4ODFyZjVLWFZTSXgxNEh0bll5R0FFd01qT09fS2J0TnFDT25ta2RQZTRhRWxMOWpPQjc1X2l1Y1Z2emgtWXBLa1VWZjlpcW9NZGZUNFpXUl9sRHpTVWJwMDFha2ktTlJyU1FsQ2JQWU9mT3djbk9SNXlud3F0UVNYc24wSm12S1Na?oc=5",
+      "description": "Climatisation réversible : voici le nouveau taux de TVA Ouest-France",
+      "source": "Ouest-France",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Fiscalité des hauts patrimoines en France : les députés pointent des failles et écartent la taxe Zucman jugée anticonstitutionnelle - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPV1dqdk1Bd1JIMHR2TmMzS0hubkloVXU3My1SMEtyNzBLcVdUcHFRZEdqLXgxU3NoQndobTN2eDc5TEFBbzJIcmJ1YXp3dG11RllnUFF4ZDNaX2NDN2pSUmZYOVpSWk1PMDlLYkNOTEpxUkN2RERTajZGVTU0NmxTeTd4ZTB4TzdTdy0wQmltOHF3T1o5ZDdfNzZlcGRtWVFHczBrN1NWMzlvSFVZUW8wbEdDenFqNW1lbEJJUzRfeWRCNHhobTFwOTVCV2x6YWl6WjZKV1h6WnE0ZWdPZ0xOamFmNUY4aU5vSlB1Uy16TUw0dHJ0STZjTWdCcFJ4MXhXOE5jSXZiRU42TWZoeUxVN2ZB?oc=5",
+      "description": "Fiscalité des hauts patrimoines en France : les députés pointent des failles et écartent la taxe Zucman jugée anticonstitutionnelle Les Echos",
+      "source": "Les Echos",
+      "published_at": "2026-07-17T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "Incendie dans un élevage porcin en Mayenne : une cuve à fuel et du matériel agricole détruits - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWU9xUk1odVhMV2R1T2JnWXlSUEM3ZnFQU1FabU50ZG9Vd25WRXlGZE9PbE5FUHRTRGo0MTFhREVpemVhejhXZ25wMUNyLWZlVGU0VVJkU3ZDNVY5WUEtZ1oya2ZlZmVFenVaOFdEa3Vad0NncmpXWmV6QUl0aWlaUGN0dFBCdkt6TWgtRl9WNTBHY0JUM1JvU0FYeThTOU1xRFFSTmNXUnhzbnB5ejVsakV3M25RbVc2bG5JbjJSSC1hWkNpSERWRkJ4NEhMUUVqUkJYMjJIdklPRUdmcXRrdzZZajAzdw?oc=5",
       "description": "Incendie dans un élevage porcin en Mayenne : une cuve à fuel et du matériel agricole détruits Ouest-France",
@@ -675,6 +810,15 @@
       "published_at": "2026-07-17T07:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé complet, se limitant au titre d'un fait divers sur un incendie. Cependant, l'événement mentionne la destruction d'une cuve à fuel et de matériel agricole dans un élevage en Mayenne. Pour un étudiant en BTS Comptabilité-Gestion dans le secteur de la location et du matériel agricole, cette actualité souligne l'importance des risques matériels et de la gestion des sinistres (assurances, remplacement d'immobilisations)."
+    },
+    {
+      "title": "Comment Audi a bousculé sa chaîne de production pour se plier à la fiscalité française - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbDl5UXVRVHZETVJDdW03SjRuNlZyWDNQdXVhM1VBMVdoMU9ONjM1T0otYVJ5VVl3dGpJaGxvT0wwU2djZmctTFhRSDhOMGU2aERZQ0Eyam14OWNuQ0FUQmtvTmRaR1FRVmFPNjBsNFFyellJeEl5TjU2cEFsMHUwSHVMbXNHV0FaSkZCZV9KUWVLbkk2RkJJSWFQX19DSVRsYV9GS3pDVFdzaUxSVXpwaFJ3QWxDbDlMaGJDQ0NyYVd5enM2OWNlc3R5dXZvbHZSanBDYjRMemczOThDTjBYVzR3?oc=5",
+      "description": "Comment Audi a bousculé sa chaîne de production pour se plier à la fiscalité française Les Echos",
+      "source": "Les Echos",
+      "published_at": "2026-07-10T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "Bons de réduction : un fabricant non établi peut-il demander la restitution de la TVA ? - KPMG",
@@ -713,6 +857,33 @@
       "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé détaillé, se limitant au fait que le Parquet européen cible un réseau présumé de 26 sociétés en France dans une affaire de fraude à la TVA. Pour un étudiant en BTS Comptabilité-Gestion, cette actualité souligne l'importance des contrôles de conformité et de la lutte contre la fraude fiscale dans les transactions commerciales. Il conviendra de surveiller les suites de cette affaire pour comprendre les mécanismes de fraude identifiés et les risques associés pour les entreprises."
     },
     {
+      "title": "Le Parquet européen mène des perquisitions en Île-de-France dans le cadre d'une enquête relative à une escroquerie à la TVA \"de grande ampleur\" - franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOTTVyVmNkbWZPakFkNWE3dUE1dnA4WUVwU2tKQkRyU3RpSUNaYUw2X2lGRldNRFlmMkYxeE0zY0dxRzJMZ09DcHBFMi0ybGVkblNkLTdEblcwb3N2MURURlp3Skc0WnluMTRmVjAwUUVYcVNDUjFKQi1aS2F1Ym9DOWt3NnFBMUp5bm1mbnhtM3IybjBYY1V2YjBXSkNXTDlFemFfX3FOeDU5cGY3NkJUM1ZBWG1sOFZ6WmlmNnRiZF9QeDZGWkJqVzZNaTM3NmFXcGhhbElSaXE0RTRkT3hBdGlqNWpfZWdDcjlqSzRwaXVBY1dWZjNrUEpmVTNRR2F4NlVwTWZLbm1GNlg3a2xGT3FHbURIdTI1U0NFYlBWNjREUQ?oc=5",
+      "description": "Le Parquet européen mène des perquisitions en Île-de-France dans le cadre d'une enquête relative à une escroquerie à la TVA \"de grande ampleur\" franceinfo",
+      "source": "franceinfo",
+      "published_at": "2026-06-29T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Réduire à 5,5% la TVA sur les climatiseurs \"réversibles\", permettre aux \"copros\" d'installer plus facilement des volets... Les propositions du gouvernement n'arrivent-elles pas trop tard? - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPaE9fREhpNE14Q2pySllrLXFKT0tCN0I2ZmFhSGtTaFNHZUtkMURKNWpEdTZYUW1raGJPQ0ZncVFjNlRETlpTYmhtUHpPbVB3d0dQZnpueVlBc3lNcnVqOUp0dVZFcVl2bGw0bENCakZjNGdNRnhQdW9BYWNDRjVic2pkcXZTc05kTEF5b1JTZkZZV3QwdnVmMkRrTGtyTGZjTWdwcTZFMkhJMHRVREI5SzVnYVRDd0dlNk9RT2w0TlhqeU85NFRsa2p0RHEtMWdvTXlvZDJpSXJ0NWYwNzNqNWUtQ1JYZkI4UVdsUFBkUmVhd3pvR1NkY2JHUVhqaDU5WWMyRTJ3UlRXRWxEdk1iMHMtRkUyM2IxMWdvUzJicGFoUFFJZGc2T1h5Ykpvb19IQnotQWNXdHJaNWxKN2kwcnlkbEpNMWgwZFFJZjhLYmQ?oc=5",
+      "description": "Réduire à 5,5% la TVA sur les climatiseurs \"réversibles\", permettre aux \"copros\" d'installer plus facilement des volets... Les propositions du gouvernement n'arrivent-elles pas trop tard? BFM",
+      "source": "BFM",
+      "published_at": "2026-06-27T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "\"Ça va être chaud aussi pour les épargnants\": la fiscalité de l'assurance vie est dans le viseurs des politiques, France Epargne s'inquiète des \"idées plus ou moins loufoques\" - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOOXMtbEpicHd6LUh6cnJKQ2xzUUxUaHV5VXpHcldBcU9IMkMzZ0xwN3J3ZlJWTktmVE5EWG9UNkFXN09YX1BPbG0zcEdyMXR6WkNKSkNHRGpsTXRzRVVEZkVxZmFkbTE2YTRFaEZqa3AtWFVOSm5oSDhiTXE4bm1HWHRQMElEVG9aTzc0MlktZHRnZW9icW1KMHJvN3FqQXMzUGtmQWMxb3Y3a2FNRHZtZmhZT3VpSUVNeTVFLVlPYkhiX3otbTVqbzc4M2dsUFZXNFI3WmY5NDc4a3BEeG01Z3VWWm80SWFCRFYzLUdaTG02ZDZCVkZsSVZJd3RicjBEb2M4dlJoY3ZKazJfY0pTc19oekJFRE5KSlYxeXEtMktKQlAtemtiMnFaREw4Nnczb3JyMFdpZGtfN0VSQjFoaDhUckZtczdVaFNSMElsaDJ4UQ?oc=5",
+      "description": "\"Ça va être chaud aussi pour les épargnants\": la fiscalité de l'assurance vie est dans le viseurs des politiques, France Epargne s'inquiète des \"idées plus ou moins loufoques\" BFM",
+      "source": "BFM",
+      "published_at": "2026-06-23T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "Canicules : le gouvernement mise sur une TVA réduite pour certaines pompes à chaleur - Effy | Rénovation énergétique",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93VzJYTlplT1F1VkFjRDMtRHNvUmg2M3RBb0J5Um5LVEE1M2lIemZqU2diVHhINHVfN3lXTjRaQktRU3plNmhPNENKaF94VlA4eFBQR1prWEE2Y1MtVFNOWlNzMnI?oc=5",
       "description": "Canicules : le gouvernement mise sur une TVA réduite pour certaines pompes à chaleur Effy | Rénovation énergétique",
@@ -731,6 +902,15 @@
       "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé détaillé, se limitant à l'intitulé d'une foire aux questions (Q&A) sur la fiscalité de TotalEnergies publiée sur leur site officiel. Ce document aborde les règles fiscales applicables au groupe énergétique, mais son contenu précis n'est pas décrit. Cet article peut néanmoins présenter un intérêt pratique pour étudier des cas complexes de fiscalité des grandes entreprises, bien qu'il ne soit pas directement lié aux spécificités de la comptabilité du secteur agricole et de la location."
     },
     {
+      "title": "La commission des finances auditionne Patrick Pouyanné sur la fiscalité du groupe - Connaissance des Énergies",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlVTOW03Q212eXBfc0lkelhHQnFzM0xNUjZJWDRNNVRISC1KM3FKWU9CVGhVMWR0RHJrYmdoZGJQMnUwdGdkNmc3cmFqbkU5T3NCbXVHdUcxZHJVcWFXMGtRM0J2Sk1VSkZkNWE3OG1idWFGMVdRN0ZjYzFMTWJORnkteTBPcjQ2aGEwZHlrVUdwQU4zMmJCRzNJdVRGSk9nWU5HWHFvNng2VXdVUU5FWFk3bEE2NzZoUXd3djh2clFEamRqV1pZ?oc=5",
+      "description": "La commission des finances auditionne Patrick Pouyanné sur la fiscalité du groupe Connaissance des Énergies",
+      "source": "Connaissance des Énergies",
+      "published_at": "2026-06-17T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "Non, la fiscalité et le travail ne sont pas les coûts les plus importants de l’industrie française - Alternatives économiques",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRjV3SDhKMEthalN0Y0d1OFc1VjhDSUJDMHFMVk85dGNCWTRzRzhQSjExTHdESXRJRGhFaGh6eFIzd1BpcHNaS0x4NUZOSUxqT1RQM24zbF9vWldNTWhueHlyMGpsNXVVNjMxRGJOT2prV29tdFFXM2xyeWYwbTFaQ2pTQzQ4TUNyN25zWkc5NDcwOE5jaFNLN0VsTjhZOGQ3SGJBUGRNYm1sRkUxaURNbDNTVmx5a3FKZGN5X3FwSHgzNXZLR1ZSN2VKV3NIUUZUVDR3?oc=5",
       "description": "Non, la fiscalité et le travail ne sont pas les coûts les plus importants de l’industrie française Alternatives économiques",
@@ -740,13 +920,76 @@
       "summary": "D'après l'article d'Alternatives économiques, la fiscalité et le coût du travail ne constituent pas les dépenses les plus importantes pour l'industrie française. Cependant, les informations fournies dans le titre et la description sont insuffisantes pour détailler quels sont les postes de coûts réellement prépondérants. Pour un étudiant en BTS CG, cette information invite à la prudence sur les idées reçues en matière d'analyse des coûts, mais nécessite des sources complémentaires pour alimenter concrètement une veille sur la structure financière des entreprises industrielles."
     },
     {
-      "title": "Fiscalité : la Cour des comptes dit non à toute suppression de la « niche Copé » prisée des grandes entreprises - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSmdjSXEyT0h2dnpSZTY1ZWFfNTA0c2dhT1A2VmFOZzlGeXRpYmxGOURKelFtVmxMUFdYY0dsaE1UWXJXZE8zUE5XU3dXSWZNZ3hhWGxJcElXN3pwQlNjXzhoSHFBMW1CT0RrdGhuV3ZNR2pqcEZqRVFQVThNNWE2RndCNU1oY0p5MU1uOU1qM1FTRktmVkRHYV8zMXpfOVV5TjBBbW80Z29CbWV3WkFaYUFYbTQ4dGhKLUdnUnloWDVXdnFBVk1YUEtQUnJxS2E2LWJpZms3emtNMlV0UkhRdlhIc0oyWF9kQ3Z6TjVtbk5zTS0wUDRJWDFHT05qWnkyck1TZUZEdGg?oc=5",
-      "description": "Fiscalité : la Cour des comptes dit non à toute suppression de la « niche Copé » prisée des grandes entreprises Le Monde.fr",
-      "source": "Le Monde.fr",
-      "published_at": "2026-06-09T07:00:00+00:00",
+      "title": "Avec leur mini-entreprise, ces étudiants de Maine-et-Loire sont champions de France - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVkZVc2cyTGVMemtvOE51cDZ5bUpidXdFUWdqNFlpa20tTFpfS1JQY3gtNEVkR2FwMS1fQk92bzNtcXJEMTJTRTRnT01qZHk4Tm1wZG9vSFU4WFZMb3MweVc1WjJmMkt0a0ZkQ0w0eXBodVc3NjFQanNNSWpLTEhCMlVjRHdvdTgxeGEwV09tdFNSRm9vUU1vaGhyTng1LTN4WlZVanFjTThlVzJQcVFOcFJaQ1c4OHR2cGd3M1RsenZmV3BlNkdXOWNxbXhfOGFPeXlTMFRremZFRDNKaFZuRzlYTU01VDUyZ0tSMDhUQzQxYWh6d1VOVzZUN0NHcUQxc1VpR0hvdHU?oc=5",
+      "description": "Avec leur mini-entreprise, ces étudiants de Maine-et-Loire sont champions de France Ouest-France",
+      "source": "Ouest-France",
+      "published_at": "2026-06-12T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Pas de comptabilité, travail dissimulé, 112 000 € pompés à titre personnel… Une gérante de société condamnée - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQOEtZMFd6MEhPdHZDd25hNTZzVG9IZEVlZzZSQVV5SEk0QUl3eDNmYXJ0bEdiSFU0RmNjMWNPZkx2M05oM0tLdU5YUlo3U2dNYnlueW9Vc2lkSVdyeEFmdWZvV1Z3VlFzRFY1Q0xhVkp2aEZvQ0JLQXoxdXVWYmwzeHVQdnBTVS12TE9uTURia01VdFoxRWdZMm85S3VsWC1TSkZuZVBXZVBQMzd4dng2UjhzTWxFbDNYSWRDVUdZMEUzaFFwYkVTOUsxTVlUZXpOT2lYM0dZYkh5Nmx2Vnp2R0doUjd0QUlISktqSXBQLXRwdWwyeFdyNS05a2pwLWxIMUlGZ3ZUaFZEcmRqT18zUFU0bnVMMFJnR2c?oc=5",
+      "description": "Pas de comptabilité, travail dissimulé, 112 000 € pompés à titre personnel… Une gérante de société condamnée Ouest-France",
+      "source": "Ouest-France",
+      "published_at": "2026-06-11T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
-      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé détaillé, se limitant uniquement au titre de l'article concernant l'avis de la Cour des comptes sur la « niche Copé ». Sur la base de ces éléments, la Cour des comptes s'oppose à la suppression de ce dispositif fiscal très prisé par les grandes entreprises. Pour un étudiant en BTS Comptabilité-Gestion dans le secteur du matériel agricole et de la location, cette actualité présente un intérêt pratique limité en l'absence de détails sur l'impact direct pour les PME ou le secteur de la location."
+      "summary": ""
+    },
+    {
+      "title": "Budget : pour redresser les comptes publics, trois scénarios et beaucoup d'impôts - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLTFsQUV5bVVmcDBubkwxMWoyMmJsODBVSGNhRnAtMDBzR0JQODllbEtlcDJocnhMVTBFNUpiN0RMb2dCTnMyTVhwYzJxajJNdHZpR3dGRTlQSW04b3hjVU1lN0VtemJ6UXAwSXJ3UXBPU3prOTJyQkU3bzBEdHdWcDYyeHk2cXFVTXlKVDR4QmdwYVk5WU44TWRabmg2Z2QyWjE5UlVjWWZfY0Nna2tpUWdHa180MFBPNFI0YkNGQVNTMGdDT1BOS1VQcGJzNjhvOVhEU0pqb2lwUQ?oc=5",
+      "description": "Budget : pour redresser les comptes publics, trois scénarios et beaucoup d'impôts Les Echos",
+      "source": "Les Echos",
+      "published_at": "2026-06-08T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Fiscalité routière, des vérités soigneusement cachées - Transitions & Energies",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xT0xrRE5sZ0UyZDFkY3FkR3RocWRVSDdTdDU1YTVqNEdmdm9oY3lzVzdqc2EyZ3FzSjM0UFFZelNLZU1VcUZQeW41UVRYRlZsSHhhVG1CYU12SVk2UEk0VUI0ZlJIMGRxY2Vlb2JyM2J1TVBYeGRFd3JQWQ?oc=5",
+      "description": "Fiscalité routière, des vérités soigneusement cachées Transitions & Energies",
+      "source": "Transitions & Energies",
+      "published_at": "2026-06-08T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Jugeant la mesure coûteuse et inefficace, des experts déconseillent une baisse de la TVA sur les carburants - franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQzZya1BjVERqdk40UEhQSlhmcUlkOXdzVVVnaWl4ZEhnZHBWNTZtY1JLU3BxWTMwNnFROTUycnBmYXhqMmd6Rkgxa19KOGlvQmhSbFVtUTNGenpId0VNUkFNdWQyMmVkR0NycEM3Z2hvdkZOZ2ZKTkhWZ0tfUk9paXhNN01PWDVkU0pzcldmaC1FX19ySzJEZDdJeXgtUGNaaUxxeHlmcWNCTzZ3Ynk5TjNNemVQRmstR3dFMmc4Z3M3Z09sVENZX19hdjVmMHE5UFA3X3k0RlJpRDBtWThKd3NPUHlxbU44VGs5UGV4Zk9KbU9hM18zdThMejdGMUlhYUxHMg?oc=5",
+      "description": "Jugeant la mesure coûteuse et inefficace, des experts déconseillent une baisse de la TVA sur les carburants franceinfo",
+      "source": "franceinfo",
+      "published_at": "2026-06-04T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "La France et son obsession pour la fiscalité financière - Contrepoints",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ1QzY0Fhem5PMVdmXzhRWGZRaFYzeFhNVk1oc0dzSG9VdVg0RV9jYTM4bHJPQW1CX0RWNUNhWU9OTTZ1TUtqQTRiS1RNVl9jS0lBOXFSWDZKNkdnRWV1VWtCN190bnJXMndkVXRLdjJkQ24yeXZ6SmVJa2JTVGVDTTNudzVJT1FU?oc=5",
+      "description": "La France et son obsession pour la fiscalité financière Contrepoints",
+      "source": "Contrepoints",
+      "published_at": "2026-06-03T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Fiscalité des plus-values en bourse en France : comprendre pour mieux investir - Cyril Jarnias",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNGlWNXNtWV8tQkRnQkpNMHVTQm93aXBpT19ibTJJRGZUc2ozRFNiUmI3Qi1FR2JZQWQyMFRlVG9zN05CVkFlaFp5NWM0UGtrb1FKWVJRaGNFTU9SOERrSWNzTHFrcnd4NXRjVGVmQ1ZhX1ltbXpWNU9aRE9yd0RhaEZ0ekc?oc=5",
+      "description": "Fiscalité des plus-values en bourse en France : comprendre pour mieux investir Cyril Jarnias",
+      "source": "Cyril Jarnias",
+      "published_at": "2026-06-03T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Fiscalité Routière : notre nouvelle étude à l’honneur [France TV] - Contribuables Associés",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlhmWGZkZUw4WFNYVDg2d2I5YVRNaDZkU25ndnhtOXdOMXBlUHNrS1gyMFNNS3ZxRDZyWGRJQWxaVGtrSUczSVVRRmwtbi1jLTVzaVoxekNfS0ZvdndfVW1qTFdsVHh5ekFEaUc4QVV5N3JsRjNuZVFyMHpydEhPTlJNUXREN1ZOb0lRU08yZmhHQThZXzJlcXRqYVNuRGpVQTlDMnE4SVVEUQ?oc=5",
+      "description": "Fiscalité Routière : notre nouvelle étude à l’honneur [France TV] Contribuables Associés",
+      "source": "Contribuables Associés",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
     },
     {
       "title": "\"Nocif pour l'économie française\": l'économiste Gabriel Zucman estime que la TVA sociale \"n'a aucun sens, particulièrement dans le contexte actuel\" - BFM",
@@ -767,12 +1010,12 @@
       "summary": ""
     },
     {
-      "title": "Une grosse Fête des foins à venir pour les 20 ans de l’Association pour la sauvegarde du matériel agricole du Loir - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOMEJibXBrSlFZSHBwWEV5VjkwQ1BtWlhlc2pXdUJGXzcwOVhOMjlkRmVsYlhLVkN5RjhPSlVnVEV2VGVpa3FSelh1QmpmY3ZWUnkzZmNneG1SSEN5VFlZQkRvLTNPOUdNVTlOYVdsNW5oZHpRT1EzWElXdGpRa0llTWl0ZkFEbjJlN2ZmTnVJTktzZU5iVk16ZlRtX1hUYVpLUXd4b2FSYmVqclpPSXdGTzVnS3Vwc1YwUEhDbkVkNFJ6M2MxZjI5dnU3TFRGZzZCRVdDQzZBeEhMandONHBZWV9ieURfdmNLYUEtdm5xMFFNVUQ3R2RuY25aZ19DZU96ZDBYOGRaSWE5bnhfNG4wQlE3VTNmMFZlclZScVlsRmNDY0JNR3BFbHU4NXZBR1lw?oc=5",
-      "description": "Une grosse Fête des foins à venir pour les 20 ans de l’Association pour la sauvegarde du matériel agricole du Loir Ouest-France",
-      "source": "Ouest-France",
-      "published_at": "2026-05-27T07:00:00+00:00",
-      "category": "Secteur professionnel",
+      "title": "Corrigé BTS CG 2026 épreuve E5 cas Stone&Stone à télécharger gratuitement - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XakgtWExXd3JiNjVMOEcycGVuWVRGUU82VG9ZS2VIdDVqQmNzcW5MMW5SSk52enlwYVFDLUlKdy1xcXplbjd3cTVkOTdxclZuVmREZTJLUXI3bUJmV1h3VzRzTkxkY0lCYmJQS0E4UGJtdUtuMXc?oc=5",
+      "description": "Corrigé BTS CG 2026 épreuve E5 cas Stone&Stone à télécharger gratuitement Compta Online",
+      "source": "Compta Online",
+      "published_at": "2026-05-22T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -785,12 +1028,12 @@
       "summary": ""
     },
     {
-      "title": "AIKO éligible à la TVA réduite de 5,5 % en France : Conformité validée selon les critères carbone stricts de l’Appel d’Offres PPE2 V2 - AIKO Website",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HTFpWNnJydTkxZUVES2tWYm93VEVFdnVjYWVHVjlBVU1EY1J0OEpHVDhvRzltZTR0VzBERlFoWWJ2a0tDdG5Nb3JROHdhQzdobk1DUnk2WEtpYmxlZURpWDJ4RVNrcTZpa0h1Y19R?oc=5",
-      "description": "AIKO éligible à la TVA réduite de 5,5 % en France : Conformité validée selon les critères carbone stricts de l’Appel d’Offres PPE2 V2 AIKO Website",
-      "source": "AIKO Website",
-      "published_at": "2026-05-08T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "BTS 2026 : le sujet de l'épreuve de Mathématiques appliquées du BTS Comptabilité Gestion - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWVZRV0lXeFdHSnExVHhnTHA3VzJ4ZVczQm9ScDdrZUpRRnB6QXhvSjhsYmNPT0RxdW1DajFmQXVGaUlvbFY0aFZGTEg5M3RQV1VzZW1FOFNaeUQxb1ByWDZxelA2OGp4NUNUMThRa2dRTmZRZXB4R013ejFQVDFIM2lWWURob3NkaEhySGdBTWpWOHUyVW5UQUFlOGVfZ0VfS3d3V3kxTThCRXFZdm9nTVVvSnotTllROXNoN05IWG1wQTcwV0lMY2xkUHpsMDh6eWtvVzhPOTlId3lpUExZ?oc=5",
+      "description": "BTS 2026 : le sujet de l'épreuve de Mathématiques appliquées du BTS Comptabilité Gestion Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2026-05-19T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -803,48 +1046,21 @@
       "summary": ""
     },
     {
-      "title": "Fiscalité : pourquoi la France prélève encore plus que ses voisins européens - Boursorama",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcGVFLU1LT0N2bjVtcEs3dmlnZFhOQlJhUzN2MGY0dWN6QmR3TzBKRjdEZzZVZ1B4NExIbjJkWWxfWkRleHNZcW51SFdlMjV3d0lsbkFnNGJjU1hRU192YTVMbm5KSUZWMFNIOUxSMTVkOG5tQmtNTDFJTVpOZGFTNEZod2NENWZTWkZoYTk3eTVqa3o1T0VSVHJEbkhCaW4xQlhrZmZWN0Q5STFEWFR6T3FSMUxpZi15SnBoRkF1RGJ4bXkzVGRZNE1rZTJqZnpXcXlxVXFKZUItd2x6SDZkdFV6Szl3eVk?oc=5",
-      "description": "Fiscalité : pourquoi la France prélève encore plus que ses voisins européens Boursorama",
-      "source": "Boursorama",
-      "published_at": "2026-04-28T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "Dates du BTS 2026 : épreuves écrites communes - digiSchool France",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51cTJSUWc0ZzkwS0IzdE8xLTI2aXdUVlgzc2tSbWhoRkFqbEJHSGpCaFY1TG1GbUVuRmlNWkt5WElMeGVMTlNYOU1zcFhTdDBKSk9UU1d5aUdGQzdFMEwwYndJT0E?oc=5",
+      "description": "Dates du BTS 2026 : épreuves écrites communes digiSchool France",
+      "source": "digiSchool France",
+      "published_at": "2026-04-24T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
-      "title": "Fiscalité du travail : la France toujours sur le podium des pays les plus taxés - Previssima",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnE3M2h2ekdwRGt2bkZtYmdBVGc3Nno1SHZuaVFRQUYxZTNEUlJOVHhYTW5xZnZnTVJGVE1vVHhtdWFrbVpRQW5nczU3R2twTE9xUW5GVktDUFpHQXZ0dUs1NzFPVl9lTnJpbjZNa1NoaTBoSWRaQWVWVTZ6NkVnWllGVTZRMklmTjdlaGhXbkxwYWFDSDdoVWFQSGF1dnNwSFZmX0s3M21Qck9mQmhWVkJpUEFEdG5Zbmc?oc=5",
-      "description": "Fiscalité du travail : la France toujours sur le podium des pays les plus taxés Previssima",
-      "source": "Previssima",
-      "published_at": "2026-04-28T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Facturation électronique : ce que vous devez absolument savoir avant le 1er septembre 2026 - Les Echos Solutions",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaEg5bHExNnZ2d2NGbnU1dzBGNE9KUkRMT0dieUNCY0RoZ0tqRWpVU0xFVWthUzJ3TnZJaHFaaXo1LTVZTE5FUkRWQ1cwcURpNUNjZ2xVUXp1R1NjeUVIaXBjRXlOcVFyazlXelRVYThHMTFYUHIxSTF6UGo0bXhHOUF3bDlDd2NtWHdsUDRmVEg2VWJzTFJnUWtGbjNMTUlWc2NqS0E5NDJlOFFpRUM0U1JKbGE2UkdKNDJISTZNN0FwWEZ2WHcxek9lUUJqTGR1OWR1MGVDcklwZDJ5Nnd2aEF4Z1h0MzdqVjFxSjl2M1lVUnQ0eERv?oc=5",
-      "description": "Facturation électronique : ce que vous devez absolument savoir avant le 1er septembre 2026 Les Echos Solutions",
-      "source": "Les Echos Solutions",
+      "title": "BTS comptabilité et gestion : tout savoir sur cette formation - Le Figaro Etudiant",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRUtVT0xZNnJIOF9qaFZfYXE0ckEyOHJkSTNoVkVKMFRjZHZnYkZKUWJJSFdxRHM5b1J5NDVFeGV1UVZ3Y1NpOWYyZFpfZXBiX3E4bUx4X3BjTW9CX2FaaHNqMVJOaC1SdHFTbmRjNnVpeFBqVk54eUhHc2NNSnlWQ2xRYTRzMnRaYWVhS0JqZy0zN3NCelNJdWhMa1E5VWQ2X2pSWjJNQTJuNHdQQ2NWOXkwV0dkaFlGb1ZVMTQyNGxWTlE?oc=5",
+      "description": "BTS comptabilité et gestion : tout savoir sur cette formation Le Figaro Etudiant",
+      "source": "Le Figaro Etudiant",
       "published_at": "2026-04-21T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "TVA, matière première, marges des distributeurs… Comment se décomposent les prix des carburants à la pompe - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbWo3ZXVMX01XYUUyQzJld0dKUG5mU19lRFlKTXBjb21yWHNjZi1CZWZabzE1RW9BMV9qNll0U0JfRHpDbnY3aUZLdlhKQzNEN0hvX0ZTRGZOazVvZ0ZZQmFEcnhCcWFGWGlkY1NIaWhzbG9sZHF2b01oZFV2djgxb0JhdjU3Ni1qUE9qRnJ0b19fN0pLREF2dWtpVEUyM21fM2tKblpUaFlGQmd4YjlTUjFRenlhUVVOcktEVXAtU0ZzdzJPT3J1ZjcwS1EtYmtKeW5Od01wYjlESXpiMHdGeEdsNWlTcHhpdlhzczNTdzFuYzdNbjE1bGk5ckczVUU?oc=5",
-      "description": "TVA, matière première, marges des distributeurs… Comment se décomposent les prix des carburants à la pompe franceinfo",
-      "source": "franceinfo",
-      "published_at": "2026-04-17T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Inégalités économiques en France ? Entre partage de la valeur, la fiscalité et dépenses contraintes : où les situer - Groupe Caisse des Dépôts",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaDFOc3JoN0Z0QWdybkhPb1lmd3pwZVNVN1JkT2hOdkQ4VmhFUFA2OVY1NGZqbkxWelJ2alU2TXc5OS1XRDNPTEZOVlpqVkFZc3E1TmRkQzhQdlVKbHBYM2lJRnNSWGlmSDhLUVBQWVMydTFkcTV1RnVhcTF6TVFLaXc5R2ZmSF9qc0hPX2lxdXlwak5PQVE4YWVJcUY2ZFJlVGphR1pvMGg3Q200eUhjYThHaE5DSDJUbGhDT2VNN1BiVE5OR296ODl2MnZvcTE1UVNyTQ?oc=5",
-      "description": "Inégalités économiques en France ? Entre partage de la valeur, la fiscalité et dépenses contraintes : où les situer Groupe Caisse des Dépôts",
-      "source": "Groupe Caisse des Dépôts",
-      "published_at": "2026-04-14T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -866,24 +1082,6 @@
       "summary": ""
     },
     {
-      "title": "TVA, taxe de consommation : voici ce que la flambée des prix du carburant a rapporté à l’État - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQdFpBVmhDTVNXLXBkdXdOSVhPNHdSSGxFTGRPMFlLYk95OHUxc0kzaDRaaTFkRl9MbnBsRXVLbkQzVGdLLVFON2VtUmg2SnZvMDg2NG9xWVlGWmZscVAtOVNDeHNtdDhGRjBKMVVQcjZsVEhqX3lLZkxUWDk1VG8zbTZvREUwSV9FWGxQeFFMZkNRcnBycG9UdU1vZ3dPV2ltWnpPV2dUQVBaRWpOSTZlcV9Ba0FNLVFxT1ZmUzNSaXFUeDRFTXllb3Z4eDNCTDBDMlBsaERKVnZCQndLN0s1cXJia2V5eGhRdWt6dDRrS1ZsRE5ENmZDYlNZaHJJMk1kMWw3a0gyTFhfNXk4ak91ZUpfOWswemxsLWw4?oc=5",
-      "description": "TVA, taxe de consommation : voici ce que la flambée des prix du carburant a rapporté à l’État Ouest-France",
-      "source": "Ouest-France",
-      "published_at": "2026-04-03T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "La baisse de la TVA sur l'essence \"est inefficace et coûteuse\", affirme Sébastien Lecornu devant l'Assemblée nationale - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUU1TcGFuNGRpQ2NHN1ZTa1FldDhwdHF4SlRlNnVDaVFqOFNHWXdXejdEajA4ZVQ0MlppMEtuTEppUFJjdWZQU0FOU0hmdWw5VEM5bGZGc3lKV3lLTk9zRHd3UXh1TjVHaTRXcnktWXpreGR5NkxqUEpGY2ZIRkpUMDdRV1RSUS1yc1N2d21UNWt3T2I3Mk4zRjdMdDhpSDE2QXd6djU3RE9IdnlCRE9GZWdFU1hJSmhkSDh1amdjY2JSYXQtS3ZncW4xZ2JMUnAyTkRjSDVfWjZMYndaLXEzNGlkU1EwRkFtVlFVc0s2RFlaX3RIMTZ0djkyUlZUZXZteUdieXloRnVZQi11MUM4?oc=5",
-      "description": "La baisse de la TVA sur l'essence \"est inefficace et coûteuse\", affirme Sébastien Lecornu devant l'Assemblée nationale franceinfo",
-      "source": "franceinfo",
-      "published_at": "2026-03-25T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
       "title": "La Coopérative d’utilisation de matériel agricole de Saint-Lumine-de-Coutais envisage de construire un nouveau bâtiment - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOS09POUFraUhDbHYtNVVPcEFOX3VjXzdmdVFzVGd5NHB4NEVkTWRtamZSQjNaUmxDbDVTSmhfel9pSlh4Z29NcVhURHFlTDZUSTJBaXNsU3ZlbGRUYndyYnVJMWppc3RNNzdLYTQ3ZERPdnQteDI3b1hfQi14UkhRaDRCUHF4VTFGUUhWelUwUXFMdWVhcUJCQzZUS2szRG9qY1U0SDBCZnl3cC1OeFpKWjhQdXJ1UDByYWRLUGJyUERxZnZQaDBHS0NldDBCSWt4T2lVNkx6TmNlajlURXJtekRCWHM1NDBnM3RYTkZEMXZjUEdILTJzeWVKUFFXVkhnZ1h6UFpWYTIzZktjcXBhMmw1b1NYczMzYVhnaW04cEREMTM4MWw1Z2RVME84VF9ub28tbUF5dDI3d3JoYnoxdGFHWTU2T3RNcUQ2MTVQOA?oc=5",
       "description": "La Coopérative d’utilisation de matériel agricole de Saint-Lumine-de-Coutais envisage de construire un nouveau bâtiment Ouest-France",
@@ -893,57 +1091,12 @@
       "summary": ""
     },
     {
-      "title": "Classement 2025 des principales recettes fiscales : la TVA devant l'IR et l'IS - LégiFiscal",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2xGZGlaY3B4Zl95MTlLUTc5TC1VZ01leDlWaW03MUxTQzRRVDYtTlJNNDMtNERSbjhpY2J4aEUzWjdzMHkwa0U3RmpEZ2JxVmVWQ01rMjlYVVRLNDg3elRMV2EwU1h6d2xBX0h1SUZVSk5POGlwZEZ3cVZfbDhmWHJzV29adEFQZFYwU3JUY3NPWktOQXhHc0llRzhxbWhDeGhyZlZEcXRSa2Vhd0dscEdlWGxlYVlkNEE?oc=5",
-      "description": "Classement 2025 des principales recettes fiscales : la TVA devant l'IR et l'IS LégiFiscal",
-      "source": "LégiFiscal",
-      "published_at": "2026-03-20T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Loi de finances 2026 : mesures relatives à la TVA - Lefebvre Dalloz Compétences",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUdBR3hMTUdMajlFOTBMUVhVM2UzQUNuelg1TS1MM3AxQWNXVWJ6eU1RaXZwY3AxMlh0aFU0el9xbkYweEdRZGUxdWtDTkZ3aWNLY3NCT2pKYXdIa0RCUnk5dV9tTUQ0TlNXX3g2US1Pc3g2Yy04YlFBcEVGamVDTkJfaXN0QWZmX0c5aFd6dUFkVDhzMnFN?oc=5",
-      "description": "Loi de finances 2026 : mesures relatives à la TVA Lefebvre Dalloz Compétences",
-      "source": "Lefebvre Dalloz Compétences",
-      "published_at": "2026-03-13T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Réforme facturation électronique : échéances 2026-2027 - kpmg.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDZHck5uSndKaXg0TEI5bGl5WndxSVhsREVuYkxCMzBXQjBfdGplRHczWi1paTl2cXVOTk5KY2F5VGNYS3k1d3lncUFLQ3llNGFXZDN3QkNIRi1KaDFybXNZS2JidUE5ejRQUWEzaEhkVkJRU0VEcXpuNDZvOGk2ZUszUE5uNU5VX0Rn?oc=5",
-      "description": "Réforme facturation électronique : échéances 2026-2027 kpmg.com",
-      "source": "kpmg.com",
-      "published_at": "2026-03-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Vrai ou faux. Guerre au Moyen-Orient : baisser la TVA sur les carburants de 20% à 5,5% coûterait-il vraiment 17 milliards d'euros aux finances publiques - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNdm1yRFdvSS1fNkNkLTlvOXJSMEJyZWUzamgtYm15VW9JVnZjM3J0aW5iekNOanlJOU5halR2d2xlSmZxT25xUVdOVDVVVV9MUkNLMGJFM1BYcHdlZklaTWJpVDZoNnRrbG44YlEydlVET0hYWUFfTm8zR0RoeWtJLWQza19hdmF6a25NcFVKRDZkWGVIVjFlUGdSQVVoSWdKQWpObmlzZUxweXVUMmFzNlBHZzZ3SmY5WktwV0Zhc3RhNUs3V2JvelRhRmdDZ3poc01BRDZlX2YzdnlsRVlmX1JoYW9GbE91empJanFPeFJXYUUwSlczZG5IbGtwMnNSVGRaRVFEdDA2U3Z0UEEwMC0yWnpfeGxuRC1GdFk2dFluUUZjLVZhdThn?oc=5",
-      "description": "Vrai ou faux. Guerre au Moyen-Orient : baisser la TVA sur les carburants de 20% à 5,5% coûterait-il vraiment 17 milliards d'euros aux finances publiques franceinfo",
-      "source": "franceinfo",
-      "published_at": "2026-03-11T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
       "title": "« Sans ma cuma, je ne serais plus agriculteur », témoigne cet éleveur de Vendée - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX1VXYXZ4S3BxcllLZzZyMEhMckhkcWtMaGp1VWk4d0RjNlpVX2gtUmNOMklxWGFWdUFIT1hhNDlIeGNRUGptd1gtaENHdzJJXzNaSUpHZHJFeUVPNlV3RkFuekRJZ2ZCQVhiRTY4ZEdZNlBzalVIWmlFMHZLSE8zQ3hielFsNUFSLW1iSHF3VnQzYTl1QWZMT0o5VXFkajNsUTJja01lTXJKVl9POFk5c1VkcWs4b3EzRktxd2RtZ1dud1RUd1RoWVZQSG5oZEFrMjdHbkJHN1ZZQWhfaDkxNXI1Y0M1VlI2cWVxWjZ3YzQ?oc=5",
       "description": "« Sans ma cuma, je ne serais plus agriculteur », témoigne cet éleveur de Vendée Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-03-04T08:00:00+00:00",
       "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Fraude à la TVA : Bercy lance le compte à rebours de la facturation électronique pour les entreprises - Les Echos",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTE5XdEh4Q25tQkxKYW1CZ29QVFJXUEdaN0lRMFR4U0RWNjBaTzduVXlKbkNVVU1DdllMQS1IUDVOMlJRc1djY3ZyajFpc2ZJNVA2N01fTzNCaXRFWVVtbWlQRUNXb0hEVkVHZF81S2xkempOV3hDRm42N09TN1BEMElfUnd2UktvMUNNNTktSlhrN3FaT3JGbThxYWlnTXhSWDRocVhwN3h0Vkc4Z0pMWXJ0Q0hGa0J2cHQwXzZGLU5yNmdtX1RoeDFkV2tyUzJRbEU4MXlvd1ozQQ?oc=5",
-      "description": "Fraude à la TVA : Bercy lance le compte à rebours de la facturation électronique pour les entreprises Les Echos",
-      "source": "Les Echos",
-      "published_at": "2026-02-25T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
@@ -974,57 +1127,12 @@
       "summary": ""
     },
     {
-      "title": "La fiscalité des entreprises en France (2024) - Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY01PU0FqU0ZZdFh0eXZiR3NGem1IZXRiUHJTdkpzOU0wc0M4STN2bTYwcGhvQ1llc3BLTmR6U3E3TGpvT3dNckFfSWxsSEZHdy16bUFzR3hFTm82bzRrMFItTE15QjNWUFRBMTJwU0tFVjNBR1VSMW9WeXBpRDI4Y3I0NNIBgwFBVV95cUxOY01PU0FqU0ZZdFh0eXZiR3NGem1IZXRiUHJTdkpzOU0wc0M4STN2bTYwcGhvQ1llc3BLTmR6U3E3TGpvT3dNckFfSWxsSEZHdy16bUFzR3hFTm82bzRrMFItTE15QjNWUFRBMTJwU0tFVjNBR1VSMW9WeXBpRDI4Y3I0NA?oc=5",
-      "description": "La fiscalité des entreprises en France (2024) Deloitte",
-      "source": "Deloitte",
-      "published_at": "2026-02-17T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "TVA: 3 ans de stagnation des recettes et d'erreurs de prévisions - Fondation IFRAP",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3N5ZWVnTTBkTHdKa2tGOFFyS2ZvWEdYNklSanJmT085Wk4wVmRwYmV4ZnVpQ0NnRjR0YWxQQjhzaExYbk4zRExxdzRyNkJKTGtTNms4SEZuOWQwRWZoVFRBYU11ZTZXLUE1VHpKYk41OU4zZHk2ZHN2QmxMMFo3cy0tbkRNa3lOZzkzWWNqRzFGMVp2TEhVVFZxVFp0akNEcTZmbGl4RQ?oc=5",
-      "description": "TVA: 3 ans de stagnation des recettes et d'erreurs de prévisions Fondation IFRAP",
-      "source": "Fondation IFRAP",
-      "published_at": "2026-02-17T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "« Le mystère » enfin résolu ? Voici pourquoi les recettes de TVA patinent - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaHNFbURSdE9Ob2RYaTBGbGl1Z0lEcmx3b25WVk8yc2lVRE1GdHl3MFB3SWE5cFUyZlhYTU13VTZfczB3X3p1U0JVRFRaWVdYS0JKejZUNGJqb2VCVDVnR0hlcDhkZlNRMkNlOFRIdEtTbWplRkdLSmZ4ZldMd3dXNTdmT3lQdk5rTnY0MGxBdnp4M1lXTzBXb2FSUVpXY1ViWG9yZjF2c1pSUldwOXdTcTJDWGhIemdtQ0VYN2d6SHpSY21kaExYWllGQl9DejVjUnNvcEV5ek53UUNfc3B0RWtwdmhjc3dZNDhBdExpUQ?oc=5",
-      "description": "« Le mystère » enfin résolu ? Voici pourquoi les recettes de TVA patinent Ouest-France",
-      "source": "Ouest-France",
-      "published_at": "2026-02-16T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
       "title": "Poussay accueille un nouvel événement dédié au matériel agricole d’occasion - Matériel Agricole",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlNqNi05TFNsaXVVMElMNDlDMlZyUEhGeTN1dFJ0Nk1LTVdVX3pnOWRpYXBsS0F2ZEtsRllFRndUT2lUUzlUR0xTWk5IX3N1SlVjYnotVWdGbjJzR3pCRWtKdGpaVGNkaV80Q2s1OE9hb3lZVi1CYXV0QjNabVpIdVRkamRwTnRUT0IzUlBLTHFNYWZMLWU4algybW1RU3EzX3liUmVpcTZlV0Nl0gGyAUFVX3lxTFBtdG9MRFdfWnJoTXdodjZpbE85emVOelZWNHF0clBLS2QzQlhrblU5YXRQYmdDa1prLTM1YUItUTRNYmpVTUFVd29hNFlhU0FBY2ZqTU1wb2JrbTBIMTRRRlU3WkxZOG1MUWxoS0FRT19XSFptYW43YVl4S1dzYjJGYlplS3FSYkVmQlE2NjZBalk4MktpYnBlZXVUWlNYTlhvQ0ZVSmdHZXlFU3JRQzF0cnc?oc=5",
       "description": "Poussay accueille un nouvel événement dédié au matériel agricole d’occasion Matériel Agricole",
       "source": "Matériel Agricole",
       "published_at": "2026-02-16T08:00:00+00:00",
       "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "9 milliards de moins que prévu: pourquoi la TVA ne progresse presque pas en France? - BFM",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVUlWMFdvQlZSUUgxRVplWFFUU2JNLS1rVEZBbDRZSGFveWNnT0gtUTFmYkd0SGNGUFRldzhKd0NZUlI3ODVubWJkR3pmSFlMV1VhQkJXWVdYMjF1S194a3NnSnNWV2x2STVfNVNFcjgzZ1IzM2JtNzdRVEo0cXlVY1B5bko3VUtaRGFqbjZSQnRlZnRXclFfLWZobVNBX2NKcDNyQ1ZQbU5OczZyMWRMRERnTFN3NWxnbnVpVHg5LXZXLTZDdEUxY0x2UzhVNzBnQ3BqYmpUakxQakQ0VG1Tbjducw?oc=5",
-      "description": "9 milliards de moins que prévu: pourquoi la TVA ne progresse presque pas en France? BFM",
-      "source": "BFM",
-      "published_at": "2026-02-13T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Le mystère de la TVA perdue enfin résolu - Les Echos",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEYzV20zVEY1VWJ6cllONjBWUEtTRGUzVzNUQk9WS0dQWjFua0NhekZJb0M0U2RtdHFmOWJ2aktlVzRuNkR0Y1FtalZRcktkRThaSV9zcFQ3bkk1N1QxbGlhb0Jpd0lHb0ltR01HbHFXQUNOVVZFbXdGeXlzRjk0SW9CUC1wb2Z6RHhxM3FYcWxYalJUNkVGRnZCMVFmMFI0LWVQWFdKWW8?oc=5",
-      "description": "Le mystère de la TVA perdue enfin résolu Les Echos",
-      "source": "Les Echos",
-      "published_at": "2026-02-12T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
@@ -1037,48 +1145,12 @@
       "summary": ""
     },
     {
-      "title": "Combien rapporte la TVA à la France ? - L'Essentiel de l'Éco",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uSzNrYzQwS3dTcDdCN1YzQnFjMVF5dEZZSXFqQ2JFSjNEWUkwNlA0bmV2bEFqTFVGdWJ0bWpVWlJkbEZQMHJiQVBuVmVvblFQS3lwUjZUQ3BFRmk5aENvTTFnRGJxcHVxaENIdUd2Y1FwTkVNZVZWSA?oc=5",
-      "description": "Combien rapporte la TVA à la France ? L'Essentiel de l'Éco",
-      "source": "L'Essentiel de l'Éco",
-      "published_at": "2026-01-27T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Bilan de 40 ans d'impôt sur la fortune en France: un impact négatif sur la croissance et les comptes publics - Rexecode",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWHB1dFlqUzdmb2ZZVThJaUZ5TmNyVjhtcGh6SlpyWWtVWUg3aktINGRFYUZnLVZxX05ua3V3Z1RQeExQazFLQnpfYzMxOGd1OXRKVlJ2cEJRcDNLTTEyT3pkdWNiMWQxY28tdGNvYlpoX241TkJXdjA0YkRfekNNcF9wVWJvdkZjU0dnWjZJODNWZVhkemkySG5vWUZpamlxOEFRTWJtNGoyUFl3LUJuV0JmeEZoVllfblp4SFR1dUtFZXZPTVJ3bFhkUV9WY0tqQUloRUxRT3UyQkNVX1daQk01RzBTOUV4UzBmQlVxNDI1WHNHWDJBa2VEYlhCdy1Ha19WZFpEcXI?oc=5",
-      "description": "Bilan de 40 ans d'impôt sur la fortune en France: un impact négatif sur la croissance et les comptes publics Rexecode",
-      "source": "Rexecode",
-      "published_at": "2026-01-23T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Convention d'objectifs et de performance de France Compétences 2026-2028 : nouveautés annoncées sur la comptabilité analytique et les NPEC - Centre Inffo",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNbndMMTZZdzE2OFFiUEhmZl90dlpKam9KcFhvZHNnQUhtNVBKaDNoeW9tYS1ENmhOWWNJUVJQemdTeHBjRlVnQ2hQbXlrWlV1SVlTR05obUR4bUlHNGRNSkdqV05IcVd6dlpDYXFhZXJhVXQzN3g1MW9iZ1JJSHJRVFprVG51VnE4Q2EyeWRoSE4zSG5kS3ZNcDU0VlNLdV9kTlc2b2xMZk5lRVEzcWZNSEVxbTJHT3NQYXZHX1JpcE5yU0ZwXzNQb2lZRDFNVEsxNHBfUC1fZEtud0RyLS1XVUEyQk5zY05ldnRGcWlRU1ZFOXJhQWJiblJ3cDRvemMxWkt5Tk54cXc3WGFhaG5hbUZ3SnlJQTUzWlBlMVg4WGoyRnExNVhfdg?oc=5",
-      "description": "Convention d'objectifs et de performance de France Compétences 2026-2028 : nouveautés annoncées sur la comptabilité analytique et les NPEC Centre Inffo",
-      "source": "Centre Inffo",
-      "published_at": "2026-01-22T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
       "title": "Un incendie détruit un bâtiment contenant du matériel agricole dans cette petite commune près de Flers - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQamRvaDN4WFI0RXpJQV9Bb1oxUEdyVk1QTDBxQm15dmYxeE1Md2hnSE43eUhuSWJ2TkpfTnZSbC1rY2syRmlWZDFtcm5JaVlGY2ZRMGhPSUpXUjB6RDNZWkQ4REFlamo0RDVhV0NBS2NKNUl3bVdHb0pud0hWMk1HZy1oQWtFX29sblc2TW10dUtVTjkwaVBSRHdIelhvUjJVN0ZocVplRkVESHNTWXJjTWdCdUh5SUhNaEFtcmRaVllMRFJFVzh4N3lrSEUtc3VCRDFIMXVCeW9KVjhlckZ6d3FXZEdVMGJxVEQ4Ymh0bzNmS2Ixcmhmei1OWG1Xa3FvS2hENXF1U3JCQU51bDg1SDd0VVduc3M?oc=5",
       "description": "Un incendie détruit un bâtiment contenant du matériel agricole dans cette petite commune près de Flers Ouest-France",
       "source": "Ouest-France",
       "published_at": "2026-01-22T08:00:00+00:00",
       "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Facturation - numérique -Facturation électronique : c’est pour bientôt - Entreprendre Service-Public",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52X3hCWkVKTElBNlhFbVNzZFJYRVptQUs3cWhuYVB6LXNrS3VRcktQTkV5Mk1EemxZY1pKUlBxTm1zaERUTDFIQ2x2dUdVWTVBMU1uUkItN3QtdXZITThuTEtvRFFWUS1aamEwbW9B?oc=5",
-      "description": "Facturation - numérique -Facturation électronique : c’est pour bientôt Entreprendre Service-Public",
-      "source": "Entreprendre Service-Public",
-      "published_at": "2026-01-19T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
@@ -1115,15 +1187,6 @@
       "source": "Réussir",
       "published_at": "2025-12-14T08:00:00+00:00",
       "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "TVA : quels sont les taux de votre quotidien ? - economie.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLWFMSm5PQUFIdXgzMEJEMkxPT2VQWFpjZXU1cElwV09xUEh0YWZoRTB2Zzk5djQyb21vU1lxZmp4azdPNzlaa0RoOElNeHFEcVRlLW5iaWl2MjZ5c1k5cmxLek1DdU5KZ2JhUW5aUXRVRnJ5RVRlQ1Y0VVo0YTl5a2VTbXRzaWFHY1pDRlpEQVJPSkVuQ016SmQzX1F4V0Y5MEtWMmpncHM0Mm1vZUdiTlNPY0xrbWE3QVF6eUlEdUhSTWFYLURQWmpWUmVkbkRKWW1R?oc=5",
-      "description": "TVA : quels sont les taux de votre quotidien ? economie.gouv.fr",
-      "source": "economie.gouv.fr",
-      "published_at": "2025-12-11T17:47:55+00:00",
-      "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
@@ -1178,6 +1241,15 @@
       "source": "Ouest-France",
       "published_at": "2025-10-27T07:00:00+00:00",
       "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "BTS 2026 : voici les dates des épreuves qui auront lieu en mai - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMEhRSWRmbnk3ODBoUDJRYWc5T2RkWFZFZjhFUXpoTTJKY2FmU3VwZGpQZGxRaWlfNU54MXJFc0EwODQycFpRWUZjdU1HNFFTOG9uWTFkZTNTXy0wQkRSazZaLS1GM05haGo2YkFudl9CUzRWZ1IxcE50TTl3S3hGeVB4aEczR2hzQ1FQenY1WUZ1djNvaE4xb2pyeUpwVjFTdWVhc3pERGh2cVFxUUlKMzZTdGRLUE9YYzd2ZlZUUnE5V3pkMDhKbkpoWC03Qi01cHBN?oc=5",
+      "description": "BTS 2026 : voici les dates des épreuves qui auront lieu en mai Le Parisien",
+      "source": "Le Parisien",
+      "published_at": "2025-10-09T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1244,6 +1316,24 @@
       "summary": ""
     },
     {
+      "title": "BTS CG : calcul de la moyenne et consultation des notes - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMk9ST3A1dGZLVXVTX1EwSDBCUHZ1SFlMVjBtMTdQcU5FN0ljbmNTc2ZhSDh3N2QwSlRiQ0w1Q0VIenppeW9xOVluNjkweDAzYTJ5Qk9nQlZYOFRmNnJNekRVSlE0Y05YNUpMaE9PeDhqTWFBWVpTMGNXTDJjVlloUkdFVQ?oc=5",
+      "description": "BTS CG : calcul de la moyenne et consultation des notes Compta Online",
+      "source": "Compta Online",
+      "published_at": "2025-07-20T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Quelles sont les dispenses du DCG avec un BTS CG ? - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNW5iZkNuVHczd0Vyb0xZbVNJcS1ZYXdKVkV6MEMyS1BEY3Vla3FCVTZzOG1PVGtfVE9DTnJPRWx4eTl1LTMwS1pEck5aSUk4TGFGZ0E2czVTTDJFWjNDRi13eG0wYWV3d3dJdUdoRFpGZ1VWS3pObVVTMmg1bXhocg?oc=5",
+      "description": "Quelles sont les dispenses du DCG avec un BTS CG ? Compta Online",
+      "source": "Compta Online",
+      "published_at": "2025-07-19T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Deux gérants d’un commerce de matériel agricole de La Souterraine jugés pour usage de faux et escroquerie - ici.fr",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeExGQWdfYWNtN2ZDd0FCUzVaT0VBVnUyWDBhLXRpWVFLM2xZZ1MyNUV1bE4zeHhWRnhEM3FYd3p2RFgzMWhEeXoxRzU4bF9OLVl0RzUxNFhCeG1FeHZDc3NpT012VDJsaXp0RlQzQjFQcGRVS09DRmF0RzMyUG5OS2J1dmNxcUVQZDhtQ2NZTHJacFg2TU1oMGh0NHJaVzhPZTZTOExKa3d2U2FyNFRqbDNfSWpLemUzbS05bmpKOVNPeExaSlktVUI3SUNBSFhRTjdTUElqUWJadFRDdkd3WEp0Z1NvSWlaV29QNjNGZ1U?oc=5",
       "description": "Deux gérants d’un commerce de matériel agricole de La Souterraine jugés pour usage de faux et escroquerie ici.fr",
@@ -1280,6 +1370,15 @@
       "summary": ""
     },
     {
+      "title": "« En finir avec cette fiscalité des années 70 sur le matériel agricole » - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckFWdEp4WEZjd0dkcDJtdjFuZmNSRnJHX2c4UThqMUV6THZONzBNT2txR2F0dmFvTDZGYm9LNjVjRzV6bGphMUVIeGNRdklDUkFoUmFiYUp4NzdtZDdPcUNwVDJvYTZTclZXRTJFeXl6OE5nd21lUFY0bWFwd2o2THBrb1JneXVBYU05ZlpkckVOeG9SVG9sWG1FTTc5V29McXFzd1hlQV9nS2haWlFjUnFSMVd3ZkxsLWhMdG9BcE8yNGhEQVlKbzdfT1lEZDlwY0HSAdcBQVVfeXFMUEx6ZlVRU0NVdUFWVm9UeFdENUhRZzRZMjhiMXlQWlhlNkVnY0RncVZZVWZ1VUwxeFZ0RHpYd0JjZUxCVC1LTW1GVkFtS2xTcXR5YW4wOFZmSDhIeGIwWVJyYm5DSThSWU1OYnNBTXdoOUtreE9PYmduZU8yaXlWcERFcFllbkZDYWpPZTB5WlhNaWl2Y3hueDFkUFpTVFQtYlI2bGYwSzNrQjBUNlFWQ2dRQ3hDcGh6TEJqQ0t5SG44LXhTUVhVY3EzWGdnREduTUdxZ0l0Zm8?oc=5",
+      "description": "« En finir avec cette fiscalité des années 70 sur le matériel agricole » La France Agricole",
+      "source": "La France Agricole",
+      "published_at": "2025-06-17T07:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
       "title": "« L’agriculteur cherche la disponibilité et la compétence » selon ce concessionnaire quinquagénaire - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOaTRLSmcxVC1MRTFTQ3ZhLVEtSHRTbzdQVGpmR2FrU0M4d2dUSUNvd2hta3BTaEExMTM3c2pHRS1paVdGeWx6bENBbW00UjdWNFA3VlFyQnRDRktFa2hidldGQThFVEF6UXJYRVVjX2RFejlCVTM3TGVUUEktUDFhNklSTXVLMXFNaldJQ2RSMFNhR0hyYnRjaEI2a3BaMmF2TjBLLWlHYjFBNkFLOUd5N2o5VUxOYUQ2WUt0LThEaENuSURCX3BsZFE1TzUwak1mc1N1UjlaNGN3MlFWcFktaGhxaUxXNUV3Vm1iQnJwYUEtY1E1XzU4RUVocTdzSWpJdlZ3NjBQMmxoOG1lWkJJOVRFN25KVFVFZGc5cGM5YXRSSzQ?oc=5",
       "description": "« L’agriculteur cherche la disponibilité et la compétence » selon ce concessionnaire quinquagénaire Ouest-France",
@@ -1289,12 +1388,39 @@
       "summary": ""
     },
     {
+      "title": "Corrigé BTS CG 2025 E5 Cas BeeHappy à télécharger - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObU04ZGlCa2JuYWxjNWd3ODJVUkROc0Z3c245dmd3SDd6c2lJNHVKRUctbTVHVWFMLXpNUVB4aUlzUDVQa1VJWlhmUnJOMzg4SHVGVjZUSmJJaTNMbFhDcGJsdFR3LXpGTnNMTHdHaWM2dEkzQzljdmpiVnZybF9rQnVjVFNvRUU?oc=5",
+      "description": "Corrigé BTS CG 2025 E5 Cas BeeHappy à télécharger Compta Online",
+      "source": "Compta Online",
+      "published_at": "2025-05-23T12:47:22+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Les sujets et corrigés de l'épreuve de Traitement et contrôle des opérations comptables, fiscales et sociales du BTS Comptabilité Gestion 2025 - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOZ1ZwNnRqazRqS1Bsaks1V1VSc2Q5b0psaTlkLWRkTXFrT21QaGp4OEVCM0tMYmVkWS1SZXFBM2ZMQno2Nm1NU0pEREhoTUhueFUxdm93bmRHS18zNV9xeFpCWTc1NnpZVnpaRVY4RXNnTDdVWC1GZ0VMTmI4WnhqYkdJVkllZjZnSGxvcjZFdnkxZV9HZWZxaGh3MU9Sa216TVpBYk1kb055WWJvbC1GMkdmRnZxNXZnZmktMVZwano5MnRMX0tPM2pmRTBsQ3VRSS1WLUFBQnR3VjY4N05KbGdNSXlKV3lwMGlyZVNRLWd4dGktQk92d08zby1YcW9ZcC1janNhVlBuV19kZ2tLaElXdGFUblh0MUd6OQ?oc=5",
+      "description": "Les sujets et corrigés de l'épreuve de Traitement et contrôle des opérations comptables, fiscales et sociales du BTS Comptabilité Gestion 2025 Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2025-05-19T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Cette société creuse son sillon dans l’achat et la revente de matériel agricole et BTP - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRTlWQTFHQnZ1VVM2MkloQlcyVnJRMGlMV2N1bVBxNHYwU1pRWTE0TzVpOFdTeHlscTVqN3h6UGJ1QXJIN25keEo2WHJTQVVqSE5LblVLU0hCcEMxcHpCWFhtd3E2WElfRk91U1JzQUlReDBnSDhzUXVkSnV5ZVNHekN4Z1hNb1VaSDRaS1ZDWGQ3dUIyWDRmRFdJQ0RIVkYyUUxTUjN1Y2VxNlltRnNjWUMyMmxrNjIzX3A5cnJ2Y19SRms0eTM1UWJSR3drVmtNZThhWlpGVHhNb3JheEZUajJIODViRS1tMGRqNndtckdkNTJNNEI1S2FhNU45YWpNQ1c2b01rTlhqbXRuMHBfWjU3YURaTTQ?oc=5",
       "description": "Cette société creuse son sillon dans l’achat et la revente de matériel agricole et BTP Ouest-France",
       "source": "Ouest-France",
       "published_at": "2025-05-16T07:00:00+00:00",
       "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Les sujets et corrigés de l’épreuve de Mathématiques du BTS Comptabilité Gestion 2025 - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOVFQQldrbFJyWFBYbzBDaWt6NTNjZ0NTZEVEQlJCZk90TENzUmR4ZVYzR0xrbDQ4MWRtRXRad3BYdldDMWtWa3dScEU4SU5wakpsaWxjbHhOdDAtX0g1Z09WQnd6anptS0dKNWhVWU9vWnFTQno5a050a0hWTnl0d0Y1QmJtd0JPemM1dzA3V0Zxa0pyM09CM19xWXFJNFhLYWpRYnNVbjY2QXVoYlJfM21QWVlPZl9IY3NCMi15OVZwSXZVb3J1aGZ5b3RYYlZJdWdWUnktNDlCZUxqSmdBbHZna1NuQ1dnZl9IdVJGOURvQlhsUG1kc1dNcGlDSWpwRlE?oc=5",
+      "description": "Les sujets et corrigés de l’épreuve de Mathématiques du BTS Comptabilité Gestion 2025 Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2025-05-14T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1334,18 +1460,18 @@
       "summary": ""
     },
     {
-      "title": "Les grands groupes de l’automobile redessinent la distribution agricole - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXFoTVM4VHVmeDBRUG1YelhkQ29kNmJoeWZqcU0zQlkweFVpLUN6V2xQZmtDVWZ2bGhMaGZmQ3lVSWFMVHlqem1aelhfc2hLNUxlaEtyTnVEQ2lkcTRaUHUtdnpHclNJSklPajNQelVyVnhiTFUwOVlGU1h0a0xxbU5BLUxpZnV5cXB5U3FvQjdCZGstVWVtOWpReDE5ZmpFMmo0YWtmWEcwT2tfWXdjakxVd2xsajZMdGl0akJ5UDhFM3NCSDhmM19BZ0l1S0HSAdQBQVVfeXFMT0R2WUtOdzlSZ0lvT1ozMUlncFBvS19YY3lpZEVhX2tpR2NVeXd0c0lzbzBtY0wyTkU5MTZtTFNNejNxNm51cmhHaE1pS3B4eXBVYlg2aXRWTmptWEhMakJocVNfT1pTdlAwNURsdlBYdEtyRV8yQWpucDd6ek1lSDd5dnBxVmRpbGZHeGZnWklmN0MyaTFZTXNCeHJaZ0tDZUJsZGJKcEd4cm5rVEdxNGMzQmxzMXZMdmxGQ1dieUhrbUhUUjYxTFROaFJObGp3dl9mb3Y?oc=5",
-      "description": "Les grands groupes de l’automobile redessinent la distribution agricole La France Agricole",
+      "title": "Matériel agricole : Carré est placé en redressement judiciaire - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZlA2VEdQQ1d3ZGJUUm9RV3Q1R1EyMU1YRG00Qms1X1RGbjdsZFhYemhUcGVqS1RJd09GdlVYZWFmN3hRRUxFSmtxMmFlUlk3LVJDUlJoTk43M0dKYkRuSWpWMUVwenRCc3c4WGsxVERsRWFOdGlaaVVXVDNaWW1JdzBkOUlfU2Q0eG55eU0zMENMcWNhcTBFNDZJVdIBoAFBVV95cUxQQ0hnVVdhaVFPQlIzUm5kT052QVVDMElKQnUwMmk5Wnh2ZFZoNlVsTnNQczVYd1FNTFFsZTNEZHg5S00tUVQ3b0dLMTJLUjBEMnhuamZIc0tWVEVFOHE2OHlVdUlMV21TSTBTNlR1aVlrZFc4M2paNE42OFFfN1h3eDhDbU1McS1GV1loRXBIbFVLVEw3b2NaOTZlb0g0eGJU?oc=5",
+      "description": "Matériel agricole : Carré est placé en redressement judiciaire La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-04-23T07:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
     {
-      "title": "Matériel agricole : Carré est placé en redressement judiciaire - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZlA2VEdQQ1d3ZGJUUm9RV3Q1R1EyMU1YRG00Qms1X1RGbjdsZFhYemhUcGVqS1RJd09GdlVYZWFmN3hRRUxFSmtxMmFlUlk3LVJDUlJoTk43M0dKYkRuSWpWMUVwenRCc3c4WGsxVERsRWFOdGlaaVVXVDNaWW1JdzBkOUlfU2Q0eG55eU0zMENMcWNhcTBFNDZJVdIBoAFBVV95cUxQQ0hnVVdhaVFPQlIzUm5kT052QVVDMElKQnUwMmk5Wnh2ZFZoNlVsTnNQczVYd1FNTFFsZTNEZHg5S00tUVQ3b0dLMTJLUjBEMnhuamZIc0tWVEVFOHE2OHlVdUlMV21TSTBTNlR1aVlrZFc4M2paNE42OFFfN1h3eDhDbU1McS1GV1loRXBIbFVLVEw3b2NaOTZlb0g0eGJU?oc=5",
-      "description": "Matériel agricole : Carré est placé en redressement judiciaire La France Agricole",
+      "title": "Les grands groupes de l’automobile redessinent la distribution agricole - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXFoTVM4VHVmeDBRUG1YelhkQ29kNmJoeWZqcU0zQlkweFVpLUN6V2xQZmtDVWZ2bGhMaGZmQ3lVSWFMVHlqem1aelhfc2hLNUxlaEtyTnVEQ2lkcTRaUHUtdnpHclNJSklPajNQelVyVnhiTFUwOVlGU1h0a0xxbU5BLUxpZnV5cXB5U3FvQjdCZGstVWVtOWpReDE5ZmpFMmo0YWtmWEcwT2tfWXdjakxVd2xsajZMdGl0akJ5UDhFM3NCSDhmM19BZ0l1S0HSAdQBQVVfeXFMT0R2WUtOdzlSZ0lvT1ozMUlncFBvS19YY3lpZEVhX2tpR2NVeXd0c0lzbzBtY0wyTkU5MTZtTFNNejNxNm51cmhHaE1pS3B4eXBVYlg2aXRWTmptWEhMakJocVNfT1pTdlAwNURsdlBYdEtyRV8yQWpucDd6ek1lSDd5dnBxVmRpbGZHeGZnWklmN0MyaTFZTXNCeHJaZ0tDZUJsZGJKcEd4cm5rVEdxNGMzQmxzMXZMdmxGQ1dieUhrbUhUUjYxTFROaFJObGp3dl9mb3Y?oc=5",
+      "description": "Les grands groupes de l’automobile redessinent la distribution agricole La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-04-23T07:00:00+00:00",
       "category": "Secteur professionnel",
@@ -1367,6 +1493,24 @@
       "source": "Ouest-France",
       "published_at": "2025-04-05T07:00:00+00:00",
       "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Au lycée Europe, des élèves de première année aident leurs aînés à décrocher un stage à Cholet - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLUszTnZ6ZkNvNVR1TXQ4ZkVOZi1FeURFQkZrNUF4eEpNM29mSTVKQVpaV1pkam1tMHRkYy1ZbFc2ckd1blQ4czJXTW5UNUx1SDVvcUtONDFheGFwNHEwQVhsTFRCbVN2R0NJV3Vmck5VbElSMTVxRWF6a2FxdXotblhCMnR2WVJLX1dNZnUzLTBoTjhmNk4zdXpKUnhRRGlINTFEbGxITW1ydVprZVlnVnljWENtX3Q1S0NuZ2pnNjlHRVdtVTZlLVRXWGlkRk9BcnYzTkdnc29oOUhNWk5oWFVOZ3hnekpYYm0yZ00tMGRFa01Xb3c5T0hPTzBjOVBzLVlZX0dzdHFONUtEaVZmenVrRVo5aTQ?oc=5",
+      "description": "Au lycée Europe, des élèves de première année aident leurs aînés à décrocher un stage à Cholet Ouest-France",
+      "source": "Ouest-France",
+      "published_at": "2025-03-25T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Se former en Charente : le BTS comptabilité-gestion ouvre sur un secteur porteur - Sud Ouest",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMk50VnVWWGJpX3hXOWFIMXltMURUd0szaTR3eUlPZnp5U09LMDZwNExBUmNTVFBjYy0tdHRqVFVadk9xVVhqcDY0WEJoaXlTdU1jYnFhXzhmazBsVlVSVHNBQkw5Sl91dTMyMWllLXJ6XzVYTDF3M0xkZ2prUEFaZG01aXo2dWJ1ejk0YnIwN2I4djBpcjZnMzF6RlJpdkJhLXVtTnFQLWhZTUlGSDhIdXg2RFFFa3B2X0dWY1JONTJTY0k3WmRTR1RBX0pFM1QtdjliWWdDMTgwTzQ?oc=5",
+      "description": "Se former en Charente : le BTS comptabilité-gestion ouvre sur un secteur porteur Sud Ouest",
+      "source": "Sud Ouest",
+      "published_at": "2025-03-14T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1424,6 +1568,15 @@
       "summary": ""
     },
     {
+      "title": "Lons-le-Saunier. Le BTS comptabilité gestion sera bien maintenu au lycée Jean-Michel - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONTZubF9QTkZQLUdSa0wwRUk0MmJkWkUtdmYtNGpEZnVNSkh4UENVaHhEOTNlUWQyczhVLUdJcDA1M2dRTTdjd0JycHh2VFY0R3JNWmFPY3NTZFE1YVpDekFsMkVfbDQ4eTB0SV9VdjlqazJyaW8wQXRWamdrWktDUElMd1prMnE4V0RnbzFaNUdWNjhoRkE1SHV6ajBiMXNnUTdEZE1yZEJQSG96Z1RuZHFqSQ?oc=5",
+      "description": "Lons-le-Saunier. Le BTS comptabilité gestion sera bien maintenu au lycée Jean-Michel Le Progrès",
+      "source": "Le Progrès",
+      "published_at": "2025-01-22T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Matériel agricole. Le japonais Kubota parie sur le savoir-faire de sa filiale vendéenne Kverneland - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOb1BxVU5PU3pPMG5nWlNBMTZvY2FuSU5GdXdnRFlwV2t3aDRlZmFZWlVicFF4QXVUUnFkVzdGb0Y5NFUwMVNSTFowOGwtZHBLTHJXN1RtWmNNa0FLMnpMcWNULUFGQlpyVlFKbUJJaWlMVkZHUXV5WURJWkhUQ3lnT0lqYTFJOFJmWVRCWVc3OXpfbE96Mi02WVhLUVhtSk1RNmNfazNYQ2RUaVAzbVdpOTYzSms3dmY1d0g1OG1NOWtLRGZYc3BOMDNIUWFGSEo5bGhkc2doWU8tX2lFWC1SOXVvTmszWTJYbm5NWE5lS1hWaWRGcW1rREJrUzJzYm5FOGw3cGpFYkFRM2V5MUNyeHQtTEtEUkkwNmNjaXVB?oc=5",
       "description": "Matériel agricole. Le japonais Kubota parie sur le savoir-faire de sa filiale vendéenne Kverneland Ouest-France",
@@ -1466,6 +1619,15 @@
       "source": "Ouest-France",
       "published_at": "2024-11-26T08:00:00+00:00",
       "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Lons-le-Saunier. Le BTS comptabilité-gestion du lycée Jean-Michel est-il menacé ? - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUtiMERjakFwaURsZXFDVG5PUTduakc1Wld0NUhGcUVkSnh5WVo2TFpJS3RiVGVMUHZGNzAzOF80T3BtamUyZ1dBZ1FiTFZoQzhVSE1LeGgySkV3b0NXZmVzb0NpbHhmWGJQN3pkUjJqWjJGZjB3V0JRR21iTGF6RXJMekpORmEyWmQ3TTJZWU5PYWFYVHJrbFBEOW5Fc0w5dXpnTnFsbjRfTTFR?oc=5",
+      "description": "Lons-le-Saunier. Le BTS comptabilité-gestion du lycée Jean-Michel est-il menacé ? Le Progrès",
+      "source": "Le Progrès",
+      "published_at": "2024-10-17T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1523,12 +1685,30 @@
       "summary": ""
     },
     {
+      "title": "Corrigé BTS CG 2024 E41 Cas Biscuiterie Gwen Malo à télécharger - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXy1zX21IcnRiQlZzN29Hcnd1RXBJUFFqb2gyS3p4ZG1Gb3JzQXV2OVVhUmRZTWNGMkpyOTNiSVdUcnpyZl9fdWppbXdJU0pneXFxbGd5eUJwanRSandITWcyY3kycGg3NjhjYzBYMXpMcHdRZktjZThLM0o1S3JRRnE5djZoZ2lxeFdEV1loNnNpU1RvWG5FZ0VR?oc=5",
+      "description": "Corrigé BTS CG 2024 E41 Cas Biscuiterie Gwen Malo à télécharger Compta Online",
+      "source": "Compta Online",
+      "published_at": "2024-05-22T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "À Mellac, la coopérative d’utilisation de matériel agricole a fêté ses 60 ans - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLVlhVjlNamRzbDhGTlJ0ZVczck8tWS1UVEI4eHc5MURiRXhUNGFaS19DUFRGaWtaLVJZeVRYdmhrZm9DWFhiUVZJelc5TkYzLVNxLTgzcS1VMWRVR0p0NkhoT3BzX2ZGc09id0ZaZkVlM09nUVhNM2F4MTdBODlpOEZJMW5RcVNzX0Iwak1zMDZJMFdtMl9zcXgxeEZMZEVTMkpiZ2h3cnYzTlMtdDZGNmhVbFlnOXNyRF9KWS1wWEZaRVZzMEVrVVAwNG1KZzBPblBmY3hFQl81N2U0VU52QkNWUWM1eTFhQldzdFRZZ3h2el9F?oc=5",
       "description": "À Mellac, la coopérative d’utilisation de matériel agricole a fêté ses 60 ans Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-05-19T07:00:00+00:00",
       "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Les sujets et corrigés de l'épreuve de Mathématiques du BTS Comptabilité Gestion 2024 sont disponibles ! - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSnJUR2wtSUVMTG9GVFpaMWViLUNwaWNiZFZ0ZEhiaFlGdkxCYXBCUzQ3Uk1jWmstX1hJSUdVSTVhQWZZbzhKRldWRW1BMnd4N1N4eUtTYS1qclBWZDJYY1hfOFkzLWtuN3hsY0YwZGtQTGtNRUlydlhtSHNWNENTeURJY3RzdlRFVkl5TFJvcEZ1Q2JUUUFwdnJCbmhBYmNkc0h1a25DcEt5VWZWT3cwMkJqc3R6Z296enRaTDJJZUtFaGJUdWdVN01YcUlqZlNTZ0oxTGxaSVZoUFJab2VOdURQcWpzVlFTT2JMZGQ5SnM0WXpoSFpsUmNJUHBhYkw0YjRQa0l4TXJ1aENXeFZOVlFuNWZwODA?oc=5",
+      "description": "Les sujets et corrigés de l'épreuve de Mathématiques du BTS Comptabilité Gestion 2024 sont disponibles ! Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2024-05-14T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1559,6 +1739,15 @@
       "summary": ""
     },
     {
+      "title": "Classement 2024 des meilleurs BTS comptabilité-gestion - L'Etudiant",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVEpVRG9RQjVzQXN2Z0NzM1ZjWGE5OHdzQlQ3UjBOQ2hIa0dMYUNTWXNrdUJ2aThXNFhoOF8wd3dPOVZqZXkwRWtrdmVwZmdzVkF6eVcta21UTm9ORHJwcElrRzVZV1JuUE9fRDhLSWdoNUxIT3pVN2h4Nlk0VUZlTDFlellsZmpKZDBfNlZ2bFNUNU1FemV3UmdlcFpJOTg?oc=5",
+      "description": "Classement 2024 des meilleurs BTS comptabilité-gestion L'Etudiant",
+      "source": "L'Etudiant",
+      "published_at": "2024-02-29T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Grand Est - Farminove et Agrinove forment le plus gros concessionnaire Case IH de France et d’Europe - www.reussir.fr",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmVjVENvMXB0cmE4RHpMbTY4NXpoWXdZOTJwcHdJdVZteEVVSzRLWDdCQ0xBR1A0UUpEMHlsa2g4b0J6a20wMFR0VDlVUWt4SlNvOFZxNDdYd0xMMVYyME1zSVhDZWhwMmVSNUd4YnNYMTZSLUtlNzJEVl9EMm5scVc2Z0lOZnJVb00wQ1pSUVRlMjdEdEFZbVdOelV5UlRJMHpOOGFwVVBWb0VLNzd2TG55MVhfd0NoSXFvXzB3?oc=5",
       "description": "Grand Est - Farminove et Agrinove forment le plus gros concessionnaire Case IH de France et d’Europe www.reussir.fr",
@@ -1568,12 +1757,30 @@
       "summary": ""
     },
     {
+      "title": "BTS Professions Immobilières et BTS Comptabilité Gestion : l'ESPI élargit son offre de formation - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU0RxZ0xQN19hcnJhcjRjTkMxelJuLWI2UlNsSkoycHdDbTlNUWRyWGUtNnFUUWNFR2Myc2MyZzRSR296dmN2ai01ZG1uS2JiZ1lLZktpcThCOUwzV0xLbnJiaVd1SDNNdnVXcnhMR29yYlNwQlpPVElFcWJReU9TdjRfZU5HeXhtZTcwSjlSZjdYRDdCanZsZDcwWkZpaHRiQVZkRFJBUUdDeFJ5Y1R1LVRHXy1iWVFtV3E3MEVrbm80bGRGOEpQR1BKeVZNMU1TV1gxTWRKT1RZQQ?oc=5",
+      "description": "BTS Professions Immobilières et BTS Comptabilité Gestion : l'ESPI élargit son offre de formation Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2024-02-09T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Cette entreprise bretonne imagine des balises GPS pour retrouver le matériel agricole volé - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPOVlHSkdpSXNxc19UendlMjBteHpsYzZFMmoyRjVYeVdyVXpQWkNRVDRFRklGQm1MZXZKeEM2bkFHTDhMbzhWOUprV0FVVG9PNHpWQkNjTm9XX24waTM0TWVXUjRuOU1palNNYXJkS0trUHg2TVdVcjg1dHV1eklObEdKaTdhSFNBNGFma0FtOVMtOVgtQmdVQTE1UDBISzRaTW5vbFNOV1c5THFqV1haSGNtaDU4clNDQzAzWjl2bkdIRW5BS2lSNWFqTk1USzQ4WWpjaUJrX2cwX2p0ekZHUXZIXzIwUF81QV9yYlowS05QRElybmxRbXY5dHp5emgzRXJaQVdUeF9KUjVOellOVWhQdXVKQQ?oc=5",
       "description": "Cette entreprise bretonne imagine des balises GPS pour retrouver le matériel agricole volé Ouest-France",
       "source": "Ouest-France",
       "published_at": "2024-02-05T08:00:00+00:00",
       "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Le BTS Comptabilité – Gestion, en danger - Le Petit Journal",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeXRIeUhZTE1aVHA2OUltODd5RTNKNWhsSnNqazdpSTlFY0N1VWVNUEx2ZmRaMzl6UXNiY2RwTTFBMkhidkFaWEJEOWQzeURNaG8zRWtIdUpqTGJyajV2bFBUZ1FRZEpLUHc5bUc5dC1QT1NpZWVKUkhOV1lEMWhaUmtjRkhodDI3dlJXZVZtVG16RkRsMnhqZWk1QTN1S3ZOYlJfTW1ONVpYdXJXV0pJY2F6c2NIUdIBuwFBVV95cUxNNER2SmxBQi1YdmZ3b2pjcURNdXZqTFVIaDhkcUFwWUhBbTRiOEVnUGliS3FSclBuQ1NwSEEyUDhmM1poYVlNaVg5WjYzY2hnRHpPQlRQZi1BaWQyakQ2QUNfSDBqNHUwOUpwLWlxbV9tdkc5SVd0SW1GNFBSM25aVGwxUlBTa1RVU2dqUWpIdzBiMEJnOGMtYTd1QkxlSFNYMnZHNjk3RU52VlNRek5YbHd1dnQteWJ4TUhz?oc=5",
+      "description": "Le BTS Comptabilité – Gestion, en danger Le Petit Journal",
+      "source": "Le Petit Journal",
+      "published_at": "2024-01-16T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1631,12 +1838,57 @@
       "summary": ""
     },
     {
+      "title": "BTS : les coefficients par BTS et par matière - digiSchool France",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzN2Fhd2ZRbDYyNC1LVWNRUmJwd0ZhU1hyZ3VSTDB6b1MtRmc1dm5qUUlNZ0tFUTFieUpGUDhPbk0tOWNlMFlRYXd6T3ZiQTJCaDhvc01NRkxWTDBSVUp3ZmJJekswbXc?oc=5",
+      "description": "BTS : les coefficients par BTS et par matière digiSchool France",
+      "source": "digiSchool France",
+      "published_at": "2023-05-15T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Sujet et corrigé Mathématiques - BTS Comptabilité Gestion - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOZlZnV1c3djBHWUhzdHBDSEU0d0hyR2QxM3FwSnVwam81bnFnNVJzLVdwckd2UHZiOG5KRWlSTlUtdkJMQzVFR1ptMTJqeWtneGN6Mm84QkhUelMzY1ZacldyVUtZY3A1eW5SdnVMZTBJZDdvWDFaUnE2WVlIT0lMZDNaUWdSSFE0MjJzZ2E2Y1psS2c4cDVkTFJLYzFzM2dzbWtUSlROVkxENkVzTXBScUsyNnJYMXF6Ti1LTW5VSFZiYWF4QWowelh3QnNaU2gzVUR4b1F6Y21UV2hXdkZ3VTFrdVJ0RG1pYmV2N3VWVktJYTNIM0ZpZDVPXzFjQWxDQXN6WFdmUG1ndm0wcjJ2TWV1R18?oc=5",
+      "description": "Sujet et corrigé Mathématiques - BTS Comptabilité Gestion Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2023-05-11T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Les dates du BTS CG 2025 - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyTjVTeklBY3puQjlyQ3oxbU40bHpnUEZiS3cwSnJWR0hMaHdld09Uc2VqTThic0NQelNJbUZQZUMtQzZ4U1pYdnItdlppTWZxTm9aMUI5NEE4a3JzeGc?oc=5",
+      "description": "Les dates du BTS CG 2025 Compta Online",
+      "source": "Compta Online",
+      "published_at": "2023-02-28T21:09:46+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Blosville. Arnaud, 18 ans, le surdoué de la maintenance de matériel agricole - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNem9KZUE3RmFfOW1NNXhEVHFPcl9yTU5DU2IwQ3Z2MVU0amYtRU0xWjJGa25hcktWRUU5OFJTMVgwZl9pX1Itcy1mcjI2d295MkdJMjI3dWVoZElFMlpPUkFjdnQyY096TFhNb3VvS296RkpQMG1BMm0td2lDWkNOX3AwSkoyTTk0WjhPd0czNG1fN2t2ZVlpNE8tbmNmOVhNZkhMcHhWcWFZZVprVURmWXYzTzRkemtrd2w0UmFXUjVIcWlRRlk5Q1pGOUZjNWMydHBOakQwaElmQzY2VVlmU2RnOGtKRXlISmVhek9haU9SZzBuNDc0?oc=5",
       "description": "Blosville. Arnaud, 18 ans, le surdoué de la maintenance de matériel agricole Ouest-France",
       "source": "Ouest-France",
       "published_at": "2023-02-13T08:00:00+00:00",
       "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Le BTS comptabilité-gestion du lycée Margueritte de Verdun est menacé de fermeture - La Gazette France",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzdsR3dKY3lUVTA5RVpGelRpX21SUVZINjk5eVltcE9oRGRocHBQQU51RWNYY1ZyWnZoRXU2c1hYdGtoVHgwcHlFQUZmQnZTOFdVWE1DdERaNk1JNnlnVVRrMXBuNVhVb1VkeVlKalJqT1AwRzJwX2o0bUxyaEd6OVpFTnRIcFlRNThWejFCR2FmbjJoa2N5NThHZlZyLUZ3ZmxReVVaTUVFd3lwS2lWNXRFVWw5UVI0MmdLSzJR?oc=5",
+      "description": "Le BTS comptabilité-gestion du lycée Margueritte de Verdun est menacé de fermeture La Gazette France",
+      "source": "La Gazette France",
+      "published_at": "2023-02-06T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Verdun : mobilisation contre la fermeture du BTS Comptabilité-Gestion du lycée Margueritte - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHhwYjhKSjlnLTF3WEhnSzNrWnBRWXpwdlg2VFJXaXhJMTl4UXJEbldUY29zU1RFUlpRcXU5X3ZwQmFKNXEzSVFUTzh3ZE5QTjNsMEg2YUJrNF9XR1k2Tm1OUDEyaDdpQWF2TWxtNWlsSUZLN29aTlV0cUx1RnN6TU95akF3Y1RuN1BUcHZtQXNTVmJYLVB5eVpaSTlBT1N5dWVjUk5CaDFyZ19FUU5KazhOckZwbVpxbGRnZFhjVF8tRlljSENGb0F1TGRqN1M0SUw0YlpSOGk?oc=5",
+      "description": "Verdun : mobilisation contre la fermeture du BTS Comptabilité-Gestion du lycée Margueritte Actu.fr",
+      "source": "Actu.fr",
+      "published_at": "2023-02-01T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1667,6 +1919,51 @@
       "summary": ""
     },
     {
+      "title": "MÂCON - Lycée Lamartine : Un stage dating pour les BTS Comptabilité-Gestion, une première ! - Mâcon Infos",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNanFZbW9mM09zNlM1d3NUcm1pYzBfcjNDT3dFTFZmU0N3bS1NMFA3am0yUUVnMlM5RURTeHJKR2JUdVlVUndkYjllSk42WkpNbjdpelN6U1RyT2dSN2c4djdTZkpQdUFZVTgtSzVsZzl2YURRdDFWaUR4aDZqUTMzOGlrRW1abmZEckpjV0lhVzQ0MFkyeDBfSjVzeHFPeDEtaXNwd2RVUll1TzFIeTN6c3pOSG9JY2xmVVpWR29DU2ZfM2lOdlpseUMxR01tQkk5aFd3YTF3?oc=5",
+      "description": "MÂCON - Lycée Lamartine : Un stage dating pour les BTS Comptabilité-Gestion, une première ! Mâcon Infos",
+      "source": "Mâcon Infos",
+      "published_at": "2022-11-08T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Mâcon. Au lycée Lamartine, un stage-dating pour les BTS comptabilité-gestion - Le JSL",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSjgzb1JjZFp2ZVNBaXZTSEtWb1VaUlRkeWswTHNCZEVqeVVkLVdBTGF5YU45Wl9KU3RjV1l1dFpJZjlSc2pxOXIwU0NOaVhQQWhvWU5nYXhka1gtdkwxNEFERE1Ya1RIdmQzWVhRcExLa2FHRmxPWjJrWmVvM2NCVHFDdWIwbUNLSlhCTkthXy1FMDh2Z0xfZndKVDFaanhGblBvaXZFV01FVmItWi1kTQ?oc=5",
+      "description": "Mâcon. Au lycée Lamartine, un stage-dating pour les BTS comptabilité-gestion Le JSL",
+      "source": "Le JSL",
+      "published_at": "2022-11-08T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Corrigé BTS CG 2021 E41 étude de cas à télécharger - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbFlTMUNGcnBlMm9rSTRvMmptT3hXWkJxQWhPcDN1WU1ubkNJWmVvOXVZRXNHeWcydC1HLTdTMnhqTEhkQVozd1JaVkxMeW9JRlNHUV9UX0c1RnVtaGhmd09BbHNqNThGUkllM1ZxdVBzT1ZmNHZXd3czV0ltTUVoN1lSdloxUEV4?oc=5",
+      "description": "Corrigé BTS CG 2021 E41 étude de cas à télécharger Compta Online",
+      "source": "Compta Online",
+      "published_at": "2022-11-01T20:27:05+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Colère des enseignants face à la probable fermeture d'un BTS à Genevoix à Bressuire - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVzRHVGY3OVlhSExaSFl1NTc1MHlCNjF1MmxncjVhRzlLOUFSdUNzSll2ZUltMEdEdHpaNmROMGk1VWN4UW9xdmVVcUhyaXZPcXUxS3hoZkhPbld6V2tIOFJRMWJVMl9WcDk1emFzenNELU91cVlFY3l3aXFyMkdqd28tVkp1QnpGQmtYV2RvY3VnaC1tUXR6WmJ5cTlWYWtKbzBmbFZMYVFjOXlZNHRkdHozOVRydHZMOEhfMjNzVnFZa2phbjRsWjJScFRRZ2NQUFZyLThsZmVIOUgxZnhmdEJWWThrT3k3bVdFeGJR?oc=5",
+      "description": "Colère des enseignants face à la probable fermeture d'un BTS à Genevoix à Bressuire lanouvellerepublique.fr",
+      "source": "lanouvellerepublique.fr",
+      "published_at": "2022-10-07T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Dispenses du DCG 2026 : liste complète des épreuves dispensées par diplôme - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FbzVtdzZLNTR0bXFFNmJ5akRjOEZ0UG1YZ3RTZDRjd1k1RVFWejdELUxRZFNpb1ExblBGZjBmbXNfY0pia3pwSm0zSUtHX3ZrT09aMVhvS2Mxbk5zQWJIZGcxbUU4ZHZzajRMNkhuVTFVMDRKVzl4ZA?oc=5",
+      "description": "Dispenses du DCG 2026 : liste complète des épreuves dispensées par diplôme Compta Online",
+      "source": "Compta Online",
+      "published_at": "2022-07-25T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Guise : 9e édition du salon régional de matériel agricole pour le grou ... - La Gazette France",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVBRam1yZmdUaHVEVTZfLUtldjJlRThaTWszZllnRGN4b2ZYSEtNa2o2U1NlbDI3U3VKQlQ1Q0l4NFFURER1c0lCdGJzUjFodFYwWGhEUl9KSGkzb052VU9MQUkyeDdzRjBhaG1mTDdPelNuT0FJMW5BNlBkWjNCWHI2Qnl2TkxudjR4VjJhMmZfQV81NWNXR0lMYlBOaVJxS19pTlNCZEJyNFYzTFRuQzM2MER4Zw?oc=5",
       "description": "Guise : 9e édition du salon régional de matériel agricole pour le grou ... La Gazette France",
@@ -1676,12 +1973,39 @@
       "summary": ""
     },
     {
-      "title": "Gennes-Longuefuye. Romet, l’entreprise familiale spécialiste du matériel agricole, passe la main - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSjl4Q081U2JHWWQtbExoYU8zMGRmbEZ6MDcxbU1MTXdUVGlQMFZ5RlF3aXBiVGlGbjR6ZXhBRk9vdVlzZUlWVEQ0aXprV1Z2cTdsdjFwOFZqUF9fTUtoWFN6dUFDWFNVOUZUQUxQRlRDQ2RDSVc1SGRJVHpsRFBxVDV5YXh6QkcwU1RqX0hua2RGVjQ3VGk4NXJaNmMyNndJUEFGYWw0ZTNROUVBS091dnhnSTh1eXUxNmlXYnRuM1ptOUh0SWJIM1JZdHNuVnhwQTB4dldXYzZpUURmYnJrZWFubjE2WkhJNTFhZmVyVnlxaHB3Uk41cUJYaWVoT09FbWJSYlVzTFRRWkktM25CQUFMWXhfSFQzU0VBQS1rQU9UQWZEVmc?oc=5",
-      "description": "Gennes-Longuefuye. Romet, l’entreprise familiale spécialiste du matériel agricole, passe la main Ouest-France",
-      "source": "Ouest-France",
-      "published_at": "2022-06-09T07:00:00+00:00",
-      "category": "Secteur professionnel",
+      "title": "Les épreuves du BTS CG 2025 : détail des épreuves et calendrier des examens - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vd09MYWJhS0dCZXZSdXpacTBZM2otcjRmMFNSRS1JN1hxc0dSM2RtSUF2cmliaTFodEc4YlZyMi1wUGVaM3NlNllleS1Sb3VoQmZoQ3hsd1pqX2JiQTFoVHBjd1FVZw?oc=5",
+      "description": "Les épreuves du BTS CG 2025 : détail des épreuves et calendrier des examens Compta Online",
+      "source": "Compta Online",
+      "published_at": "2022-06-19T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Sujet BTS CG 2026 : annales et corrigés à télécharger gratuitement - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcnlPTFRuMk43U1VYeVpOenBzQlNnSVZkUExwWDRQQlpNd2xfNmxsUGdSNHU5amoxdDlPNDJ6dmQ1ZWk4cElaVE96ZV91LUZXNF9mZEw4Ym15SnIyaEZvUU4ySGpaX2FZRFlCTnB5MVlSX1Q4bjFWX19qUzlXNGVjekwzci1jMzg?oc=5",
+      "description": "Sujet BTS CG 2026 : annales et corrigés à télécharger gratuitement Compta Online",
+      "source": "Compta Online",
+      "published_at": "2022-05-25T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Résultats BTS CG : consulter ses notes et calculer sa moyenne - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5INU9EZDlnUmwtTGo2V2hzUThsb3pyeFNMU3ZTcFptTEdIbmxqc1pCaTIwTW1EMFh4WDNlalMtazdaQW0zNDFIYk1PWHVYb1J5aUZ4UTRTc3NyOTdFRnYzWVFQWlJyZ182b1BPc2JmdFhWeElhR2c?oc=5",
+      "description": "Résultats BTS CG : consulter ses notes et calculer sa moyenne Compta Online",
+      "source": "Compta Online",
+      "published_at": "2022-04-20T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "BTS CG : débouchés, formations et salaires - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uX2g2bjZTU0tENHpUR1dqRVRHVXNwQWNGWTBBMmZ2bTB3RHJIX3dQRGlXN0k3Q0dOMmVSQjYtOVhlbm1fZXoyUGNIWHpTcmFGNlk0RnhydHhKcHV2VmhZRmNiUTQ2YkxCZ2xjcFNpWU04MHotNUQ5YjRn?oc=5",
+      "description": "BTS CG : débouchés, formations et salaires Compta Online",
+      "source": "Compta Online",
+      "published_at": "2022-04-03T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1721,6 +2045,15 @@
       "summary": ""
     },
     {
+      "title": "Au lycée polyvalent de Falaise, le BTS Comptabilité gestion recrute encore des étudiants - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZXVaTlN5Rm9wY1JscUVVZzRMMVM3VWtPeUhXVXA4cTdwajlXNmE3Z2JyQXhnVGxFdFhQcTdvRlpJTERneEhsRXJERkNaUWtkbUlkQ0ZmS2x2QlE1YXBraUVoU3Y5OThaa3hBenJfbUlWTFN2UXV5SE5hTHdiRm9PckxsN1VuSUlFbFFHeXI3Ql80aVVuYlduQklTUjI2cE5URWwzWDkwSmI3cWlRR2xDMlprT2xFME1SMEYxZ29aQ3NSby1MdWVsNXlPNGFkcEt3a3lNckZzdlBZcUlQSEhya1VqUFl4SWQ4amlWVmtmaVlYcWdWOFhTX3dKUlVIZGp2cV9Vd2VEdw?oc=5",
+      "description": "Au lycée polyvalent de Falaise, le BTS Comptabilité gestion recrute encore des étudiants Ouest-France",
+      "source": "Ouest-France",
+      "published_at": "2021-09-25T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Brandt Tractors acquiert Cervus Equipment - Matériel Agricole",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUwxeU9lLU5LWkZodXlkcENJalEzZzg1X2F3QWxMV1FpcEgxMHFjQmxoakFtRDFUX2RKcUQwR1lZTVVRMFB4bXE0Si0tV0ZSeXpGUE1jZWNmN0V5Y21iNFphbnVIV0tYUi0yNkE1NmxVcG51YTNuWjFILUlnMDVHck9MOEo3bTMzdUR0S1BjODQwLVNBN3JtTUdkV05oVGVaVEpaR2dXQ1BwakZqWGNWQkJURdIBuAFBVV95cUxNcUxRSi00UWcya2lNTTJwMExiNS13UmwyWlRkT2ZHQk5PWTY3T3hFNzhBaGxYSmtmM29HZEJuVS14UXlDZ2dSeC0zUWhzWjdTYzl1UmZWbmZ2R1NmUHZmR00zWFJvbnhORkZYTXpja2MzUl96ajRIeHlPc2hfMERLNk5xNmlQbTNQWG5ta0pJWkwxTjZWUks5UVp4cE9aTVhZTHpQQ2VnN1BxcndEY0dmYlhMRHlsYkFK?oc=5",
       "description": "Brandt Tractors acquiert Cervus Equipment Matériel Agricole",
@@ -1735,15 +2068,6 @@
       "description": "Matériel agricole : Downs, l’entreprise qui a la « patate » Région Hauts-de-France",
       "source": "Région Hauts-de-France",
       "published_at": "2021-05-31T07:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Profiter de taux encore très bas pour renouveler son matériel agricole - Réussir",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWUZad2dxY3Z3Z3dJZm9qdERqU3lUVWxfNC1BU1RyUTE4ZEpjbWRGVmoyMkp6X2x1MzNVLXgyck5yV0JjdUZwUzNyM2pESWQ4ZTFrX0MwUXRWTng0T0JUMnFOZnAzbWFuYnpXbTBNazFUYmhQTHk1QkNfRExSUzA4RmtwaVhUVDF0NEFBMVMtOFczLWxYZnlxTTFHck1jQnlYeVd4Tg?oc=5",
-      "description": "Profiter de taux encore très bas pour renouveler son matériel agricole Réussir",
-      "source": "Réussir",
-      "published_at": "2021-05-20T07:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
@@ -1766,6 +2090,33 @@
       "summary": ""
     },
     {
+      "title": "Orne. La vente aux enchères de matériel agricole a fait recette - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZV80RS1HZzJBNWtRTlhUbWxoMnBKQ1E0Y0VwXzhQSnh2azRRd0JPRWpzQm5sNjdpa05IeUdjU1o2WnVna1RCSFlNYWQ5a3NneWR4ZjZBLXkyNGkwZjlyRzAxdmJJUWtuU0s0UDFtazk2cTJjc1ZXRGFVNWFwdmZpVG8wTjBtOUQ3dGVUcTBWMEZtOWFPWUE1b3BKY1hiSzdFT3FfdVFEM0tsWnh2NHZ5eWh0U1hhMXN2MVFJ?oc=5",
+      "description": "Orne. La vente aux enchères de matériel agricole a fait recette Ouest-France",
+      "source": "Ouest-France",
+      "published_at": "2021-02-25T08:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "La demande de maintien du BTS Comptabilité gestion du lycée Parriat, toujours d’actualité - Montceau News",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnhhVXNFM19OTmJEbVppdHBkVEdqWFJmOFhpRDRib0tZUHc1RVRtZFhScnNkSHdrbUpDMEVha21lRk9XdkpGUmV4MTN3Ykh6aVR2ZEw3WldOSndZRkVUX1U5bk9EeU5sQkhCbndrUERkeUdWcUdYVDJoX3RNUjBoNlNYX2JkYWJnSW0tbjlUYVN0WEJqb2xmNS1iU1JJNXM4Rk9MSnplZTRlalBNTGZpa2gtVXdtd2ZXR3pmbDN1Uk5QTGZrZ09Nb0VReWw1dlAzQzJkWA?oc=5",
+      "description": "La demande de maintien du BTS Comptabilité gestion du lycée Parriat, toujours d’actualité Montceau News",
+      "source": "Montceau News",
+      "published_at": "2021-02-03T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Préparation d’une mobilisation pour maintenir le BTS Comptabilité gestion au lycée Henri Parriat - Montceau News",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb1Z2M3dOWWpUWk1qdjRBSDlSVEozQmlqUXJyX3ZoY3VlSXpQbHZ4dm9DVnhFSUpEeUtndzJJbzFjeTI3bUZvd2VGWHpoMENlck9MeTQ3S1I2UnNwdmtxWmpwd2JhZUlDdjNXTlpuUF9VRmpROHVGOTBMM0NuRkJQYmtyeUMwVlJWWVo0TDB0XzNDaGQxNHFJYU9qNXAtamVKMDM4Y1pyellkQkZDbjdtNUs4LUZSdGJqc01OV09Rb2hrS09IQm5BQkNHbjExVGJtUWJWeHFkT2xTX29Zb3Jj?oc=5",
+      "description": "Préparation d’une mobilisation pour maintenir le BTS Comptabilité gestion au lycée Henri Parriat Montceau News",
+      "source": "Montceau News",
+      "published_at": "2021-01-11T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Ritchie Bros propose des ventes aux enchères réservées au matériel agricole - Terre-net",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEhBWUloYUF5ZDVWYXA0Q01zUms2elN6OWpoM0ROMzFQM2NocXo2WlZsblpZQk9aalphY3h5TEJhQnBzU1dOaXlrQktXRlFrRTZSc2NSNTlVUXlyQmNYdlI2NTgzZGhfc1puSk9UQktHR3pOQUJkajhoeVZhRE5faWozLUkxM2Y0T2dzSl9QY0ZRQnZiV1BTWk9pWmFRamVLVkkwVzJfclJjYWRiRGs4cNIBtgFBVV95cUxPbWhpYk5sVGF4cTBWcTVFSERBMGYwOGpYakdLak01NFpwZVdvYWtQWE1sbzhnUzh4aDVGYVhLUUpkUDRuMXp2OGNucnFsU1FiM05pbE9JYmtPa3RXbk42WjNka2dpNTFGTkxkN2ttVUpTRl9sN0VvRzFUX3VEZ1dXYmFQNDZ6d3E3Zzk4X3ZkSFNFcGJwY1hlQXZKUEJ6TkNMM0RSdTdFa19yYnlvQnN1UkE0MkRFdw?oc=5",
       "description": "Ritchie Bros propose des ventes aux enchères réservées au matériel agricole Terre-net",
@@ -1784,6 +2135,15 @@
       "summary": ""
     },
     {
+      "title": "Handicap: \"Océane contre Lyme\" - Le Podcast Journal",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93a1BoQTJDa3ZGay1yS2dNTGxBMC14cW50ZE84X0JPeXl2VEwyWkpuNmxwM0tnMnZoTjJLY0ZONml5Sk9xemdkaEE4LTEwanFudzYtM2V2Q1duTFp3azYtaFFnWEw0YzctVmZFYlI2RkI1Nm1tekVpRGhR?oc=5",
+      "description": "Handicap: \"Océane contre Lyme\" Le Podcast Journal",
+      "source": "Le Podcast Journal",
+      "published_at": "2020-05-29T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Payen cède son activité agricole - La France Agricole",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHVaQzVtMjYxb3E0NnpUejFWOTdFS2dBbHEybzZ2RElqcVU1LVNzc3laSEtFVjhfcy1va3l1ek5TcmVZZ3VOWm55OUhWa0tXOFloM3ZzbVVlU2x1bTdCN0gyc25zYVh6Z1ZqRGgzZndmejZlRE5kZTZ1Qy1xSU9ud0J1X1BIU0N6dVFJ0gGQAUFVX3lxTE5KS3YxdEo0VUV1S1dsWmNrVkJia29PQ0JHb191WkdLQmoxMnI1aXZMLWpUc3lvYnBNdnUwY3RJcDBqdWVkM2dwSTAxZi1FWXNtSXRmLUgzbnNGcWdfbmE4bGhQWlIxSE53MUJBakxtVklHZWdhLTR6bDN2QUZ6Z0JicG9MUlVsRHR4c3Z6ZFZHYw?oc=5",
       "description": "Payen cède son activité agricole La France Agricole",
@@ -1793,12 +2153,84 @@
       "summary": ""
     },
     {
+      "title": "Parcoursup : le classement des BTS CG les plus demandés en Ile-de-France - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2Z3S3lZdzlPTU85X1pJc19XaWtrQjlHMEswSlM1ZmIxT1hCN3hKcmlaTlVtcG9YZnFCV1JxcVRwY1VwdER6TnlyNm85OG9SQV9ZUmFPaTF6UjFSVWV3T2ZremRrd0psRkcxaGxyOVlGaUlVRWFfOU90M0JNd0d5bEkwcmE3STE4WkdCVzZnZGJ3R3FKYnQ3TlBBT3dTWmZUUkZtaTMwMjA3VWdWRmFNeQ?oc=5",
+      "description": "Parcoursup : le classement des BTS CG les plus demandés en Ile-de-France Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2019-07-04T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Matériel agricole. Le Salon aux champs cible les jeunes - Ouest-France",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEJ0WlNuMlE0ekFrWjFSajg3MmlJbkphcFlfTTc5SFlkY3lvZk92SHR5dms2dEw4MHFSTVBhcV9nMUl2Z0VSLWxuTUJlRHIwcG1xOU9fTDB3OGd5cC1qVXoxVUVsM2xuOGZFSWk0TDFIMFdLcW5VdHJTUnZUVk5LcnNVcDZzaXQ2a1dLNTVBWXlLamFfRHlzaA?oc=5",
       "description": "Matériel agricole. Le Salon aux champs cible les jeunes Ouest-France",
       "source": "Ouest-France",
       "published_at": "2019-07-02T07:00:00+00:00",
       "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Saint-Paul. 65 étudiants du BTS comptabilité-gestion ont participé à la première Innov’Epa - Le Télégramme",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQN1ExOGMzajVJRnVZd0xKbzNuZGRubzExZ08xTHZ1Mk9TaU1KLWRiazFIVTlxdUY1UkFUdERoNXJEVTE1aWRCdHY2S0lyakw4VjM1eWVsaWZxNWJRRDhmMk1uSE1uZ1ZXd285YXh1SGUzMHR2RzNSM3RJSHM0WWNVQjFncFpOZmIyclZZN3loZDBRWDZpaVRvZm90aHFUZ3hIN0s5ejZUdE1VXzlQLVNaN1VUQW9lUXJtbkNpaDIzTDR1NExfVDZnUF83UDdyZzg1c2lsRFFrQkdIRENyZ0Vtd19LZGNCRC1jQzdMbi02eEw2amNvTTlWOFVyQkpKNmhi?oc=5",
+      "description": "Saint-Paul. 65 étudiants du BTS comptabilité-gestion ont participé à la première Innov’Epa Le Télégramme",
+      "source": "Le Télégramme",
+      "published_at": "2018-09-11T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Sujet et corrigé Mathématiques BTS – BTS Comptabilité et gestion (CG) - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRVFBeXdPQnhZMXpTLTJZVGdWa2VXUjM0Y3FiZGxFMnplVHNVc2xJV0tKSEVBcjgtUTJQemF4VTJPRkowVUt4V1RaUGxDaUNTVHBuVGE2aEh0S1Y3R1ZZb2djR2pJdFI1LWVreDBVR25UMl9nTEZTUWdYRklhanhWcXBsU0RXanhYenNlZFVTbWwwamltWFgwWWFCVmJ6VXhsM1ZnRnNBdzREYk5aVVVOZm8xTjFuNndpdnYya1JjaWlOU0F6NmtMX2NyMWdDMGRzU3BuWWFWY1pTSk85?oc=5",
+      "description": "Sujet et corrigé Mathématiques BTS – BTS Comptabilité et gestion (CG) Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-05-15T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Le BTS compta-gestion de Jean-Monnet a lancé des animations - La Montagne",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0wtQ1pCUm83d3NCb09EVDRVLXltYVZxU0hCTTh3UE5jQ2MwaFk2RlVwdmFMVGJxYmktY01ucTkwWXhzeE1pa1VQUmRjZTZRS2F2UnJEakl4TnhCa2RFU3RfOUs4bzVVOXRKSnR2YUNreGl5aGNRZ1pCakNLMnlSWWpYVEozQkpvNWdLZ1RPSm5lYVh2RkxQcGN2ZV9IV2xyanNOd0JrY0tyWms2dkx0SU9raXlJVktrS1dZ?oc=5",
+      "description": "Le BTS compta-gestion de Jean-Monnet a lancé des animations La Montagne",
+      "source": "La Montagne",
+      "published_at": "2017-10-03T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Comptabilité : des étudiants de BTS primés - La Montagne",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTnNoMWt6T0JxQnM5ZzRhbFFoVkFfRmxsT1dtRFI2aWhEN2tLendiUDJ0OTUyVmNsd1luakFJX3Zmd2dIMkpQLWdiOTNxOVRaQnlwRUhUNC1CLUd0MlRNam8zQ1JPX19iNVpxS1R2MDdPRU83MHhkMEJmNGhIejZ1NzkxUy1Xd2FaUDZZU18xVzRMWkM2ZWYtUzRwTGtZeXpZa01qTmh3?oc=5",
+      "description": "Comptabilité : des étudiants de BTS primés La Montagne",
+      "source": "La Montagne",
+      "published_at": "2016-12-08T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Un BTS comptabilité gestion au CFA Descartes de Champs-sur-Marne - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeEkxZF9qOHk4T01ET3ltYlJ6bEtFMFhCaURvUXZDQ1lSalpwMk5WVjZkdHBmZlNHbm9XR19fRGlGS0p0M3g2ZG0tYmdfWDhMdlBOLVE4OXNMSEk4T0lDTmtKeFhLVkZuZEJfQVk5cDFOZ0hlcEpsWnc4RDNfY01nYXVIbnFTVkRzS2h2ZGt4WkpTUzFBeGVsam9GU2N4d08xb3ZFbU1VVHpXcVg5djU5RXNudlFUdnhUcS1sSHByckk3VXNQNnNpcjhRWHpkWGYwN1QzeEdFMHVoQk02ZDhWTFA4Q2ZVcmxNakE?oc=5",
+      "description": "Un BTS comptabilité gestion au CFA Descartes de Champs-sur-Marne Le Parisien",
+      "source": "Le Parisien",
+      "published_at": "2016-03-28T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "zoom. Flavie, major de la promotion BTS comptabilité gestion - Le Progrès",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXJYN1pTYjEzQ1RjOVF2eURlLW4xTHlJRTVaYlFpSkZkaVNFdFJBQUhLekFzcU9HZjVYaVhpNVRNNzlsOHY3dVJ1TlhTSXNJRVJFblBhSzFkYy1fRzIzVDFUVkhLbXBIZ2NaNHdoMUtMYVhwaFFVMnZic3pGZGVqNTBVemF4WThhZ3JZVU5oOUxRdURVY2ZlYg?oc=5",
+      "description": "zoom. Flavie, major de la promotion BTS comptabilité gestion Le Progrès",
+      "source": "Le Progrès",
+      "published_at": "2015-12-01T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "mobilisation : La Rochelle : 2e journée de blocus au lycée Dautet pour le maintien du BTS comptabilité-ges - ubacto.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BcXhMNHVoNnd1NTJqR0U1RVhuOGJyNDN2cksyZk9SX1o0T2Z2U2Z4WkJ0MVE4dU1aOEdaeGRoNC1mUmlUUlpLOFRabS1aaFRDRFg2blRIdEhGNGlHNmE40gFfQVVfeXFMTkFxeEw0dWg2d3U1MmpHRTVFWG44YnI0M3ZySzJmT1JfWjRPZnZTZnhaQnQxUTh1TVo4R1p4ZGg0LWZSaVRSWks4VFptLVpoVENEWDZuVEh0SEY0aUc2YTg?oc=5",
+      "description": "mobilisation : La Rochelle : 2e journée de blocus au lycée Dautet pour le maintien du BTS comptabilité-ges ubacto.com",
+      "source": "ubacto.com",
+      "published_at": "2012-12-19T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     }
   ]
