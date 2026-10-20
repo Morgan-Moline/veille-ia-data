@@ -1,39 +1,135 @@
-
 import json
 import os
 import re
 import html
 import urllib.parse
 import urllib.request
-import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 from email.utils import parsedate_to_datetime
 
+# Sources sélectionnées pour leur sérieux et leur intérêt professionnel.
+# Google Actualités reste le moteur de collecte, mais les recherches sont
+# limitées à ces domaines et les titres sont filtrés avant publication.
 CATEGORIES = [
     {
         "name": "Comptabilité & fiscalité",
-        "query": "comptabilité OR fiscalité OR TVA France",
+        "query": (
+            '(comptabilité OR fiscalité OR TVA OR impôt OR "facturation électronique" '
+            'OR "plan comptable" OR URSSAF OR paie) '
+            '(site:bofip.impots.gouv.fr OR site:impots.gouv.fr OR site:anc.gouv.fr '
+            'OR site:legifrance.gouv.fr OR site:economie.gouv.fr '
+            'OR site:compta-online.com OR site:revue-fiduciaire.com OR site:efl.fr '
+            'OR site:lesechos.fr OR site:banque-france.fr OR site:insee.fr)'
+        ),
+        "keywords": (
+            "comptab", "fiscal", "tva", "impôt", "impot", "facturation",
+            "facture électronique", "plan comptable", "normes comptables",
+            "bilan", "résultat", "resultat", "urssaf", "paie", "salaire",
+            "déclaration", "declaration", "redressement", "entreprise",
+            "loi de finances", "impôt sur", "impot sur", "bofip", "pcg",
+            "expert-comptable", "expert comptable", "cotisation"
+        ),
+        "sources": (
+            "bofip", "impots.gouv", "impôts.gouv", "légifrance", "legifrance",
+            "autorité des normes comptables", "anc", "ministère de l'économie",
+            "ministere de l'economie", "compta online", "compta-online",
+            "revue fiduciaire", "efl", "les echos", "les échos",
+            "banque de france", "insee"
+        ),
     },
     {
         "name": "BTS Comptabilité-Gestion",
-        "query": '"BTS Comptabilité Gestion" OR "BTS CG"',
+        "query": (
+            '("BTS comptabilité gestion" OR "BTS CG" OR "comptabilité gestion" '
+            'OR "contrôle de gestion" OR alternance OR référentiel OR examen) '
+            '(site:compta-online.com OR site:studyrama.com OR site:education.gouv.fr '
+            'OR site:eduscol.education.fr OR site:francecompetences.fr '
+            'OR site:onisep.fr OR site:apec.fr OR site:insee.fr '
+            'OR site:banque-france.fr OR site:economie.gouv.fr)'
+        ),
+        "keywords": (
+            "bts", "comptabilité", "comptabilite", "gestion", "comptable",
+            "contrôle de gestion", "controle de gestion", "alternance",
+            "apprentissage", "référentiel", "referentiel", "examen",
+            "diplôme", "diplome", "formation", "dcg", "dscg", "épreuve",
+            "epreuve", "étudiant", "etudiant", "éducation", "education",
+            "compétence", "competence", "emploi", "métier", "metier"
+        ),
+        "sources": (
+            "compta online", "compta-online", "studyrama", "éducation nationale",
+            "education nationale", "éduscol", "eduscol", "france compétences",
+            "france competences", "onisep", "apec", "insee",
+            "banque de france", "ministère de l'économie", "ministere de l'economie"
+        ),
     },
     {
         "name": "Secteur professionnel",
-        "query": '"matériel agricole" OR "location matériel agricole" OR concessionnaire agricole France',
+        "query": (
+            '("matériel agricole" OR machinisme OR tracteur OR concessionnaire '
+            'OR agroéquipement OR "location de matériel" OR moissonneuse) '
+            '(site:terre-net.fr OR site:lafranceagricole.fr OR site:reussir.fr '
+            'OR site:materielagricole.com OR site:axema.fr OR site:sedima.fr '
+            'OR site:usinenouvelle.com OR site:agri-mutuel.com)'
+        ),
+        "keywords": (
+            "matériel agricole", "materiel agricole", "machinisme", "tracteur",
+            "concession", "concessionnaire", "agroéquipement", "agroequipement",
+            "location", "moissonneuse", "ensileuse", "récolte", "recolte",
+            "agricole", "agroéquipement", "agroequipement", "axema", "sedima",
+            "distributeur", "atelier", "pièce détachée", "piece detachee",
+            "maintenance", "constructeur", "agriculture", "équipement",
+            "equipement", "marché", "marche"
+        ),
+        "sources": (
+            "terre-net", "terre net", "la france agricole", "réussir",
+            "reussir", "matériel agricole", "materiel agricole", "axema",
+            "sedima", "l'usine nouvelle", "usine nouvelle", "agri-mutuel",
+            "agri mutuel"
+        ),
     },
 ]
+
+MAX_ARTICLES_PER_CATEGORY = 100
+MAX_DESCRIPTION_LENGTH = 2500
+
 
 def clean_text(value):
     value = html.unescape(value or "")
     value = re.sub(r"<[^>]+>", " ", value)
     return re.sub(r"\s+", " ", value).strip()
 
+
+def normalize(value):
+    value = (value or "").lower().replace("’", "'")
+    return re.sub(r"\s+", " ", value).strip()
+
+
 def read_text(element, tag):
     found = element.find(tag)
     return found.text.strip() if found is not None and found.text else ""
+
+
+def matches_category(article, category):
+    title = normalize(article.get("title", ""))
+    description = normalize(article.get("description", ""))
+    source = normalize(article.get("source", ""))
+    text = f"{title} {description}"
+
+    # Écarte les résultats dont le titre n'a aucun rapport avec le sujet.
+    if not any(keyword in title for keyword in category["keywords"]):
+        return False
+
+    # Ne conserve que les médias et organismes de la liste de référence.
+    if not any(normalize(name) in source for name in category["sources"]):
+        return False
+
+    # Les mots-clés de la catégorie doivent apparaître dans le titre.
+    # Cela évite les articles de faits divers qui ne partagent qu'un mot
+    # générique comme « France », « entreprise » ou « budget ».
+    return True
+
 
 def fetch_category(category):
     params = urllib.parse.urlencode({
@@ -52,11 +148,25 @@ def fetch_category(category):
 
     root = ET.fromstring(xml_data)
     articles = []
+    seen = set()
 
     for item in root.findall(".//item"):
         title = clean_text(read_text(item, "title"))
         link = read_text(item, "link")
-        if not title or not link:
+        if not title or not link or link in seen:
+            continue
+
+        source = read_text(item, "source") or "Google Actualités"
+        article = {
+            "title": title,
+            "link": link,
+            "description": clean_text(read_text(item, "description")),
+            "source": source,
+            "published_at": None,
+            "category": category["name"],
+        }
+
+        if not matches_category(article, category):
             continue
 
         date_text = read_text(item, "pubDate")
@@ -64,17 +174,16 @@ def fetch_category(category):
             published = parsedate_to_datetime(date_text).isoformat()
         except (ValueError, TypeError, OverflowError):
             published = None
+        article["published_at"] = published
 
-        articles.append({
-            "title": title,
-            "link": link,
-            "description": clean_text(read_text(item, "description")),
-            "source": read_text(item, "source") or "Google Actualités",
-            "published_at": published,
-            "category": category["name"],
-        })
+        articles.append(article)
+        seen.add(link)
+
+        if len(articles) >= MAX_ARTICLES_PER_CATEGORY:
+            break
 
     return articles
+
 
 def summarize_with_gemini(article, api_key):
     prompt = (
@@ -86,8 +195,9 @@ def summarize_with_gemini(article, api_key):
         "N'invente aucun fait. Si les informations sont insuffisantes, "
         "précise-le. Utilise uniquement le titre et la description fournis.\n\n"
         f"Catégorie : {article['category']}\n"
+        f"Source : {article['source']}\n"
         f"Titre : {article['title']}\n"
-        f"Description : {article['description'][:2500]}"
+        f"Description : {article['description'][:MAX_DESCRIPTION_LENGTH]}"
     )
 
     payload = {
@@ -116,6 +226,7 @@ def summarize_with_gemini(article, api_key):
 
     return result["candidates"][0]["content"]["parts"][0]["text"].strip()
 
+
 def main():
     data_path = Path("data.json")
     previous = {"articles": []}
@@ -137,16 +248,20 @@ def main():
 
     for category in CATEGORIES:
         try:
-            for article in fetch_category(category):
+            category_articles = fetch_category(category)
+            for article in category_articles:
                 all_articles.setdefault(article["link"], article)
-            print(f'OK : {category["name"]}')
+            print(
+                f'OK : {category["name"]} — '
+                f'{len(category_articles)} articles retenus après filtrage'
+            )
         except Exception as error:
             errors.append(f'{category["name"]}: {error}')
             print(f'ERREUR : {category["name"]}: {error}')
 
     if not all_articles:
         raise RuntimeError(
-            "Aucun article récupéré. Le fichier existant est conservé. "
+            "Aucun article retenu. Le fichier existant est conservé. "
             + " | ".join(errors)
         )
 
@@ -173,9 +288,7 @@ def main():
                 continue
 
             try:
-                article["summary"] = summarize_with_gemini(
-                    article, api_key
-                )
+                article["summary"] = summarize_with_gemini(article, api_key)
                 summarized += 1
                 print(f"Résumé créé : {article['title']}")
             except Exception as error:
@@ -193,6 +306,7 @@ def main():
 
     print(f"{len(articles)} articles enregistrés.")
     print(f"{summarized} nouveaux résumés générés.")
+
 
 if __name__ == "__main__":
     main()
