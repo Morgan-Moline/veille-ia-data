@@ -24,6 +24,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Locate Flutter project
+        run: |
+          find . -name pubspec.yaml -not -path "*/.dart_tool/*"
+
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
