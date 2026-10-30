@@ -1,257 +1,104 @@
 {
-  "updated_at": "2026-10-26T11:37:01.782908+00:00",
+  "updated_at": "2026-10-30T22:32:04.689532+00:00",
   "articles": [
     {
-      "title": "Ensileuse - reussir.fr",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS2Y0a3Y3VU43SW03SU5HOFlsWDhaNWF1YmlkaElKZE43RGh5RTV3emU3SlZUOUg4MzE4eTVTLWRlcnRZZzBZVVRrUkhqTWRSVjIwdFEwQnQ1MWlWSWJsRWlxLW92YWxuNzBhU1N5eW91eGMxTzh2eWRMQjI4Sk12NDAzbG1aNGR5S1M2UkV2Z05oZTROUTJodkVISXZsX1R4allZZW81aG9fWDZHbFE?oc=5",
-      "description": "Ensileuse reussir.fr",
-      "source": "reussir.fr",
-      "published_at": "2026-10-26T10:26:41+00:00",
-      "category": "Secteur professionnel",
-      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé, car le titre et la description se limitent aux termes « Ensileuse - reussir.fr » sans aucun détail factuel sur l'actualité. Par conséquent, il est impossible d'expliquer l'information essentielle ou son intérêt pratique pour un étudiant en BTS CG dans le secteur du matériel agricole et de la location."
-    },
-    {
-      "title": "Sky agriculture - reussir.fr",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYkx0TGhmMFRzRWdmWVdoY0M3UDltNVd3Sk41WU9zRE8zVlB2YVcwMVdxVERyWkJvd0dmUXBmWXQtZlFlYnRTbkZaaHd3RVJOYkRVZHNXWnlyRk52Q2ViTGd1azFzRmhvNVZOWmF0Q013ck5ocER4T2hRN3R2Q2Zrb0kybWwydjJsMmc2SW5qbkJoTFhfMWgyZTBBQXJQUQ?oc=5",
-      "description": "Sky agriculture reussir.fr",
-      "source": "reussir.fr",
-      "published_at": "2026-10-26T10:18:50+00:00",
-      "category": "Secteur professionnel",
-      "summary": "Les informations fournies sont actuellement insuffisantes pour rédiger un résumé précis, car le titre et la description se limitent à mentionner la marque \"Sky agriculture\" sur le site reussir.fr sans donner de détails sur le contenu de l'actualité. En tant qu'étudiant en BTS CG dans le secteur du matériel agricole et de la location, il conviendra de consulter directement l'article source pour identifier les nouveautés produits, réglementaires ou économiques concernant cette marque."
-    },
-    {
-      "title": "Un guide pour évaluer la « transportabilité » des ovins - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU25hejMtRUdUU1hkcXYzenIyVThJaTVYMEUyS0xPNkxtQVpDd2lNUVJGQ1lKeFg4a09GLUdNMEcwanBRZXVFd1M0WGtBSWsyTWF0anNWWVZ2Sm1xQ090Z1VMOXdZbDVnQXNMdTE2LTBWVkdEQjRqc1NCUlBKOEdnb3VKVzNoZ2FBMnV3aE5UWVZkZUtIVGVqWktnVHJralJvaU01OTZETjfSAa4BQVVfeXFMT2lielpHX0ZsbDNyTDJOOW9EV1FWd2dFalRGSjItd3h1VnhiY05VSWFQMXFqRGpMRm9DNEJHdXlkeWtjTDQ4dW50cW9UcThBYzZfbnhOMFB4YUlLMTFOSlY1aG1VcGFlUkRpN2pSWHZKR2lVUjZZVWowWmVka3lEOWpuVVlkYk1pYlVBZVQ3RnNGQlBsdjA5NFNwVGJ3SnVGT0RpRDNKSjZkaGxSQUZn?oc=5",
-      "description": "Un guide pour évaluer la « transportabilité » des ovins La France Agricole",
+      "title": "« Les agriculteurs doivent se battre pour que les terres fécondes soient sanctuarisées » - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWptMjgxLVBiQkhUZEZVWWhZU1pfZm9od2gwUWlYSUZtSzA3SW1leWNFVkZhNmh3MXJYNXdDZmVFQTNFNU1wMEtJZDdjQl9WbWsxaDhYNmd5WkpVTHp5SHhUcEpPbFJfYkFXcVNkR2l0dmtFN3drVEpYWXdkVGxTeWxwWFM2ai1EWklCVURnS2lwWWFCbWZpMHBadkduMGdEbEE4Y1JuMDllRDVUZ1BYemQzNFZKZnJvMl9xbWJvMnlkNlF4YXZuOVpDNNIB0AFBVV95cUxNa0FiaFQ3SGpjMzNwWTh3ZGZzMzZNUWRuMTBJZ20wZmVUTTZDMldfWWhmSmNQS2lXUTRsUUxzOXFKaDZkSmYxZkNTVHNTNXV0bGtwQTkyUC1rOFlJakRpNVZURVdiSUQyTDdkckN6R0ZNcGh0ekhpOWYxLVJtRGRXUGhWLUdxOFlqbHAwVU40QVM3anBxUktadUNIQU9xbVdvRWtNcEpTQlBJeXRMdXRzc2RsZm9wRUIzdG5NSUxkNjQtbzFYS0toN2xpeU1nME5j?oc=5",
+      "description": "« Les agriculteurs doivent se battre pour que les terres fécondes soient sanctuarisées » La France Agricole",
       "source": "La France Agricole",
-      "published_at": "2026-10-26T06:29:00+00:00",
+      "published_at": "2026-10-30T14:03:00+00:00",
       "category": "Secteur professionnel",
-      "summary": "Les informations fournies sont actuellement insuffisantes pour rédiger un résumé précis, la description se limitant à répéter le titre. D'après ces éléments, *La France Agricole* propose un guide destiné à évaluer la « transportabilité » des ovins. Pour un professionnel de la gestion dans le secteur agricole, cette actualité pourrait présenter un intérêt sur le plan réglementaire ou logistique, mais aucun fait supplémentaire n'est disponible pour le confirmer."
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé précis et contextualisé, car la description se limite à répéter le titre sans apporter de détails chiffrés ou d'éléments factuels. Cet article aborde la sanctuarisation des terres agricoles fertiles, un enjeu stratégique lié à la gestion du foncier. Pour un étudiant en BTS Comptabilité-Gestion dans le secteur du matériel agricole et de la location, suivre l'évolution de la surface agricole utile et des installations est utile pour anticiper la santé financière et les investissements des exploitations clientes."
     },
     {
-      "title": "Le fermier a pu obtenir l’annulation de la vente - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLUw3c1M4NW1mdXJMRk1SV3d2ZHhmUXk4ZkJZVV9XOGd0RmFxaVE5MlhEUXRPUUVVQjRrZVhKQnMtbjVEa2ttZW9fNDZuNWR0QTltaElkeG5TS19pZWRJeTB3dWp5XzVnOFFHSjZjbDVMN1NWd3JOWktkYnRRT0FhU3l0dVFnLWRwTlA0S3daTHNxOTY3Vm5aUHdUWjlwUTgzSkw3eFBXY1lzQdIBrwFBVV95cUxNdTIzcnRPRXJWN1RURDhSdkNsbHg3WVJsTmlsdUwzQ2tPNHV2M0FJWVU1UDE4MS1kUzZTT2htbkVyUVhmMVdWRXJBTjh2QWFDQWRzbmo5VTZyTUNQSF9NWXdYNno3TDNnaHVIQml1V3lVUzVFUS05TV9OWW1wWDRscG52T21XbmZMZUNnVzl1d0Z3N1lBQ3FXTEVpcmJSUDk5NFVLUUNQSWpINGMtZk5v?oc=5",
-      "description": "Le fermier a pu obtenir l’annulation de la vente La France Agricole",
+      "title": "La FNSEA appelle le gouvernement à revoir son projet sur les captages - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEVieFBXSXpaSkh5eWhWRWc0elBleTNDYmNMWjkyTmpNcXNteFMyZk9Ed083cWxLYmJQN0kzTHRiX3hHdFZWWjNETUZLcUdURzRlYVJHb3ZwUXZpbE5oMWRaOV8xaUZoTkkxenhKdHV0TTVRVXBlWEEyVjFDNWZ0UkFNM1RYazB1VzhHcWRia05mSjdBS2daYlR4b2dnUENNRE54OHhlMHZOelVOYmpZN21HMTdDV3NqTE5lStIBwgFBVV95cUxQTTdBV2p0ZmotV2dfMi1HeHJGZmxicFAwNC1RS1F1NF84Y0EzS1VEN2oxb18xYWZ5dmQ2YzBDdVd4MFRnbm1ydFg2UjJ1Q01OVm5DU0plWXczaWN1WW04WHZzQ1BzRkZFZF9rVVVnSXhqNjI0SDhuU1FqLS1QVWJvTjZLb2hhcmo1V0xsTkpnekxDa3RMZHJkcmJLdF9JSFRvQnN2QzFYai1TUkVqNzh6YVBGdHo1QndRSDdkZEZtc1VmUQ?oc=5",
+      "description": "La FNSEA appelle le gouvernement à revoir son projet sur les captages La France Agricole",
       "source": "La France Agricole",
-      "published_at": "2026-10-25T07:05:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": "Les informations fournies sont actuellement insuffisantes pour rédiger un résumé précis, car le titre et la description se limitent à mentionner l'annulation d'une vente par un fermier sans donner de détails contextuels. En tant qu'étudiant en BTS Comptabilité-Gestion, on peut simplement retenir qu'un litige commercial ou contractuel s'est soldé par l'annulation d'une vente, ce qui souligne l'importance de la rigueur juridique et contractuelle dans les transactions du secteur agricole. Pour une analyse pratique en gestion, il conviendrait de connaître la nature du bien concerné (matériel ou location) et les motifs financiers ou juridiques de cette décision."
-    },
-    {
-      "title": "Quand flamboyait la Toison d’or à Dijon - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOREtyai1hY2dHQ3p1aGZyUFQyM3V5UDNubV9iRy1LQ2xRbTJLb1FrSlYyaEhpR0Q3Qzgwa2pqb1gzWjBYTlRucDQ0RnprT1FUUmlGNFg0SHFpTjhvajBBT2E0MFVhM0ZoVE5BeUtLNTYwUlN1R3JGbDZjQ1FMMjhMNC04b09KWWRDX3g1LTNqV0M1MVFwNURRUmNJdkI1aUlvSWN3MHZn0gGrAUFVX3lxTFA1YlZZQy1lVlFNbXB1cWpBclZ0enhiWEc3SFRPLTJJanR3RWlZZzJ6MHo3VVJOb2xMMjV5OVZuYnpxNnpWbGg2RWgyN0FZam5WaUNNX3c0RDlKaGZtVUNaVGRoX09yWklTenZaX3B0MkkyT3JMU3dIaWNDT0Q5d2VreXRxMjRMb1o5MTNmcjVSMGZQcVR4dmh6eHhJSGd5RWxZRDNsNzlFSTZXQQ?oc=5",
-      "description": "Quand flamboyait la Toison d’or à Dijon La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-25T06:35:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": "Les informations fournies dans le titre et la description sont insuffisantes pour rédiger un résumé précis, car elles mentionnent uniquement un sujet historique ou culturel (\"Quand flamboyait la Toison d’or à Dijon\") sans lien explicite avec l'actualité économique, comptable ou financière du secteur agricole et de la location. Par conséquent, il est impossible d'en dégager un intérêt pratique pour un étudiant en BTS Comptabilité-Gestion dans ce secteur."
-    },
-    {
-      "title": "Les dahlias ne sont pas pressés pour l’hivernage ! - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb045QUxzanEySC0wbUdYQl9pOWdVbWpkTWtLakVuZ0NMUGs5QXZVdWdZYTVIMDJ0VUM2eUx0WC1HdHRLbkhaLWotRm8yNG9yTTgxaVMtNmVmbldiVTJpRE9HNkNkNU5PY0hnMDM2Mi1wQ19femV2ZWVBUWZLTS1jNjFOZTJySkZjTVQxYXotZFVFcVpyaXFDQ25wWWFISTNtNi1yddIBqgFBVV95cUxNN1RXRHA5Mm8wd2JqN0k0UFVoVWxsOFc0MWU0aGR1ZFJ5TlZDV3dlS0xzSjJZSTc2VjFxLWFFamQwTl9reGRUaTZMakNtbVJsVWd1S0RWLW9KM091aTlqVGNnUGFsaWlvZHE4UEdnRVJaeHR5dXBDSzBMdFdwb2pVYmpaVEFQdTNmdmVpc1g4aklqVHAwbHBWemJKSXA1SmZ6Nm9adElJVnRPUQ?oc=5",
-      "description": "Les dahlias ne sont pas pressés pour l’hivernage ! La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-25T06:05:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé pertinent, le texte se limitant à une mention sur l'hivernage des dahlias sans lien direct avec la gestion, la comptabilité ou la location de matériel agricole. Par conséquent, aucun intérêt pratique pour votre veille professionnelle en BTS CG ne peut être déterminé à partir de ce titre et de cette description."
-    },
-    {
-      "title": "Le virus Shamonda détecté pour la première fois chez l’être humain - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcG1rV29rR2NGeEhaTllJVjhyakhqeUJQdkxCSFFwMkd4aUEyQkxHdU0xdFM0RGZnR3pfcHk0ZElWQktvbmU4dk5SbU1LaDNwX3JET0RScDIybnJ4eklZNE9wc2Nfb1UyT3VVLVdXVDV5QmJQZDJmUDdKQ01McW1mNHYzZEg4MzZOaTZoQ3NsTzFYOGwxWlRzd3F6ZnN1dTRQWXUyc3gtRFI0U2s5TXBjX1Bkd0JLT3N0dGEyVFAxNnJxamJScHc5T1JRY9IB0AFBVV95cUxNOVN0U09RS0g5a3h1d1IyRFFBY196LWRoazRsNlFOOXBiSjVTcEpCSkQ5aHpvenpXbmlncGNoaXBwM2FBc3BYQkgyNnNlajRaeHFvQXdqZC1rMHExUXNwWktybENaQXJjV2VRQ3VIdHdWbk9JWGpXb3dobldMdmZGaFVLUE9CR1p4RktsWDQ1dnpLb3hGdFF1NXhGbkN4TnZnR1JWZERJNFRUZFp4STkweEpwZnZobzJnMHJKa0Z0SmVGaTcydFMxT3dDTHZHNXBr?oc=5",
-      "description": "Le virus Shamonda détecté pour la première fois chez l’être humain La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-24T22:25:57+00:00",
-      "category": "Secteur professionnel",
-      "summary": "Le virus Shamonda a été détecté pour la première fois chez l'être humain, selon une information rapportée par *La France Agricole*. Les informations fournies dans le titre et la description sont toutefois insuffisantes pour en comprendre l'impact exact. Aucun lien direct ou intérêt pratique n'est établi avec la gestion comptable ou la location de matériel agricole à ce stade."
-    },
-    {
-      "title": "Agrivoltaïsme : la loi Aper vise à éviter les projets « alibi » - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3FnSzlrcGdLOFlLRjE1T3FsTFl2a2xkTTBjSWgtQ29HVkhLbDJnNll3YnpDek01YU4zWDFJSGd6WUQ3Y2QtbXloYmg0T3l6QzViMVdXM184cEdEdFFWTmNYVEtEZ2Q4UzBuSmtMVDdQZTJJNHFhNFVkVHQzX3hSZmRjREROcmZOdVhCOHdva2ZiNGxSUjlZQmdjQ1Q2WTRkVzMxbW53bFNhTTFIR1hSX19PbjNKS1QtVXfSAb8BQVVfeXFMT0R5b0NlZGxkNWdoTGVUdDczZmtjNDVoLS1kbDM2a2tEeXhvNVY0eDcyamM5cjdUN0swemc5WXlwOHBmZEM2V0t3TXdEUjV4MG5Cd0F4ZTRRVW93bUVob2tILTc1SEszNHFLeTNTSDV5ZTlTNFZGZTkyTFdocGJLNG5qQnJkeFdyWUtfY3UtQjVZYjdTMjhJR2dMaG9icjk0OHJTYlU1ZEt0bi1QY2F4UEx2ak03a0NmX1U2dUhaTkk?oc=5",
-      "description": "Agrivoltaïsme : la loi Aper vise à éviter les projets « alibi » La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-24T21:26:43+00:00",
-      "category": "Secteur professionnel",
-      "summary": "L'actualité indique que la loi Aper sur l'agrivoltaïsme vise à éviter les projets dits « alibi ». Les informations fournies sont toutefois insuffisantes pour détailler les mesures précises de cette loi ou ses impacts comptables et financiers directs. Pour un étudiant en BTS Comptabilité-Gestion dans le secteur du matériel agricole et de la location, cette veille invite à surveiller le cadre réglementaire de l'agrivoltaïsme qui pourrait influencer les investissements des exploitations agricoles clientes."
-    },
-    {
-      "title": "Louis, un marathon à force de ténacité - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDF3bzR0ZFlvbFgwTzhERDdxRTd0c3hCZlp3YXA4eU5OUnFCbGhmRTdkeEhOS19XYVMyWk55dFhZZUI2bE80RlFSMGJ5eExMWGRkcjB4MGQ0NlRxNExlQ05wTGI1NG5XbmZodnFrb0xLQXdzRTM3MHc3UEp1MmdEOVJEbjlsYXlMbWFkTUt3M0JaZy14YVVJSHNn0gGfAUFVX3lxTFBnZEI5Ymw0bWZrWEt2cmhZb0wtVkg1aVFZa3RqQmZtbERzVnhRQUFaU2xnOFNFZXEyeGU5VVBLVnBUTUo1RTViOHoyTEtXQXdjRF9NU1loN0swTzF1QTRRamFTRnVXUmtQdzJIMTlVeWZ0YUVjTy1GZU42WGFLbGVpVjY3d1lFZmpnRTA4TE5zRjFpRVU4TG5SVktpWk4tWQ?oc=5",
-      "description": "Louis, un marathon à force de ténacité La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-24T11:03:00+00:00",
+      "published_at": "2026-10-30T12:59:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
     {
-      "title": "Les distributeurs menacent de boycotter le comité de préparation des négociations commerciales - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGNWSGtNOXRnTUhjMmJVU1NpZzlXSXJCbWV3NHVORFBvWXR4UmhkSWZWeDNNOFJpZGZRTW1JdzBxOTAzOEVZWFNaOExxOTByeEdiSHFRYm5INFRzTnYtR211WXdhbmt5Wk1SRnJvaWxIdFFMUDNpZWN6SmpHTEFmS0VBbFRqY2ZnOXNwTWt5ZWdYOUVtZUxHcVRXVTk5NXRZNTNjTlc3VUZTaFhsdGlUSnNFYzZvdTdSWGF5VjJoQU8xYjZQMEs4SktkOTZRU1hLZlBqUzBfYVBic0RGSXg0eUNyZzB2aWJQ0gHuAUFVX3lxTE4zR3hlRExQYWNndGpHODA0aGdkWmpfTk9xUnhuUVZlQWFZUWVfZnhEUkgwMTN2RGgybTh6cU5WT1ljdkdVUFVKOG9kbExvbkJUZnFCRHJCTE0yMGFsQ3Q5WExUbjh2cGRnU2FVX0NraHpmV0dXSmlZVjJQZmFIb010ZUxyVGhUSk16c3Q1YnNvbTZIMUJOSTNoMnUzbjlWN091cWs0VkNZLWdpWDlFdHBpZ0xIYzhLVW5XNmpKbXJCc2FzTEs1SFdmRGZjQzdsSXRxN2VLRklhbXFyeVFHRmJBZ25ZcGRuNlJPcmZhclE?oc=5",
-      "description": "Les distributeurs menacent de boycotter le comité de préparation des négociations commerciales La France Agricole",
+      "title": "Recul des importations françaises de viande bovine sur les huit premiers mois de 2026 - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUHF1Q0REN29DU3hMTXJsbGQtcVIzcHk3UDU0N1pydDI0ajJqRVBHb25sWVlXS0tQQjBCVjBMVG9vTXFTUTFxeWRhR3lILWNSa2dpSWVRdjZza2E4VGNDNUNyb2ZZLWZmTXU0MUxyZjRqNFlEME5LQm1DZ0RIREF1cFpxTnN1eW5tSGwwUm91UzV6TXV2b09Sa3BfVzVuRjQ0ck9QRHZhUEhxX2pJTEY0ZEd3NkQzVmFvS2lUam1hRTEzMkN2TFYwVkxmS09HOFlta05ITFB2MjRKSUR0RXdFN3hsRExPUdIB5gFBVV95cUxOUHF1Q0REN29DU3hMTXJsbGQtcVIzcHk3UDU0N1pydDI0ajJqRVBHb25sWVlXS0tQQjBCVjBMVG9vTXFTUTFxeWRhR3lILWNSa2dpSWVRdjZza2E4VGNDNUNyb2ZZLWZmTXU0MUxyZjRqNFlEME5LQm1DZ0RIREF1cFpxTnN1eW5tSGwwUm91UzV6TXV2b09Sa3BfVzVuRjQ0ck9QRHZhUEhxX2pJTEY0ZEd3NkQzVmFvS2lUam1hRTEzMkN2TFYwVkxmS09HOFlta05ITFB2MjRKSUR0RXdFN3hsRExPUQ?oc=5",
+      "description": "Recul des importations françaises de viande bovine sur les huit premiers mois de 2026 La France Agricole",
       "source": "La France Agricole",
-      "published_at": "2026-10-23T13:03:00+00:00",
+      "published_at": "2026-10-29T14:03:41+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
     {
-      "title": "Agrivoltaïsme : les panneaux font-ils de l’ombre au rendement des cultures ? - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlFCTUZMcTlaQ3FCZ3NkbTdrbWVSWHd2ZDZIWFNXUWRhdkU0ZjJzZ3VyNVg0VG1SWWlZNldpdkVGeHZaMmlkTVhZXzdRUFMweVFGRFYzalNENzhsM3RUc2FxU05HRUZhUUxqOVRtbm5NRl9zLXJsM2llckF5R0M4ZGFOcElQZnVtNTdScnpjZWtfT3ZGVGZrbmh3TG9fTmxjc0lxRmoyMDBkWWNsY0JNOXp1OVFCNk9Ib3FTTXkyR3VneG5UczR0TXZZNDhFQdIB0wFBVV95cUxOOWF2NkVBMmgxSlgxWnk4eDdtVjhQUnpkZ1lDYURGQk5oQ3BkVDZtWlBMa3JHM0NtYTNhRTlRYkw4TG5YcnFXU0ZqZmJSdFlZSU42UFZyWHdCM2pYYXlDLW13QXJrSnFvc0dqMThiOEljbV9jMFItUHFqUnQ3NHlvYXFVWmdYZ01nMWh6YnNRQWtDOC1Cc25yVFVjLTJ0Wmw3T3ZYSmc4b3hFZjZXcWI3WVN3SEpJZWQ4WEZoS2hSZ283ZUtMMTFqcHh5aXM3MXNVZU84?oc=5",
-      "description": "Agrivoltaïsme : les panneaux font-ils de l’ombre au rendement des cultures ? La France Agricole",
+      "title": "Les prix des denrées alimentaires grimperaient de 18 % entre 2025 et 2027 - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR1B0U3pzU2xRX2FwVmVzX0VVWFlWTWllbjBKNWduY2R2SUJqMmNNUm9Nd1Nmd2NkZUlIZ1JGUldFWHpxZE1Qc2tCMUJDX2RSN21Mcm9mdk1ZWE1LVW1tTmdTTnBMRzAyX3E4RnEyMkdkQVRBX0tFaEFIZGV6NzF2N0c2S2FmZTVQcTltdVpzSkQ2Wmh0TC14R1Z0S005MVc2SlhVVFk4Q3ViRGxCVkl4QXV6QjB6eGc3UXV4UWF4UXd4VGtVLWpJdE5DTEfSAdIBQVVfeXFMTkE5czNTNDZkREUyemxDZGlsN0NqTG9yMVNMSzR6S0NjWUpBSU96d1k2TGZkd29teV8yQkNpcVJucjZfTVh5ZWpac1l6a1IxaVZDTmEzMTRINnRMVDdxb3N4UFprZG5VcTBOQ1MtVW04dFRZVlNDXzUtYlBJMTJMMDkwUENPVEp0ZlJtNjkxVDVYT2RpSTdmdHluT1lKVVNHM3NnVjRJa2puazlpQkQ3bk1RbGE0TzAxZ1ZCdmRMb3ZBMkhFVzBROXgyMkpDOU5YVk5n?oc=5",
+      "description": "Les prix des denrées alimentaires grimperaient de 18 % entre 2025 et 2027 La France Agricole",
       "source": "La France Agricole",
-      "published_at": "2026-10-23T10:41:27+00:00",
+      "published_at": "2026-10-29T11:15:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": "D'après *La France Agricole*, les prix des denrées alimentaires devraient augmenter de 18 % entre 2025 et 2027. Cette tendance inflationniste dans le secteur agricole est l'information essentielle transmise par la source, les détails précis sur ses causes ou ses impacts n'étant pas fournis. Pour un étudiant en BTS CG dans la location de matériel agricole, suivre cette évolution est crucial pour anticiper la santé financière des clients agriculteurs et adapter les prévisions de gestion."
+    },
+    {
+      "title": "Le blé européen plombé par la mer Noire, le soja américain par l’élection de Lula - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWThocWx4eDdUc3p4eHhCWW9WbVpvYmlYVmZTc3VLTFN4aGxhaGMyU3pQNzR3RFh6TmxaZlRvbXV0OXU5TFFEREtTYm9abzAxRktXV3FWbmFzdEpQdEVFMTNvS080T3pseEdzTFBDLVRfZ1dCSDNlRUdET3dBU3g1RkFVd1owQV83dWdUR3NhNjhxZmxmTlA3cWF0d1ZKbTc3Y0VQSkl0R0ZIWjFKT3p4dHJmdjF2cGU1RU1Tdmxpc3J2Sl94RXBxM3NMc3cxZmtvX1hqMl9RWjU3d2tIeGY4TkFn0gHnAUFVX3lxTFBoX3h2X1BHSFIweDhtVktOdUhJZ1dkMlVzejdoYzNLbk5CcnozeTB1T0xuRWJFOXVzTjUzNnhtUTdFXzM3RVN0OG9VY1k3bks1VTdNeEQ5aTVEWF9XaENEWk5qeWF3TnR5ZHgyWTJhTVlrV3ZUR0pvOFQwUDJfS3hWbE5JQVVtZlBKd3Q5X3dCNGxkWFpsMUlHNXRzS2NuUmYydXV2V0JoMjRVRjl4RDFIVThvYUF4a1RHd001b3BsSlFUeFRrZFktU3VWNXJTYXRtRFBoYkF1b25xek1uckJvVzh4M2hiUQ?oc=5",
+      "description": "Le blé européen plombé par la mer Noire, le soja américain par l’élection de Lula La France Agricole",
+      "source": "La France Agricole",
+      "published_at": "2026-10-29T04:55:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
     {
-      "title": "Le pilotage des panneaux photovoltaïques sur cultures semble prometteur - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbFVMNGdFRUVXUzJMbHh4U3dNTUZ5aG9jUi1LVEp3WV9UX1ctdDNEQS0waklvTzNPNUVReFZGQTFUTjBsOUNIUUV5b2JzWFMwa0VWN1Q3d1oxbWZqM25FNmVOT1hGOVJaeGlBZ0NfY1ZadGhMQjJwci1qUFkxTEZEQW5xSEc5VVRPZUNHeVd2OTZldVNnejNHZjAyelN5MzloWDZtYXg1LUVxaWZDeHZuZWJ4TS1TWVBYMWpBZlhZbHA5LW44MWVxVGVQU0bSAdIBQVVfeXFMTi1IWnBENzJIMHpsd1ZycVlpZVdVZ01GaDVEOHlFczlLSUtiR2Y0RHdXNVJqVjdUaGpsN0lLdmRUZjg5a1BTc1ZiZU0wR0daQnRieFAzTExvYlE4U3ZPMFVHZ05Cb3Jaa2lXa2xBUVBvb0xxTlVOaW10Q0NPU0xkR1QyN2lRRGZKODFxSTRtOEpkekFPLUxOV3l2cm1reVNTZzlPc1k1VTVDVmdqMkkwUHZFd3FkY041MjEtSEtDVWdEWFpvblBOVWd1b2tBUWRZWFp3?oc=5",
-      "description": "Le pilotage des panneaux photovoltaïques sur cultures semble prometteur La France Agricole",
+      "title": "La protéine laitière, le débouché qui monte - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmhnOXVwMV83N2p1MFdfQkU3Y3pkRmM0YjRSNHplLWZhZHB1cHZMM1ZKVm9yckFFQ1Z1QlNZYTI0NGF0TFhORUVKVGxDaVZ5WU5TY1NZV0FkSlhaNEIya3F6UDZrMGZaSjdDOGpsd0xHUFd6blpTQ0h2VkI0MVpFTnA0azI2Q1VkTVRaZTZuQUVvbkZuc1JxcHpuaGlKaFlHT2c4QXNOdmFyZ3fSAbABQVVfeXFMTS1mTE1BbW03TU45ZVBFb01wV3JPMWhXUlVjTkljTzdWazU1RUpUSEM2N0c5TWNIN2tmN3U1YUNTOUx4WE1DVmdVWml0b254OHhybllNLXFfOWtIcFU5ZFJJNktTenRpR3NIYmRoWWZMYnRpaUkxMVBlYl9mV19kLUtxODVEaFo4emo5Tk1VRnZ4NHBndlA4SnA5ZVd5SDF3aHptUE9pQ25sVnJWMjBteTU?oc=5",
+      "description": "La protéine laitière, le débouché qui monte La France Agricole",
       "source": "La France Agricole",
-      "published_at": "2026-10-22T22:01:00+00:00",
+      "published_at": "2026-10-28T15:35:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": "L'article de *La France Agricole* met en avant la protéine laitière comme un débouché en plein essor au sein du secteur agricole. Les informations fournies sont toutefois insuffisantes pour détailler l'impact pratique ou financier précis sur la gestion des exploitations et la location de matériel. Pour un étudiant en BTS CG, cette tendance indique qu'il faut surveiller l'évolution économique de cette filière, qui pourrait impacter la trésorerie et les investissements des clients du secteur."
+    },
+    {
+      "title": "Un projet de trackers solaires sécurise l’avenir d’un élevage laitier - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdVA5TkI2d2FPSFJSdlQxczYxNDZMVlJrNTFNY05oWFZtTTR5N2NrV3o0YWRkZXQ1Rk93dy1EUlZ0c1l3Q2x0S25sbC1XSmNDZ2RBb2N5SlNLZXhDcTJVWi0zbmh6MzNhdG5HaHJ1eS12VFVnVkdKNUE3ZHItWm10NlV1UTREbkkxNFZTa0hQaG5OeEEtVE1DdU5DVklGMVI5UG43ZnA4Z19mVDRUNlJHbUVlMzUyRGNOT1RNQm5vRFJidGUtdk9WZVVwWXdVWHlJSGhWU0I3c9IB3AFBVV95cUxOZzdXcEZRdjNHMmxuYXVUQ2ZQVm5hTkdMWTRjcnRTX21ybnRndDdBYy02TjJnTExUNHRaVm5qX1RFbGVLeXBWc2VrWnNxR1lFTmhLZkQ5N0xab2J6aFc5Um55MGtBOFNjSTEwTmhhSEhiOEdxdTBPSHNOdHlmVUpEeUU0VGlQSHdZQUNfaWZnYVJqSlhrbEF1VFlfQWtXT3FIeU9VRUNoTHI0YWlNTmNEVFdpSkNZWWJ4SndRUnRzNEw1OHVORjJfMS1nZTJFQVNQeWRNX3YtdDVNOXoz?oc=5",
+      "description": "Un projet de trackers solaires sécurise l’avenir d’un élevage laitier La France Agricole",
+      "source": "La France Agricole",
+      "published_at": "2026-10-26T05:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
     {
-      "title": "Dégâts de gibiers : « On n’en veut plus de vos cochons, Monsieur Vuitton ! » - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPazJDRkRlTjNzeEFGWWxuSVo3VFY5Wl9lQms3aWhlZUJoS2FoZHljOVQ5TjdkdzdXZTlYT0xmQy1ENDZWNmFkVXQ2NGVNLVU1T29KVEY0ZkZHa1d0MjU2QkV4R2o3Mm15QmpCZFZKRFpKZExPVWRWZkZqRlFRUXZrMXQtWFFmU1pmc2I4bU5hcjVpNDZVX0xETmxMVjN4UmZCMUotcEZyQzJCUEpYblI2QjZpS3dBNV8zMVRFb3I1aXdVaGt4Z29nV0dWLW7SAdIBQVVfeXFMTTdNNUxGcG1hbjluMVpiR1puMEFmbXpVZFBJcVpXWUFvSUhSVnpUNGlhNW9DRHNlUlRRUHB2VXliXy1RdkppUXY3d1I0dS0yTElwSVoteUxiZWpEbkJsbW5zVlo3bDZhNlBxVnNnc002cUFTNUpiM282WG03UFlfRW0ySm5STVhhc19KNTBvU3pwTVlCS0NEOU1CVXpHX1lnRGxvMkFBZXJvVXRVY0dZa29LVFEyVkxRclJsbFVWQXdJTWNMY0drMnpFZHVCTzlTakxR?oc=5",
-      "description": "Dégâts de gibiers : « On n’en veut plus de vos cochons, Monsieur Vuitton ! » La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-22T16:05:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Le décret sur la protection des captages d'eau ne convainc personne - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTW9SNXhCYmhoTGI4aW54OXRfLU8tMlN6aUQzS1BtdFEya01xeDRBd0pkbWZqeTVZSC1kdXJLRldJaldoczVYbGpIQkI3YUZEU1F1M0xHa0s2LU9EWUlOVkMtYUxqdWFiNjFPcVB5NUdDU2hNd21VV21rNTFSSWZ0anJjYjhCdmtMLXRKaTZPR0haYk92bXV2MURiT0ZDT0hKMlpQLVdDUDlBQ3haWjV0eVZpeUFveVViMkxVUXE0bmY0UdIBxwFBVV95cUxNTWUteHRqVW9GdUVOR0Z0cTd1VmxSOUVhRDctbU1IaGdUaHdmMWIxYUFQUkg1Mnp5OGs4NjhNZ0ZMYlI2Z01rb3hHT0d0QnFORmVvQXNNdW1vTjU2Y3V2QTdrQXdFX1liNnJGYzR4ekZLdjREUlFuc2lmczNKc0hOTFczWXlkWFJjc3hDU2lCZmk2OWlxcXM2cHJWT05ScXJwT2dCQkotQ0RJbmQ4NG1CNjRsendsSGxfcEJaUHotNHYyTk9BNlZN?oc=5",
-      "description": "Le décret sur la protection des captages d'eau ne convainc personne La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-22T08:30:26+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "En ovins, l’offre modeste facilite le commerce, malgré une demande restreinte - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMG9ZZFY4dHdkRlpvSFJRNVpjT2RGNjRKbVBwR2x6aFpmRkxlRXRyVUhubmptVTMxNW1CVk15bzZmUFRvOUZvaTZwaFA4Vi1yQ3pxSVgyWm1DdmZuRGpOdDl3QWpaaXFkTUdPVlh1Rk0zV2J2SkRGSUgwWVhSOEJOdl8xNUxvcE1BVnlJVEU2VjNBd1RRX1lKaTNYTFRzSmJUTV80bTNVMWlITkVadmFxMWR0Vk9xbE44YUxpYmFOYTVrb2drMGtvbEZYZml4cnBJNnVlV9IB2gFBVV95cUxOaGp6dFJFUHBTSG04UXQyamV6VmdJbjRSemZnODd6NmU4bFlZdVFQT0tHU0xSTjQ4UU9SMmpKdzQ4X1c3cVdVelpxajNxOTNsNjFrMUZNdktpSDFUM2lCcVpQUVkyWmF4ejk3cHBpV0ZnT0JWRVJKOF9xc2swOE5LelZsR0pCX3d3SFJnaVJUQmd0V1MxNTRzQnlfWERVWkZvVWs2aXM5OWljWnlXV1JUME5XckExekc0VVBEaVh6LVp1cmJQaHNDVXJTSXFoa19sb0Z1aWZIaGFDdw?oc=5",
-      "description": "En ovins, l’offre modeste facilite le commerce, malgré une demande restreinte La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-21T14:35:17+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "L’équilibre du marché des broutards reste instable - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcmFrdDFTSHEzR3FTbFYxeEhmdnAxNWJhLVhKeERNUTJuTmFHc0tZMlR1UEFpcEJQUDI1SDdxWjNEZjczcVJlRmxBbHRZRk5yTUZ4amN4SGVxcU5QMzZRUmxHYVVxR1RCTGxJdHZUaWsta0hBRHN0N19ObTR2bHdGeS1adFFJV29sNm9pdHVpaS0wYkxEQnlvRl9seE1LOXZmek1yZkxCTE9GZDk1UGVKeE0xR2xaN0UwMGYtX19wTdIBxAFBVV95cUxNRHdWWDRHenFFdWJnVVJ2NVhta2tMUDJBTldtekYyeHJHVXZGRFhrQTcyRmJyd1J2SVdYWkpVcE9ILXdXdHV0ZnRtbUxIeGtyUGxma3hfdDBnNjhpS3lKUmJvdlp4cGZsRzhhS1pRRTRFSVQ0Yzc4dDVwWDlmYS01cklRVVJDZEpIdldQQTl1bTYxWERMd1NRX2wtalZJUkZreDUzYlpGUHlOUHVYLWREUXJfRlE5RW5jb0xmN3owX0dXNXVt?oc=5",
-      "description": "L’équilibre du marché des broutards reste instable La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-21T14:30:19+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Stratégie commerciale en cabinet comptable : la méthode en 5 étapes - Compta Online",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzJtajhBeFpmeXdUN1gxZzhMSGEtQUtJcFk3eUdvRUowcUUxTFhoUzlIbmN2eWZtMXZmd2pwQWpPWFZ2RklCX2FOOGo5MmJZQmNwcVRDemdfczNUdDFMZTQtVEJCMHJXRC1VRUlMakZnT0h6ZHJDOW8xNEFVR29YNFFB?oc=5",
-      "description": "Stratégie commerciale en cabinet comptable : la méthode en 5 étapes Compta Online",
-      "source": "Compta Online",
-      "published_at": "2026-10-21T12:19:40+00:00",
-      "category": "BTS Comptabilité-Gestion",
-      "summary": ""
-    },
-    {
-      "title": "Les cours du colza reculent sur Euronext - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDZjX01qUk1YcmRFRW1RaHk2c3ZxMU9fNm1FOHU5blZRVjRoY0pIZzlmT0QyUEJNclZ5cl9adUwxTEZVdWFjS3pldlZKQ0JLOGRDRjhsSVF6U3hwWGVTbS01VnMxeW5CNlFiQmpOVi0xS3p3QW5SSEhzY21TTzk3dTU2MDJJWTl3Ym5VYUZqN0RKWVk4cGkzUmx2ZHdudDJpem5sdl9uNEpCcVRW0gGyAUFVX3lxTE1zUVJXcVpCc1RQLTg3ZzluRkFXQzZCdGlXWUJEYVBLSXd1Y194bGt2RGVzeDdERVE1aElQbElIVmcwR19jaW5HVFNEMTVfWm0teDVySC1KbXRXT2RSRVlHTFJvUk9Zblp2bi0yRlEza3FLb0RLeEVjUl9BLUY4Y0JxVWNpbndTX252azFveFRxa2pPQjFFNXVzSGtVd1JBNzVkZDJMZ0dyYzZLd2lKUEd2Wnc?oc=5",
-      "description": "Les cours du colza reculent sur Euronext La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-21T10:03:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Les cours du maïs hésitent sur Euronext, ceux du blé baissent - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3N2Q2ppS2owNnZUOFFZZDBfSy1kWjNRX1dPUVc0MmFrX2ZKdGtTdlk4S1ZHR0NBRmtfT21qNlJIeE8xSkdOV1NaUkViaHMtUWhsNzRhdTNQX1lLcDY0ZWFxLURxdmFMRWtmSERuaDEwMldqY3hBUTRVWDI5MFdieGFKOTN6eG5FaFR0VXJyRVhHT0twV2RLNVZYQnAxRjRwSXlTbUtobkx6VnBXTVZXUDF3WEs0NTdTcFhYdDFfTDNVLUNK0gHKAUFVX3lxTE9SWTF6QUJXbEUtTmtvNy1zTklCVk8yTUN4aXlWYVlyOWdUN3hRZElfQXNHTVltWkI5NHlzTVRrdGVkWVBFMGFWYTlBc1NzOTA4WjR1c084R1dqNjFldzlzOV8xY2pJX2FUamNucGVIS0FRREp4WW5aalhGVXlibmc5X2k4OENIU0J3czZ6ZEtWRjU5YWRpbW9VRkpXVC1yUkFNZk1PZC1OVHUyOUstYWhUb2JUMTdQYXJFUzR3cGYzdGhYR181T051RHc?oc=5",
-      "description": "Les cours du maïs hésitent sur Euronext, ceux du blé baissent La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-21T09:51:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "En veaux, le commerce reste compliqué - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTUU5Vm1ZT3dJaDdWbHhpSVVIM1pURThrNTE4OUl5cUp2NnlGNktZR3hqTTF6ZnFHS1FVZFRCSG82NF8yUzZiUzl0M2hkNktVZmJNZFYxdHIxV1dEUE4wd3N1c1plRElzRXJ4R2NySXFPeFpaSWwxejRwdDl1UjM5UlI3UUVWN0pvMUx4bFh3X0tvWHltdzY3UGFuNENtZElH0gGmAUFVX3lxTE9kYW9jSEJFbFU3V3V4Qi1NdUhTUVVSSlNrQjFBd0ctSnVkSVB6VGdVRzJadG5UUWRrRGo2MnlDdVBrNGVfYkVqbXZNdVllbll5a3FJeFFuRHE1ZTJqQ1otU29JQTVYbW8wa3pNUEJ3bGpsZXRqeXlmSVp1VktjcGFZQWZPcm4xOXNKU1FBSEg1dl9OajdlSk5tcGhyN05vNnRqTW9Hdnc?oc=5",
-      "description": "En veaux, le commerce reste compliqué La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-20T15:17:27+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Intelligence artificielle : le cabinet comptable à l'épreuve du lien humain - Compta Online",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBELWFaZERjYmkzMmV1dmhTbXp1WEF2NnczNE5UTHZNWi1WNmlyV1JFakNGZ2ZhbVdwS0ZQM1ZKQ2JLYVJtTXdPMHBKQTR1Tm5iSThEeWE3OTdvZWZxbU83UzFfNkw4YlhsNjJpaA?oc=5",
-      "description": "Intelligence artificielle : le cabinet comptable à l'épreuve du lien humain Compta Online",
-      "source": "Compta Online",
-      "published_at": "2026-10-20T13:44:02+00:00",
-      "category": "BTS Comptabilité-Gestion",
-      "summary": ""
-    },
-    {
-      "title": "Les attaques en mer Noire pourraient causer une crise alimentaire mondiale - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFdFZ3ZFLWlMVVdoRHBHTDZhRVhYdnNfalFZcHBrODVNcDBQbWV1OGRvZFpHZnhPWFU3Y0w4N1IzcUNWV2ZOSzlsbzMwcXVycExiZmVjQnNGejNDVFZDY2hXTG0zclFSSW9sSl9FOEgzQk9rN1FBbC1MVGRjS0Y0RXlBNEM4STBTWURxbkFxcFFOT2MzVF9oUTBJWUhMdzJuckctdVByVEVNN1cxQzQ4eHUzMDF2Y3BPZlhHXzZiOHhXbTJEbGhORHFMNDI0WE5BTllaMUVUenkyZ9IB3wFBVV95cUxObExrdzlqeXFGT3FadXl2cXpiSW5jY2JHbmVwdnpTSVNQTjRXVVRveFpxZ252REdpM2MwVjVTYS1SRUppakdMNXctUkR2MjhDLWU4ZS0tY3BpZ205cUpGWVdlWmtwdy05S012QmlIZlJLMG1YTmFMcXBDZ3poZzVjbDNPSXRtY3kwNmZNZ2VTandoSnVhYUlrZWxYRWpNbkNkOXlvWm5KajFKcUFBTkk3Mi14cmRxdE43Vm9TdlJMT0ZZdHpOeW9SUWVRRWlUeGNzRjdBLUhIbmZTZHR4N3gw?oc=5",
-      "description": "Les attaques en mer Noire pourraient causer une crise alimentaire mondiale La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-20T12:40:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "La hausse du prix du gaz fait pression sur le marché des engrais azotés - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSEJHUXFzUXFaNGtvdzI2ZWo0Qkc5WXRvSHZCeXhNcjRWbXlibXh6MUhlY25jLXduX2ZlaG13S2J4eUc2bVlDQ1ZtZUdLZTFzU1BPbmJNWWlaOUpPVjBITS1XTUFhdDhWaDJJSVA5SDkwM0pMZEJSVFBDY25PeXJhWmVJRG9jdjduOTVsSTBGQXBtSE5BTTJsYUlWdWRFa2gtc2JLYy0tOUF1NE0yU092QXFCaVNSbDA2Yk1zS2x6VjkxRVlOWG9VV21hQ2NkSjNZZnfSAdcBQVVfeXFMTkRvX3p6Zy16eVEyX091SXhLRzJ5ZnlOSll0VVF4TkNwMXh4dzRNQkFqWWdXdUhUaUJqWFk2dFN4VDQwUGpWSUx3RGRmdmljTEU1cXpJaUVLdkNvRDMtZTgxT2k1SkJQWEFzX3FxZlRFR2Vqdlp3dGh2VTNLLWp3Q3hEd0l2MXRnUHQ0VE1ianQ0TWROX3N0V3hKMmd6d3NWUHhVZzc2OWpxa3paLUFsaXUxRjB6OHc3RVlsNkJJZzdDcC1nVlZrNzlOUGJsekI0NUtYZ3kteVk?oc=5",
-      "description": "La hausse du prix du gaz fait pression sur le marché des engrais azotés La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-20T10:15:51+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Une députée veut sécuriser l’embauche des travailleurs étrangers - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkQ3MzZXRFpPWkR0czNBcjdfazl1cl9qR0NSTG5OLVcyemhuM0g0TzNtbDFFRDVoVXVycFhzZGFid3F3UFBCQlRhcV9nbFgwUjJpUzlUZEROcUE3YWRLMXpROEMzN3Z3QUtOUWZ2dFNwQWJZSXBmZVFTNGhFenBOQnQxbzRRVEo3VEVzaWlUNElyUlE2bzNNYkVEdjVYQVFnOG1UVXhDT2Nudl9KN3BCME1udWx1dGhrWHfSAb8BQVVfeXFMT0EzX0VwX3NhZEJOZHh2MVJaNGRJeXMwWFUtSHM1X21kV3dFV0hjSHg2NzFKQjBielhqRkJTUERnclg5OXlWZTU5cEE1ZlZBSm52S2duU3ZEbmtScE5tdW9wcU1rNkhmWi1iTE9tcWg5bEh0MmdiZTRkNFpOU3U0T2JQaGpVM1RoTFpGaUpmUE1fUkduTHhxbTJOVURCVS1NR3NnQ0RFT3h4b2R6UXNNWTVycnNtOE1ERFRhanZwRjg?oc=5",
-      "description": "Une députée veut sécuriser l’embauche des travailleurs étrangers La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-20T05:28:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Une fin de mois compliquée pour le commerce de la viande de gros bovin - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxON1M2cWViWlRPNUEzbjU0aFZ5STljQVBBUEVkMkRTb01KRXBtV0NRbmw3T3VvLXZBVDhhU0VVVDY3dXFTeHIzUkgwZmRCWGxxMzBTMjhVNEFVTXlkUzktSjF4cXM3ZnhJV0dtaGJEN3lSNEg1N1duREN1SkxnaXYtRThDOVJEb2V0eUFWdnVITDNfOGd0Mll2TDZ0Z1Z6WWR5NjZlVDBweXNvWmtnQXptcDVLVXVMcjdVSUtqTlQ4ZENncWV0TUFPN0FaQVdsdUJfN1YzWFk2bUJ0a0VNeXVmSdIB5gFBVV95cUxQc1k5VmhFVWN0d0tQNGRVQzB0UmQ4aER1SlZHSk9QS2xrcnZzRmU3aFc5Rm5vS1hVRFZkTUZYbjBPYWRMSkZ3TF9BXzE0bkg3TndTUG5rcm16WkxuNHFrejBaZ2hYVExHdEVBOWR2c2hERGhtVmRpNXJtcE1LeHFkYTdZWTZON2pma2YwbVZjdXo0Z3RaN3lZc2FvaEFKUmxqOG1CY1kwdzdUd25TVGtzRUFkaWVhdWpybnFKai0wbWhrTGZiVFZLbmxBdHItMXdyZ2RNS1R0NXRBTmk3Ui11VG5sLVBhUQ?oc=5",
-      "description": "Une fin de mois compliquée pour le commerce de la viande de gros bovin La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-19T16:05:13+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Épisode « Pourquoi je suis expert(e)-comptable » #S02 EP31 : Stéphane Raynaud - Compta Online",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDhiUDVlZXoxMVBUN0tNcTFXOTVWeTYwTG14Z1ZmM01La2hnZElTQ19sRWRWNWE1MHZmeG5oSHVXcEpNcUxjODJwdDhJaWc1bl8wbVI5SFJGcmRjaTZXcV9vWTIySWc0dTZ2ZC04MVVFTG90cndDN1BfRmU4dzlBR2s3UDI?oc=5",
-      "description": "Épisode « Pourquoi je suis expert(e)-comptable » #S02 EP31 : Stéphane Raynaud Compta Online",
-      "source": "Compta Online",
-      "published_at": "2026-10-19T14:10:48+00:00",
-      "category": "BTS Comptabilité-Gestion",
-      "summary": ""
-    },
-    {
-      "title": "Le prix du porc continue de chuter - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkVzOXZORkZVZHoybm4xbkdTNEh4dVdRUXFGNkVmWmpRVXlaaE1JYkhVdm55MjF5VzF5X2ZQaUh5alNZbVptNU1xTHMyelBVbEpndnR6R0dOaWpxLTMxQUk3OFpaNGIyRVc2VU05T3d2YXByVXRjMUdBTXlFREtxWHAxYl9DTi12NVRqVWN1eGNtSjIxa2JhWmd6amhlZ9IBowFBVV95cUxPaGRLQlA1aS1keEFBX3FJTS1KS2NadFRYenlQOGVnV05wT0ZMeFVwcDIycWJ0UHVGTWRLRVRVOVpuS1o5SUhQY1dwT0w1UmxjTlA3OS1qUWdhSFk3cnV3WG85b0U4NlBYSlFvNldteVdreFIyVmVGd3ZTbTFSdFZOZXBMVHl6bzY1ZnBfWG03VFc1anBRSERqQTlkT09PR0xZdFZR?oc=5",
-      "description": "Le prix du porc continue de chuter La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-10-19T13:47:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "DGFiP Statistiques | L’impôt sur le bénéfice 2025 des entreprises : Une progression de 4 % malgré de grandes disparités entre secteurs et régimes - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2lHZUxJM3hDTFBYVjlBTVkwT21xN293WjN2OURmMWFJb3lOOWxrb0o1RU1nY3l1YU9XZjAyWXk4U2VSSl82RkJGTW9SWXNuUGNQc3d3SUhRbFZtRWhLRi1MakhpUkxqZG8yTnpYdWlMUkhIeVZCRHBoX19iUmFkWFdXRnRTNDVWeTFEMUlOS0tyTVpTNkVtWnJKb3c5SUNRR3hXbmNzenBzQ01XaWlpYWlPQzI4VzQzbUZ1WQ?oc=5",
-      "description": "DGFiP Statistiques | L’impôt sur le bénéfice 2025 des entreprises : Une progression de 4 % malgré de grandes disparités entre secteurs et régimes Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2026-09-29T17:41:31+00:00",
+      "title": "Quelles sont les suites d'une demande de remboursement de crédit de TVA ? - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONW4tWTFHaldRdGlGNVhsRHVCNXN5aHNsUUtrRTAxUGFzdU01SFczdVN1QVdyRlc5M3lzQXBvc0hqcGdKdHZrYVZLaWZXSU9OaEd6ekYxXy1yUFFhVXBORVBWTW9xbU00UHFmTTVGMFQxaG1IVWZOd0lScS1vSTEwQ1JnclBIeHMwdDZCTWY3bVpUMjlsN3QtZGVrWDBDaVZlZWJMeGwzSFlCQUwza0RWSUV2TWpjcWtjbzBYMnBvZTdqMmxG?oc=5",
+      "description": "Quelles sont les suites d'une demande de remboursement de crédit de TVA ? impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2026-10-15T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
-      "summary": ""
+      "summary": "Les informations fournies dans le titre et la description sont insuffisantes pour résumer précisément l'actualité, se limitant à poser la question des suites d'une demande de remboursement de crédit de TVA sur le site impots.gouv.fr. Dans le cadre de la gestion comptable d'une entreprise de négoce et de location de matériel agricole, ce sujet concerne directement le suivi de la trésorerie et les relations avec l'administration fiscale. Aucun fait supplémentaire ne peut être déduit de ces seuls éléments."
+    },
+    {
+      "title": "Aide carburant pour les travailleurs dits « grands rouleurs » Qu’est-ce que l’aide « grands rouleurs » ? - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTUxPX1FOSnVuRmhRVF9BRHFsUmZhckxlZkFFUXl1aTB0amRHV0sxM1A0cEh3M0ZaTm56R2FFZmxQX3lLQ0w3MW5NOVpaLXhMbmNjUmVpNlZnX1oxZWpZTXUyQklSRzNQVE1Qc1d6OF8wRlRSaEd5Y2h5WXlyZnl6SGo5SkkyUXFLU053aXItMHRWcnR1YUdMVlU3dnhxeEd6Z1ZrX3R5amZGSUNzc2NUclBGVlNUYUlGVTJ6dUxpOFlMNW1CdERBenlLVDFrSkxSWElXNWMwQnZ5TWRNb2NEQkM0RzdwbzBDRlZqTFAtVDVSVEEzaEpmN1o0cFk4dw?oc=5",
+      "description": "Aide carburant pour les travailleurs dits « grands rouleurs » Qu’est-ce que l’aide « grands rouleurs » ? impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": "L'actualité provient d'impots.gouv.fr et concerne la mise en place d'une aide carburant destinée aux travailleurs dits « grands rouleurs ». Les informations fournies dans le titre et la description se limitent à l'intitulé de cette aide sans en préciser les détails chiffrés, les conditions d'éligibilité ou les modalités pratiques. Par conséquent, les informations fournies sont insuffisantes pour en déduire un intérêt pratique précis pour la gestion comptable et fiscale d'une entreprise du secteur agricole et de la location."
+    },
+    {
+      "title": "Je suis micro-entrepreneur, puis-je déduire des charges ? - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDBWTG1RUXNVRmlCSlpHWkc5eW1iNndDeEFpSkFWRVh5dnU1WWhLMjhadk9IN2JLTFV0bzFNUE80V2swand2ZlhmQWF2cXFSazdpRUR1S0xBRGp5bG1NcmlXRWdGVWFHbUZvTHBPRGNZZkN0R2c3UVVPLTBhQnYtX3pQa25PYWpnNkJYTk5PTHNJNjRjUjFpamFPQ3dldkswUzFMdWFwa2g?oc=5",
+      "description": "Je suis micro-entrepreneur, puis-je déduire des charges ? impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé précis, car le texte se limite à une question sur la déduction des charges pour les micro-entrepreneurs sans en donner la réponse. D'un point de vue pratique pour ta veille en BTS CG, cette ressource officielle d'impots.gouv.fr rappelle l'importance de maîtriser les règles fiscales spécifiques au régime micro-entreprise, notamment l'abattement forfaitaire appliqué à la place de la déduction des charges réelles."
+    },
+    {
+      "title": "DGFiP Analyses | Manque à gagner en matière d'impôt sur les sociétés : à partir des données de contrôle fiscal 2015-2019, une première estimation à 6 Md - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemc4UGxpNHp5VFdMZHFBSlhTMkhtbGFqZDFxTG1xMzJxQUdRckRGcG9Fa05iSFpLV2wxUkZFa0ZDVlJreEZxMzFJYVotMG1EeFdTb0Z2OWEwbW9WV01SQ0V2d2JZNVh1LV9MdzFWQzh3VGlIMWJWeG1kOU5wZWJDOFk4OEdOVzFXMGh0dmVDNUl4WHZRRU8zOVdMYlBLTTRwcncyODBROFFCbU5xU3pwUWtUQmJDQ0lwVVhNeFhn?oc=5",
+      "description": "DGFiP Analyses | Manque à gagner en matière d'impôt sur les sociétés : à partir des données de contrôle fiscal 2015-2019, une première estimation à 6 Md impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": "La DGFiP a publié une étude évaluant à 6 milliards d'euros le manque à gagner en matière d'impôt sur les sociétés, en se basant sur les données des contrôles fiscaux menés entre 2015 et 2019. Pour un étudiant en BTS CG, cette analyse offre un éclairage précieux sur l'évaluation de la fraude fiscale et l'impact des redressements sur les finances publiques. Ce type de ressource permet de mieux comprendre les enjeux du contrôle fiscal en entreprise."
     },
     {
       "title": "Alternance : ces droits que la plupart des alternants ne connaissent pas - Studyrama.com",
@@ -263,40 +110,22 @@
       "summary": "Les informations fournies dans le titre et la description sont insuffisantes pour résumer précisément le contenu de l'actualité, se limitant à mentionner l'existence de droits méconnus par les alternants. Néanmoins, cet article aborde la question de la législation du travail et des avantages sociaux applicables aux contrats en alternance. Dans le cadre d'un BTS Comptabilité-Gestion, la connaissance de ces droits (rémunération, primes, congés, prise en charge de certains frais) présente un intérêt pratique direct pour la gestion de la paie et l'administration du personnel au sein de l'entreprise."
     },
     {
-      "title": "Manifestation contre le plan d'aide à l'agriculture jugée insuffisant - Terre-net",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb05PVWhsQV9Cd2stZWZwNjM2MnZvUzNpTnBxdnpqMVNpQ3d3Z2xsSU1PblY5UHVzSFdrVmZ6bzdZaWNEU3NDTUpxTzZwSWV1dE10N2ZZbHdTRFRHNDJkUnR2VVJSSWVJbUw2dUhwR0tJUHhNVzlKNDhQYmg4dG9VV1VTRGRzNWNrcGphc21RYUdPU1gxRUdrZzFzbHBINkdEOU5Cc0d5WHlKWEFYNkZncFpaenU3WGYxZVlfamE1MzlkUnPSAcgBQVVfeXFMTXE1Z09pZlpMaHJHT3J1T1JFcGNUYlp1MkhaZ2hLZV9IeEk3TS1KTkpUdUFtc0xaRXE3WW9PbGJSZjJJZlhBWV9iVVM0UDBoNm5zMHVENWlTeGJDbmhjMER4bDl1ZVVzcVZONHUwc3cxUUwzOVJUcXRmLVE4MEs2RHUydzVHdG11N1ROLVZETGlIaG1EM19IVVpGbHgweXZmZEpEVG50OHE5RHFaV2lXMDMyemZrRWpiNHU5bWNEamRZQUtRZTh6TGg?oc=5",
-      "description": "Manifestation contre le plan d'aide à l'agriculture jugée insuffisant Terre-net",
-      "source": "Terre-net",
-      "published_at": "2026-09-17T07:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Foire aux Questions - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTUxPX1FOSnVuRmhRVF9BRHFsUmZhckxlZkFFUXl1aTB0amRHV0sxM1A0cEh3M0ZaTm56R2FFZmxQX3lLQ0w3MW5NOVpaLXhMbmNjUmVpNlZnX1oxZWpZTXUyQklSRzNQVE1Qc1d6OF8wRlRSaEd5Y2h5WXlyZnl6SGo5SkkyUXFLU053aXItMHRWcnR1YUdMVlU3dnhxeEd6Z1ZrX3R5amZGSUNzc2NUclBGVlNUYUlGVTJ6dUxpOFlMNW1CdERBenlLVDFrSkxSWElXNWMwQnZ5TWRNb2NEQkM0RzdwbzBDRlZqTFAtVDVSVEEzaEpmN1o0cFk4dw?oc=5",
-      "description": "Foire aux Questions Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2026-08-31T07:00:00+00:00",
+      "title": "Comment réagir en cas d'arnaque ou d'utilisation frauduleuse de vos données personnelles ? - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMm10ZG5xLXhvY2RhWUROX21UYWlHcEluSG0tRVUtLTRHQTRCNkFZUFY0WVdPSktfbWJvX2NkUkJFUXJqSF9jZmFoRzVoYVl6d3BtYlBoRkk0UlNsWl9NWDQ3V2VUcElCNUZtZUVtWlB4eHAzY0hyeTd1Tm5ONG12WGRwcU5pSFllTlFPaUdOQjZFZHNBNFRTWDY2M1BLMi1aUWdqTkg5SnlrVDVvSEtNbC1faw?oc=5",
+      "description": "Comment réagir en cas d'arnaque ou d'utilisation frauduleuse de vos données personnelles ? impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2026-08-25T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
-      "summary": ""
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé détaillé, se limitant à un titre et une description génériques sur la réaction en cas d'utilisation frauduleuse de données personnelles sur impots.gouv.fr. Pour un étudiant en BTS CG dans la location de matériel agricole, cette thématique est toutefois cruciale en matière de cybersécurité et de protection des données sensibles de l'entreprise ou des clients. Il conviendra de consulter directement la source pour identifier les procédures comptables, fiscales ou juridiques applicables en cas de fraude."
     },
     {
-      "title": "Fendt améliore le nettoyage sur sa moissonneuse-batteuse - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTkV0dTMydkU0WG1IVFFMQ19WOVNYOGNCVmtaLUVBN1BlaEYzb0ZYdzNxX0JFMG5PUnBOams5aWtkc3M3TjA5eEhCQmFHQWtZZDBpY2Fpa2JYNDhBbXI0N09UbE1xWjdTZnBBTTBzZlVzcFZyay10ejFJSWszSHdOYnJFbVZzaUE2RDNDb0tDYUFCZjdqcTFpWGhFNTBZOGhUMlpPNkNjNFRTR3g3ZGfSAbMBQVVfeXFMUGltb1RxSmJHa3ktTWpkNkowT1VEcWZGNjBvT1E5VFZVNGIzZnNiQmlJNllTYk4wMVptMTlxb01vWGg0X2N6UC1FUXoyVEYxRUljTEhIX1NPelN0TkJDc0Y1djJOeWtqRkNjMXYxQXJVU244czBaVXVxam1sNHFEUTJMUE9GTjdPY2JhT0ZmakRfU2RNMUxidHRNYk9JNUdkNmk3cmNXN2JoamdCMVhiTGxxT00?oc=5",
-      "description": "Fendt améliore le nettoyage sur sa moissonneuse-batteuse La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-08-21T07:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Zétor délocalise sa production de tracteurs en Asie - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEFEWWNRcHk4QnZfdWk4VXlnZlZuZEpJOVZDVWNaQ1FrakxoVlpyc3MxM2YwODZEbVEyRkpRdHNHMTh0ZENuandkQVhWUG9HRjVsS19jZmNMTnVSand5SEhLZndCYXlpRm1CSFZRZnBBS2hKMS1ZVy1pREhlRV85d3RYakVjeEZ5eG1YdzNOcWIwWFFvU19DVGZWcnNQWFdmOFYyenRWTdIBrAFBVV95cUxPNXlmVktfMUlCbFNpTndVdEtENHdYMnB3OWlwSGlQTVBTbHNYT1l5Mm4xV29tdVQyTTdEN29yT2xCQUtHT1pKQ2pza05iMFpuYkF6TG4zZTFSb0Z6TmRXY1h3STNzWUFRdkIzQ1NJY0V2ZHdISnJCM2dIaExfMno0VDdsTUlBQVFkQmVqOXk4bG5VVGZJR3Y2eFR2ZkFBRkp4SGlqWU9qQzBFRVFZ?oc=5",
-      "description": "Zétor délocalise sa production de tracteurs en Asie La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-07-16T07:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
+      "title": "Donnée comptable : la valeur naît du nombre, pas du cabinet isolé - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TLTl4c3cwaGVkbXpHVGZuM3d4aE5IM1lDcHhXUm1LNjdTc2hWblMweE5HamlhRmRSc1pFTmhJOGUzeTh6Z2hoWDY4UWNXXzA2V0VEWkI1NnpfQ2JJdGxkUXl6SzNfdnM1czVfcThoU1U?oc=5",
+      "description": "Donnée comptable : la valeur naît du nombre, pas du cabinet isolé Compta Online",
+      "source": "Compta Online",
+      "published_at": "2026-07-07T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé précis, car le titre et la description se limitent à une affirmation générale selon laquelle la valeur de la donnée comptable naît du nombre et non d'un cabinet isolé. Aucun détail concret sur un événement, une réglementation ou une application pratique n'est mentionné. Par conséquent, cette brève actualité ne permet pas d'en dégager un intérêt pratique direct pour votre veille en BTS Comptabilité-Gestion dans le secteur du matériel agricole."
     },
     {
       "title": "Le Sommet de l’élevage dévoile les gagnants des Sommets d’or 2026 - La France Agricole",
@@ -308,13 +137,22 @@
       "summary": ""
     },
     {
-      "title": "Élevage laitier : maîtriser les charges de mécanisation et d’alimentation - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRnhrWDdGT0cwTmVHUjRJd1N3UmhtSEpTQ3J5ZGxkMWlUYnB5YThqZnRQRWc0dGF5Sk9MNDFyc1RFX2JrMFRSaGpEdlRrUVJPQWVFcWZ6dHhkWjhyczZEY1BBU2N0QUhIYUx5WjUwOXJEM1dsNnVpZWZObFl0UVg0VmhibWlYWGNpQ1RTYTZxWHQ3Rkk0Q3YwbW5QM1BRZ1FjOU53MnFxS1VBMkhKMzg1RDk4amdvZWM2Qk1JWkhRcjJLZjRIQ1VLWmY1bGk5YUcxUGxCQnBjdWFOUdIB3wFBVV95cUxQYjB1UHpNdGlHZG9zRklOWmlQUGFKTDJfUHkwTE1Lem1nVDNBNkZzdVpub1lTeDFCQjVyQnJFcTJ0VUhHYktqeGFrUEFqNW9SaFN2N3EzMU1XTjNhNngyX2ItVjhTYU5McU9FT3hWRkY2OWd3bEpROWh1eGlKSUMtWDN0YTVjUVRrbnZkbTlTY2RjOUpiT0RCVlpERTN2dWhPc0k4VVhuWU9TS3dnR3Y1dXVxQmFoQ0hNWjFMMy1QQndubmxsV19pWjVWeEdBaHA1QWVETFllLUlaZERaZXFV?oc=5",
-      "description": "Élevage laitier : maîtriser les charges de mécanisation et d’alimentation La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2026-07-03T07:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
+      "title": "BOFiP BOI-TVA-DECLA-40-10-10 - 01/07/2026 - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTmRZbXF0djR4TlFTNWExNFd3WENIRGwyTll0LTZaOVZSTHVQZWpwZGFheHh2Y2MzZ0RiMzM2YnJKLWswRTNzWVJYeG1Kdk93cFk0MUFvVV9HMnU1N09iNW9TOVczX01ZbG55ZlVmS0JMSFpfU2ZLWElteHB6T255RWdfXzhGZTVDWmtSdG9wWUFWODA2OGlSSA?oc=5",
+      "description": "BOFiP BOI-TVA-DECLA-40-10-10 - 01/07/2026 impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2026-07-01T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé précis, car le titre et la description se limitent à mentionner la référence d'une mise à jour du Bulletin officiel des Finances Publiques (BOFiP) concernant la TVA, datée du 1er juillet 2026. Aucun détail n'est donné sur le contenu exact de cette modification fiscale. Par conséquent, il est impossible d'en expliquer l'intérêt pratique pour la comptabilité ou la gestion d'une entreprise de location de matériel agricole."
+    },
+    {
+      "title": "Arrivée de l'IA : l'ESIS lance un Nouveau Mastère en alternance pour intégrer l'IA dans le cinéma - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzlDV0FPMHZpakEzU1FpX2FRU0VneU9zM3NTYk5nVEVYa1lfZ2RXYnRCSnJ0bVBYNndGS1FLeWI3UHM5OGJUbnVzNkVnd2FSRDgtVlFMdGpWWnZSS2EyOUlQcHFCaG85OFdMVDdpZUpmNmJyMFZBamZ1RGR1bUhRRUhxQ1dhWmxrdWtxUmFrb3NHQkVDMHcxM3psSFRuel9fMC1Rd2NRUWZ3MnhfMTFOYUwtSGU?oc=5",
+      "description": "Arrivée de l'IA : l'ESIS lance un Nouveau Mastère en alternance pour intégrer l'IA dans le cinéma Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": "Les informations fournies sont insuffisantes pour établir un lien direct avec le secteur du matériel agricole, de la location ou le BTS Comptabilité-Gestion. L'actualité mentionne uniquement le lancement par l'ESIS d'un nouveau Mastère en alternance axé sur l'intégration de l'intelligence artificielle dans le cinéma. Aucun détail comptable, financier ou lié à la gestion de parcs de location n'est présent dans le texte fourni."
     },
     {
       "title": "BOFiP BOI-TVA-LIQ-30-20-97 - 10/06/2026 - impots.gouv.fr",
@@ -323,7 +161,7 @@
       "source": "impots.gouv.fr",
       "published_at": "2026-06-10T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
-      "summary": ""
+      "summary": "L'actualité indique la publication d'une mise à jour du Bulletin officiel des Finances Publiques (BOFiP) référencée BOI-TVA-LIQ-30-20-97 en date du 10/06/2026, concernant la TVA et sa liquidation. \n\nCependant, les informations fournies dans le titre et la description sont insuffisantes pour en expliquer le contenu exact ou l'intérêt pratique pour la comptabilité et la fiscalité dans le secteur du matériel agricole et de la location."
     },
     {
       "title": "Le machinisme agricole français ne voit pas le bout de la crise - Terre-net",
@@ -335,22 +173,58 @@
       "summary": ""
     },
     {
-      "title": "Brochure Pratique 2026 - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa0QtODlIMzJUeWdvM2dtcWlMWW9HTkNaWVRPTG96eEgzOVVNMldWS3VJaURhN1dIZ1RRYXZGeWYxQXdobXpsZ0h6c2g0cktRTHZqRjJ0cloxbF9lVHZRMjJ4bFNsOXhYakxBMkU5OGZ0TnpyaDVQc0oxbThXdmc5VGlsSTlqb2VIZGVv?oc=5",
-      "description": "Brochure Pratique 2026 Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2026-04-09T09:03:34+00:00",
+      "title": "https://www.impots.gouv.fr/carte-interactive - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wU1JrSFk4U1Eya3hRWGpiTG1sZWZLMGRDM3pvR0Y5OWxlTVJXbndJWmk3NVJIcmVqQVo3ZVRqamVHN0phZHFYbVBHd3NpckgzeDgwRHhCcw?oc=5",
+      "description": "https://www.impots.gouv.fr/carte-interactive impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2026-04-03T11:33:31+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé précis, car le titre et la description se limitent à l'adresse URL d'une carte interactive sur le site impots.gouv.fr sans en préciser le contenu fiscal ou comptable. Par conséquent, il n'est pas possible d'expliquer l'information essentielle ni son intérêt pratique pour un étudiant en BTS Comptabilité-Gestion dans le secteur agricole."
+    },
+    {
+      "title": "Salon de l’agriculture 2026 : Les meilleurs éleveurs de la génétique caprine récompensés - reussir.fr",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZTB1Vk5WYWtTcmxzb1ZZYzNaODV1NVo3OTg2VFRJTm5UUVlWVVNlOHN3TEo0ZThvTFRsLUxENzVhY0hGYTIzZTZPODZaSTdKZjh6akt1V2J4VnBPSnVldEM0SUJ2RnhVVmpKSjVUQUJzc1publ9yT1JVejBfOHRkZUlmSzFWeGhaNlYyd2t4c290Y01jamRnWWViVGItMVlBMU95b2ZQTDBrZmtxNmREQ2w1QjRFUEFh?oc=5",
+      "description": "Salon de l’agriculture 2026 : Les meilleurs éleveurs de la génétique caprine récompensés reussir.fr",
+      "source": "reussir.fr",
+      "published_at": "2026-02-26T08:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Concours général agricole 2026 : 48 médailles pour les agneaux et fromages de brebis - Réussir",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ190LXFCMGNuT3A3T2NDdFlPMlNqbGJ6WUZQVnR3V2d5V3hYaXJEaFBrb1pZTmtjUkhwZEw0b1Y2ME5kU3FxWTF4bXRfZnZqUFE5QVFCVUtLZjZITHhhUmJaXzgtTzRHM1ZKQTQzLWxtTWJSRFBwcjItTnI1VmRHb0VQZmxodm1zMjFXQWJDVEFmMVJIazdQTjZrbXU5N1JJUkFTMG5MaGoxalBpY2pDcmZUVkM?oc=5",
+      "description": "Concours général agricole 2026 : 48 médailles pour les agneaux et fromages de brebis Réussir",
+      "source": "Réussir",
+      "published_at": "2026-02-24T08:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Concours général agricole 2026 : 81 produits laitiers caprins récompensés - Réussir",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTGtnWUxfRW1nekwwS2NLbVJkZUdBRXM0eEl3aGZzT0tQZ0NLYnVJY0pIYkM4dURKWUtXMmZBMDhlWDBDV2NHQmpyYUxPMmo1cjVfT29SZW80a1A2X285MTZ2V0otTUZMUTBSSlc0NWZyWUJZVlJZMWFlbEI5VlVveTA1eGpyNVl2d1lBdk9US2R1ZFU5N2Z1Y3JmSjh6SWhYeHVON3NR?oc=5",
+      "description": "Concours général agricole 2026 : 81 produits laitiers caprins récompensés Réussir",
+      "source": "Réussir",
+      "published_at": "2026-02-23T08:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Quelles sont mes obligations déclaratives ? - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX3ZOV1ppS1dmNjhhUXNzNGplQWZmaDBlbzM4Skl2TVgxTEFvVTZfaV91bHJIdlhwUE1ZaldKZzZMaVFaSkJUeHI1WWlkeVFKeno2eGdicEdRMU5MaGRhaVIyVlEtNVJSdG5CemdmRDJyYXNwM1cxM2UxYU1NRGFTTHBmZVA5UzZtZVE?oc=5",
+      "description": "Quelles sont mes obligations déclaratives ? impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2026-02-17T08:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "Les atouts de l'assolement en commun pour s'installer et transmettre en agriculture - Terre-net",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTdxQzZaQkw4c3dhb2xPdmdydDFMSG9VampsNTY0akxGWTI4UFU2VEtEakhyb3Q5dFpVX2NtRFBWVzc4X3NUUlFZUEY4ektyUGhKYlZVR2xVQV9iZ014Z2xIMHIxQWRpX0lTWFNKOFJxcF9ZakxXSE9RXzZWYXhqaXhNQkcydlJSd21OMzQ2Q0kxZ05jbDlZeXcyRDlTalJTRmtJX3R3UHFGNG0zZnNKc2otNzE3TEpVcnJwN19MelJ0M03SAcgBQVVfeXFMTk1PV0N2bWZWUGNRNTdQSFBQTS1uTUZEVXk0aHFDMl9DTmF3aDdpUEo2cEhNeHRPbkRyN0tOZDJvUkZ2LXBCSXMwQkZ6TUdWUUpKRzJOaHBJOVg0Q2h2OTRSd1ptaDZETzRLSk5tNXI1SzlkcWI1TGdTNjVkcjl3TmpDXzY4b1VCdVl5X3NXOE1SU3NhS1FTOW5vR01sZldEUkNWdEhSY1FRSy1tRTZPbl9CQ1hKSG1oMnBLcWlkeWswcjdpR3JRUTY?oc=5",
-      "description": "Les atouts de l'assolement en commun pour s'installer et transmettre en agriculture Terre-net",
-      "source": "Terre-net",
-      "published_at": "2026-01-27T08:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
+      "title": "Masters universitaires, mastères, MS : quelles différences entre les formations Bac+4/+5 ? - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFdnNkRBQ3JrbXJCcG5kNmZQTHRyVGV4VW9iOTVBcDM4RXljOW5JbzYwOGlXeW9YVUZubkRLWUtFNGdYQ2NNeFVkTk5QSUkyRVJ6TTRyRjNDOHRYMVZvN293Qm1RUEI3dEMwQ2xhZ21SanpBWkhsZnBvRmJ2Tkl2dTRhSEV6WFV0V1lYTkhrbWctQW5ldk1oZjFJUS1xNXRvVE5haGhfWGI3VS1fSm8zTg?oc=5",
+      "description": "Masters universitaires, mastères, MS : quelles différences entre les formations Bac+4/+5 ? Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2026-01-23T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé utile à votre veille professionnelle, car le texte se limite à un titre et une description génériques sur les différences entre formations Bac+4/5, sans aucun lien direct avec la comptabilité-gestion ou le secteur du matériel agricole et de la location."
     },
     {
       "title": "Quelle est la marque de tracteur la plus vendue dans votre département ? - La France Agricole",
@@ -362,39 +236,66 @@
       "summary": ""
     },
     {
+      "title": "Facturation électronique et plateformes agréées - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OZ0Jpa2pxc0ZqQUdJSmY5ZUhhNExjclhPOEllZ0JVQzVsZFQ2aHVnT3JIWThuM19Qd2d5UlB1MWJjdWhDU0pMWTNqRFRZLW52V3M0WDV1YzNlTnRoNmFVWDVENUxDRnUzUHpWSTVHWGxxV0NjckJXcjJlRklDbDA?oc=5",
+      "description": "Facturation électronique et plateformes agréées impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2026-01-15T14:19:49+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
       "title": "Formations pour devenir responsable de secteur - Studyrama.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWswNmQyQXkyS2VoeFhDTE4tQ2ctT0x5aXk0NXFJX2VpU01UcXlRWnVLY28xRU9JS21aSXdaNXkwWFgwTmxfM1dFbHhEYmZWZkJqVDM1enhIVFVLdkZib0M2R01OTHh4MnhLb3dmdEZnTnpTN1dIN2k4RUZ5VXlqS1NIc1UtTG92MHdfcnFCMmtTdnFjSHM0SXdYTHdvYjlJTEJpY3lIVDhhZmM?oc=5",
       "description": "Formations pour devenir responsable de secteur Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2025-12-23T04:46:06+00:00",
       "category": "BTS Comptabilité-Gestion",
-      "summary": ""
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé précis, car le texte se limite à mentionner l'existence de formations pour devenir responsable de secteur sans donner de détails concrets. Pour un étudiant en BTS Comptabilité-Gestion, cette actualité pourrait théoriquement intéresser l'évolution de carrière vers le management commercial, mais l'absence de données ne permet pas d'en tirer un intérêt pratique immédiat."
     },
     {
-      "title": "ATTESTATION DU SERVICE DES IMPÔTS DES ENTREPRISES (SIE) OU DE LA DIRECTION DES GRANDES ENTREPRISES DEMANDÉE AU TITRE DE L’AN - Impots.gouv",
+      "title": "Formations pour devenir responsable d’unité de production industrielle - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb1JpZDV4WFgxUmRlR2FSRi1FRW5WSVBDQWlFYTNMQi1Xd0oyRy1sSkdDbjdKVHd6NW5xdjExRHMxamVwRmg1RnAtV0tLcEdqMk1IYzRlNm9TLV93MzBQaWxtLWFRZWU1YTZlSWZwLWhSNkZBbkNUNU53VldIOS1UZEo4QnRfaVlVSDZVcHJwdFA0RnB5SnlsU0w3LVhvNTJsRElrdXY5TQ?oc=5",
+      "description": "Formations pour devenir responsable d’unité de production industrielle Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2025-11-21T19:04:43+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": "L'article présente les différentes formations permettant d'accéder au métier de responsable d'unité de production industrielle. Cependant, les informations fournies dans le titre et la description sont insuffisantes pour en détailler le contenu précis. Cet article présente un intérêt limité pour un étudiant en BTS Comptabilité-Gestion, hormis pour appréhender les passerelles ou les évolutions de carrière possibles vers le secteur industriel."
+    },
+    {
+      "title": "ATTESTATION DU SERVICE DES IMPÔTS DES ENTREPRISES (SIE) OU DE LA DIRECTION DES GRANDES ENTREPRISES DEMANDÉE AU TITRE DE L’AN - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcHVEM1NpR0RFX1N0YzN3RU90YkNRMWNlZy1pSVk0ck9JR1h2amE3MjQ5UmpPVzdMeW9iTFV4Z2ZBd1hjclRxdWdUTjJMbnRTNi1Kdi16UHBRZFRPWnRWU1E3M0tESUEwN2xKNGYzc25hd3ZWeHFoVnExaWFWTlBud3ljQUl4SXIzTkt5b0pUNm45Zw?oc=5",
-      "description": "ATTESTATION DU SERVICE DES IMPÔTS DES ENTREPRISES (SIE) OU DE LA DIRECTION DES GRANDES ENTREPRISES DEMANDÉE AU TITRE DE L’AN Impots.gouv",
-      "source": "Impots.gouv",
+      "description": "ATTESTATION DU SERVICE DES IMPÔTS DES ENTREPRISES (SIE) OU DE LA DIRECTION DES GRANDES ENTREPRISES DEMANDÉE AU TITRE DE L’AN impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2025-11-21T11:38:04+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "Formations dans le domaine des animaux - Studyrama.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzZFFsczUzeVdfa3lYeWljVzgtM0txVFBIWTBCQkcwNWRMdmU1VTJOa0tCcUh1QjFlbW9jRGpjZ2x4Z3pSYlhmZmVVbENQWUJIcnRnMm5wWTQ3R2owbUtTWm5lckFNd2VQT2dJVWhIeUs2dw?oc=5",
-      "description": "Formations dans le domaine des animaux Studyrama.com",
+      "title": "Formations pour devenir technicien qualité en agroalimentaire - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb0ZyRTd4c0JsNl9DaDhHcHNwS0ZCOV9sNzROQUFKMFhralNPalZqRVg0WXBBNzhVbHFNWlFSOVctYVM1ejY1TmhvaTlJZ0NkbmtQTERvNXpMbGxZYTFLQ21TVWU4ME9ETDFWYmJFb3BNSnNqVWExeEZ4M1NYREczV1cwWWNfOHRTOFJzZTZuRWQ?oc=5",
+      "description": "Formations pour devenir technicien qualité en agroalimentaire Studyrama.com",
       "source": "Studyrama.com",
-      "published_at": "2025-11-04T22:21:12+00:00",
+      "published_at": "2025-11-08T14:14:12+00:00",
       "category": "BTS Comptabilité-Gestion",
-      "summary": ""
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé pertinent, le texte se limitant à mentionner des formations pour devenir technicien qualité en agroalimentaire sans aucun lien direct avec la comptabilité-gestion, le matériel agricole ou la location. Par conséquent, aucun intérêt pratique pour ton profil ne peut être dégagé de cette source."
     },
     {
-      "title": "Etude Sans PAC, quel serait l’avenir pour l’agriculture européenne ? - Réussir",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVURIeUhMMGlhaHJpNHF2UHdBeDlLS2plc05sdlctcnBYM05CcWtZTVlvN0lrMEFHUUEwa29yM0xyS0lJRXNWVGw4eU1Iak5LT1JqWHgyOENyZmI5Mk1rNjZ0Y2NYNVJOcExaMTdFZkQxMGhlc0hiOFdDSUs4cmxkemZWTjBWNXRITVk5MFRnVC1ibms?oc=5",
-      "description": "Etude Sans PAC, quel serait l’avenir pour l’agriculture européenne ? Réussir",
-      "source": "Réussir",
-      "published_at": "2025-10-29T07:00:00+00:00",
-      "category": "Secteur professionnel",
+      "title": "Formations pour devenir soudeur - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZkRZSVNvVHJuVjRUdjhkaHU1emFpVlk1SXFXaVowRXlXOG5mNldUdFg3T1N4NHlWMXVqM0JWU1QwQXJnaTdpcWpYSDJ6OE0wTDh1a1ZuQW9NRnk2dUtpaGVUek9RTDZtM0t5UU1vRVpoSlpZSGNlUnJB?oc=5",
+      "description": "Formations pour devenir soudeur Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2025-11-08T11:31:35+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": "Les informations fournies sont insuffisantes pour rédiger un résumé pertinent, le texte se limitant à mentionner l'existence de formations pour devenir soudeur sans aucun détail supplémentaire. Aucun lien direct ne peut être établi avec la comptabilité, la gestion ou le secteur de la location de matériel agricole."
+    },
+    {
+      "title": "L'e-reporting pour les entreprises étrangères sans établissement stable en France - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2wxT19wWVBLQ1RCM1cyM04tZm5GbkxOcW5vdmtkb3BySExHVExCVXM0a2tNVlo0UXNXRmx4SHRNZjRNRkpmVG1SZ05kU2FCTEItS0hzS09mdEREVVJXamtLbHN4bnlPVGpFRm5GenlQaUZmeHJmUmJBeFVQYmV1QlZERTFGbmlKaU9rN2VGSWlJZ3U5cnFkLUd0Rnhwa3h5NFY0eDNNYy1JNFV0X1FGb2V6ZV9NOWNheDJDT1l6RXE4VmM?oc=5",
+      "description": "L'e-reporting pour les entreprises étrangères sans établissement stable en France impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2025-10-16T09:25:57+00:00",
+      "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
@@ -407,12 +308,12 @@
       "summary": ""
     },
     {
-      "title": "Salon Agritechnica - 24 médailles, dont une pour un constructeur français, décernées au palmarès des innovations 2025 - reussir.fr",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTlB5Vl9SOXkxOUxjc19PSWhEUVJyRUZkVGktajk3aDBoUXp0OGtnZVQwbVBrbURuUjMwbDRGcERkMlUwM1YtNThyNjlkcFhwUG9QT0ZTX0JhYnhFNVV3NHZXQ2ZGVmJlRGppSVhsT1ZqRGJFdndraFlUalhHM3NPdGVlZHY1MXRaQnhCZ3BOcEluRjhtZ0I5LU5VRXhXM2w0NzRLQmxDRGVTemMyVDZ4eVRTY3V4QQ?oc=5",
-      "description": "Salon Agritechnica - 24 médailles, dont une pour un constructeur français, décernées au palmarès des innovations 2025 reussir.fr",
-      "source": "reussir.fr",
-      "published_at": "2025-09-22T07:00:00+00:00",
-      "category": "Secteur professionnel",
+      "title": "Facturation électronique : je suis une société civile immobilière (SCI) - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ2ZWOFVfTDBHa250N1lfM2cwLVhTY3o0MDZYc1Q3Y2s2cmdjREVSUFpsZmZDalZaTllNOHFjc0JTZUt6UFJVdU5BMHB3eFdmUEh0NkxzRXl0SnRXelFOWm1sNmQ3bVVaSHItMjgxZmk5cmlzb0diMWoxNXh6b1hNZWh1OUk2NzBXbnlSSW1BYmtvdEV5VEJTUzNHRkNrblB2RUItS1lYSVBOU3ZCbE9vX0hNbnhUYmhjV3NIRWhrc3YwTUc5d1diSG92WEVna0RVQUh0T0hPRFVhUU8xRi1pSGN3?oc=5",
+      "description": "Facturation électronique : je suis une société civile immobilière (SCI) impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2025-09-03T14:28:23+00:00",
+      "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
@@ -421,6 +322,24 @@
       "description": "Comment structurer une veille informationnelle en BTS CG ? Compta Online",
       "source": "Compta Online",
       "published_at": "2025-08-04T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Le Sommet de l’élevage dévoile les gagnants des Sommets d’or 2025 - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMG1pUF8zM0dVd0hGRkFTdUgycHJObVFyckZERzdsMERCdk1uMWMtaEsxZmY2TGtBWDFiaExFbXkweFp0OHI5S2VOSnlac0FRMTlFZGxwSkZwU1c3Y2JPLTVJOG9oZ29LNjFsQmhSdUVsQkZMZEVUbGstTS14SjhOaUxGaWhrdWlqQjdYNGxCNFJYUUJiUGlVSWc5YzFmaVhma0JzajkwQk13WkthRzBmYVdvMlQ4ak1XY1BJWFY4LU9fMUFiaWp5UHVYRVrSAdIBQVVfeXFMTTVyOFRtY19lY2M5cVp4UnVhR2RZNWRpWG9HT2FZTjVJMWtiMHhIdGV4eVp2SldPUFVvNkRILTlJdFVQcUJJbXRPeEtnQVNBN2Y1YTNtZy1mdnJyMzlKYjRVQURZMWUtNl84YXVOMWVYdkVSTTlQM2ZYZkNJNFduZ2Jlc3pkd0h4SXJOdDRfMEUwSENuLUNaTUFQWk5HaTNHOFJ5blJCTzJ2d2pOT2tHT0RTUURjVUNFcl9lU3pOWnNHOFF3d0VuRHcxNjVyRmlOUUFn?oc=5",
+      "description": "Le Sommet de l’élevage dévoile les gagnants des Sommets d’or 2025 La France Agricole",
+      "source": "La France Agricole",
+      "published_at": "2025-07-25T07:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "BTS CG : calcul de la moyenne et consultation des notes - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMk9ST3A1dGZLVXVTX1EwSDBCUHZ1SFlMVjBtMTdQcU5FN0ljbmNTc2ZhSDh3N2QwSlRiQ0w1Q0VIenppeW9xOVluNjkweDAzYTJ5Qk9nQlZYOFRmNnJNekRVSlE0Y05YNUpMaE9PeDhqTWFBWVpTMGNXTDJjVlloUkdFVQ?oc=5",
+      "description": "BTS CG : calcul de la moyenne et consultation des notes Compta Online",
+      "source": "Compta Online",
+      "published_at": "2025-07-20T07:00:00+00:00",
       "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
@@ -461,6 +380,15 @@
       "summary": ""
     },
     {
+      "title": "BTS 2026 : le nouveau thème de culture générale et expression est « Les animaux et nous : imaginer, connaître, comprendre l'animal » - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2tueGJKM3lWSkpNSV9pMElpcjdDYXNqakx2ekd4VTB3cHRlVTI3UW1tSEN3WEg5RTBIX3c3TmtBb0ZEWXk4VzJJTDVJcnZlR0xPakNOYUMxRnk2Z3JyckhCTTNpRl9paDI0dXRZeXhoZFczd0NQajZHamYwMFYzci1ETEJuSU1FUldCM0dB?oc=5",
+      "description": "BTS 2026 : le nouveau thème de culture générale et expression est « Les animaux et nous : imaginer, connaître, comprendre l'animal » Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2025-05-02T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Logement des jeunes : comment l’alternance aide à quitter le cocon familial plus tôt - Studyrama Logement",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdHpQLVgybVRjY1FwbFJWZ3lhQl9FTWJHYzBkLW5iVEE5dGhlcU9VYzFJdkZUci1tNnpuQk1BTC1idC14Rk9uanBlUmVFcktBR2FUcmFoSjRqQkZSOHRyeDNzRUdDTUl3RlJMVGJTem9id0pVMGt0aV9tRTk2UURGU19wN3M5TDQ2c3B2d3hGbHRxRThwMFYzZElFVHAtWnZlNUFkbE1kcE1VTVJiU04wX1U1TzlmWF83S0N4UkFsTDhaNFN6cmp0OHNrQ1R6dDg?oc=5",
       "description": "Logement des jeunes : comment l’alternance aide à quitter le cocon familial plus tôt Studyrama Logement",
@@ -470,20 +398,29 @@
       "summary": ""
     },
     {
-      "title": "Quel est le classement des lycées agricoles de votre région ? - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0Fxb2w3c2tCeHdQZm80WVBtcFdVNzlQUm1IM1JJWE53SHQ1ODVBNlQ1TlZUR1dETm1EdlNzSDVndEYtWU43bXJIVTBVcHFJblo0amN1amZqMHZCTDJ1MkdJNTZNZUt1aGtRWnB0NmlyZmtmVTMxSDFtV2Y4YURUY0h3YmY0SnBhYWdBQTd1Vmt6anNZX0pBa3A0ZWNwUjNHYk80?oc=5",
-      "description": "Quel est le classement des lycées agricoles de votre région ? La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2025-03-19T07:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
       "title": "Le concessionnaire Case IH David reprend Poncelet - La France Agricole",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUlIR2ptdHJIcVJBU3h0STlQSWY2SmlpUXNJZFVZQzNLMzBsd1RTYTA1VGVZckVodTZ3NEVZa1dESnhoMXBsNHhJRy1zTkRqMlNEY0xzb0tqOXQ5ZTRfdlV4TTRGNTRHeXFPOU9IQUpxX2swdmtRX05oWVhCb2lzRzVTU2FodnlVNlVmRjhnN240RTBBT3lpNV9ZRm1wMjBISU83dTJ6V00zazdGN05DdnVR0gG3AUFVX3lxTFB0dnVmTzNIWWtiTm9xa1R3VU5wRmN2cWczWThaWmtCbG81dmpSMzBpYk1wOXJBVDRiTzFjT3hycnA4OGxwcnk0SXNDNjVXNHdUeUZIbnMtLXlKSWtjRnhDNS1JUngxRVFveE1vNVBRSE9lSFh6LVFKc000amloNVJpaktSWThNTFNVZlM0M1ZYQTB4OHFCWnFIdFBBZnE3TG5SRlhPemc1SkpKTFd3aDBQOFhsam9faw?oc=5",
       "description": "Le concessionnaire Case IH David reprend Poncelet La France Agricole",
       "source": "La France Agricole",
       "published_at": "2025-03-07T08:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "« Un tracteur mutualisé permet d’économiser 30 % de gaz à effet de serre » - Terre-net",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDF5Ui1NNWxpZzdNOWI4MzBXUmtzLTVnLTREeFpPM3luR0VUVlpGMUFKNGhBbF92NlN1MTlNT2FlS0J4c3NHUThrUnNTVXdnS1N2eEQtbk82c3d6ZGlZMkxjcDcyQno5a2dxQXJHd2d5WncweWs5ekswVDNSMExvTVNuMUpfelphMFdSN0x6SXRCTkJGaDBlU0xJODQ3OW91elh2dnVwLXZSNkxiRlNRR01uclJ4SVQ5djVaQUk2Z9IBxAFBVV95cUxQaUpSVkRiSmpzUVltY1lBbmxpdFpjdWdCMlZfS3Q5bVhyWWwzb00xX2daRjNwZkdfelZvOGhIN3ZEdFV4WE1mODBud0ZoYWtvVmd1YXVoVXNVZ2lSMThpaG43RmJPNXRiYWt0NFdhdDRPM295ajMtRWJWeGJkOEZaUHExcG5nNkF0eU5jQUxjZENYTFhtQzRkenhyTmN5OXkzbkpIQTNGblpLbG5VanZxYndHdmxQRm9rSHRITzBrSVp0UmxU?oc=5",
+      "description": "« Un tracteur mutualisé permet d’économiser 30 % de gaz à effet de serre » Terre-net",
+      "source": "Terre-net",
+      "published_at": "2025-02-26T08:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Concours général agricole : le palmarès 2025 des fromages de chèvre et produits laitiers caprins - reussir.fr",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdnBvYzBxTXd5WUZ3bWlMekp1N1dqQ1laTmc1RTFEVXVnTDVrZG1iRGMxZFNnbDBxSmNQazFqNHBpX29HUmtvcWhMTEFGdjU0aVU3bDR2ajVjRVRNNEpheEJSZjlqdkpOR0hITF9SYmVqQVltZXk3SWlWR1ZLQk0yT25iWldUTTMxQlNHT2tQVW44aFAwcXV1RzRFclp0cW1HWE9TR2VRX2JnUEE0VjJ3Y1dnd1NRcDNxbHc?oc=5",
+      "description": "Concours général agricole : le palmarès 2025 des fromages de chèvre et produits laitiers caprins reussir.fr",
+      "source": "reussir.fr",
+      "published_at": "2025-02-24T08:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
@@ -506,56 +443,29 @@
       "summary": ""
     },
     {
-      "title": "Candidature pour une alternance : les conseils des recruteurs pour se démarquer des autres candidats - Studyrama.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUdqTWtyTUQ2eTBVVkY0NVZMalhxUUN6bjBDR0tNUmZZRFF0VHpuQVVBRFdHNE85T3Nrb1gzbW9SbzdKS0NFNkZEcF9ySkZvU0RfOXhxaW93MEFtMTY1ZTNhTkhzQ2NnZzRrRXEzMjJmMm1fTDBSQUp2YkhwQXE5bDZWWkIzOEtWbV9JdG40OTB1TFAwN043TGRXRXRfVXRlWWlFVGM4ZlVWQXRyWHRSWGxyWTU0VkJaTVVzWXJtdUhudFhSampZZzFNb3kzVGk2cWc?oc=5",
-      "description": "Candidature pour une alternance : les conseils des recruteurs pour se démarquer des autres candidats Studyrama.com",
+      "title": "BTS 2027 : toutes les dates des épreuves ! - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MRW0yUGV0V1R1clluMVliMTB4NlFoRzNFTG5iOE1QYks5U0FXdk5SVnVIbnRSY294X3RGMldENmVGc3R0LTljRVE3TVV0V3dxeHgtU2gxZzVkX2xUcFVUdXlBM3hZbXMyd0tua3JnVjU?oc=5",
+      "description": "BTS 2027 : toutes les dates des épreuves ! Studyrama.com",
       "source": "Studyrama.com",
-      "published_at": "2025-01-23T08:00:00+00:00",
+      "published_at": "2025-01-13T08:00:00+00:00",
       "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
-      "title": "Le concessionnaire New Holland Ackermann reprend ACS Andelfinger - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRV9DUjlDaEZ4RkhESkgtb1R4Y2FnRkJsZ1VvUzV6WHBFS0tuZ2hGbHBHelZHeGRUemhzbGVSNWg0WEJtbWVNSnZJUnhqWHk2aFRjMGVCYVZ0SS0wMUhtOF92bS1XZlgtNjJuQVZkSmI2TmNhZHJyODRSM3VFSEdGMlhlQTlSaWRUWTNuV1lKU0tLQllMMXN5eDNoV2JNY3g2a1N4cExZWnQ0NXFqY0xOMjFMUERFUXlkbHBiek5RaGxhUnZTRkHSAcsBQVVfeXFMTURuVUhIa09kTDhKWWdLcmF2c0RuLVNVbmdUb3phdHRSWEJ6dVBDLUFxWG1GMG5sNkdDckllbnRhMmZlZW1aS3k2TjRlZ3JLdklOZ1dwdV92MktsZk5naXRrSC1rc1dPUXlQdnNqOGMwRmh2RVlqaTlaY1RRYThabW9sbFpXM2ZtUzJXOW9uYTdsSmltMjA5U0ZPajZvVWdDLTlaV0ZpdnpscUpRUFg2ZEt4WkV3b3R2SXd0b1R6bnUzWTFmTFRCWmtxYms?oc=5",
-      "description": "Le concessionnaire New Holland Ackermann reprend ACS Andelfinger La France Agricole",
+      "title": "Déméterre devient concessionnaire Massey Ferguson - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbE1rYlZjdlkwTXdxc2phanc0U2o5VUxnZkdjNE16WmtKMUFINklleTZ6UkVZMUdyRGpFeEUycTlQNVVrX3F5QlVqUHlOWTl5S01ieC1RZ0F6bXpoa1VxZ29qLVFLZE1jUnZDVjVMeldPYmxyWWFHUG51QmNMUjRPMjNGZlhwd24zU3B5TjIxTlV4YzFWMFZOTUJEOUptQkg4Q2VoUXdVa2xGZEpKRDZneUN30gG3AUFVX3lxTE54OTVaZlVJdTRJR00xS2M4aHBVSW40dlgzaHIyVFhweVdWcWY4NlRwUmxrUGJTcEdrS3lCMTRqMnNCalpFMzNEbGo4Z0NBSWtsb1FIX3hscWFZTEVhc0xKN3ROX0ZxRmRJcjdTRFFCR2NxUUtTS2dWYnBlcVFTQUNyVEJINmk4LUxWbURwam9XVHZYMjR4TWEzR2tpcnpkMGc0c0h4UUxuUWhFeTJNU1VJYnBMVUhUTQ?oc=5",
+      "description": "Déméterre devient concessionnaire Massey Ferguson La France Agricole",
       "source": "La France Agricole",
-      "published_at": "2025-01-15T08:00:00+00:00",
+      "published_at": "2025-01-10T08:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
     {
-      "title": "Déméterre quitte John Deere pour Massey Ferguson et intègre cinq concessionnaires MF historiques - Réussir",
+      "title": "Déméterre quitte John Deere pour Massey Ferguson et intègre cinq concessionnaires MF historiques - reussir.fr",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDY4SFZaM3dhSHdYNGxpSGJ4aTVka1dQb0N3cjZDdGtvME5sbTA5SmRnRDR3NmFkV3Q2S250MHozdVRVVHhpNnB6QjExTmhkbWtNSUVQQWhTUGk1bTFBU1pUb0ZuVmRUUnlUWVhHN1ZhNHBtdUVPSTM1Nm1sei1JWWcwUWZpTFlXaE1ISVY3VXZuakx6c2U5OFdDdUNsM3UzRkZzYTUweGpyclpDOVRrcWdMUkpqMHc?oc=5",
-      "description": "Déméterre quitte John Deere pour Massey Ferguson et intègre cinq concessionnaires MF historiques Réussir",
-      "source": "Réussir",
-      "published_at": "2025-01-10T08:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Le concessionnaire Déméterre largue John Deere et séduit Massey Ferguson - Terre-net",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV19xS0p3TUtORC1CdkFSUy1ydGpfR00ydGVFeEh4cHdMbGJoemxtbDZqdllBdC05dE52VmgxOGI2Z2RCNG1hWk9kejVVQUZ5SXdTek5GZjRJempoTmxRVXFxZ2YtUFpMajQxbFJ3alFtUnhfbUZBVkFlS2Rwalp1S2d2US1VMVlWdy1vUG5Iay1fWDJDbGJHSVZYSzg4RFN3V0VzMUZKeDhoY3laVzAwVHRFZVFvcDNTNFp2UXFnc3FrV1lEb3d3NWVnTUVkemfSAdQBQVVfeXFMTnNPTnRhSVVucnRjWWZPTW9XNFhsQVo4M2RiQXJ6TkV2T0hPYWtxb3lqYlBXVVBka0YyLWw3T09qUlhPSC1sMzVRSkRhLTV0cGtwQS1WYVNJZUFpRkVjbzVpX2dUMVBWUXJaTGlReVYwM2FnaXRSTUotTmZLQjNwUG5sYjFrZUZFcjBVeXFTOXo2emo2cTctU0Vfc1RiV0NoN09VNVAyN29Ebm9vUXV3S2NtSmp3SzBkNVBES01TcDVjeFJodndJdHIwaUpKbEpBOGlWMEU?oc=5",
-      "description": "Le concessionnaire Déméterre largue John Deere et séduit Massey Ferguson Terre-net",
-      "source": "Terre-net",
-      "published_at": "2025-01-10T08:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Quelle est la puissance moyenne des tracteurs immatriculés en 2024 dans chaque département français ? - reussir.fr",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTW5VS0t3dVRidEN6cUJrWGo0cEh5WFE5bl9wRnVXUkJEV05GcHRSTndpMkJZZHJPWjdmSzYyWkNlaWpWa1c3V1ZTckRZem9yM0JlU0FGbl9oS0VlemJYUDZzT292SkxHY084bnpWMHQxa0d1bjVjWm5ia1VuUThmUTJrQkt2dFpMMWF1UjNkbU9HZGxRNW9Gcm1NOHp0OG12NzBHeEFrUFF6UWxMRVBUdlhOYXptNkNwdnY3RnIydw?oc=5",
-      "description": "Quelle est la puissance moyenne des tracteurs immatriculés en 2024 dans chaque département français ? reussir.fr",
+      "description": "Déméterre quitte John Deere pour Massey Ferguson et intègre cinq concessionnaires MF historiques reussir.fr",
       "source": "reussir.fr",
-      "published_at": "2025-01-09T08:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "John Deere dévoile un tracteur électrique de 130 ch - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEQ1Y0g3ZTVNc09hVWhiemRJQXMxTjI5OXR3WmJ6eC1Od0tGYnREZkx3aGZNVTR6SWhESEdtUmoza3hKVlM4d3c0d2VDbXJfdGgtckRBUUtSR25GNDlQV2pBQ3BGeXpqRGFVUFRQU0gybFI4SU9rRU5qQVA5VTlZaUhRLUdwdDlvOU1MbEJ4RDdueUFIWkh6UlQxUEEyNlo4WXVTZEo1bVFoemxocWfSAbMBQVVfeXFMUHFQcjg0QTFBVGRoLUNlVmNFanFYNEhmdkZkQ3NDNUpZVjlKWnpRaUlZWHNmaWpjQXVVWHlRZ1hQelAzWnZjdnZaejQyRU1ZT1Z6Z0FHWjVpcE1kc3VkNkN1dmtpNkQzVTZiUzJYcDU2Tm9YUVlOUWV6R3dUWGdhUTNYTUZtdEd3Z191dGNibFBLLURQdFgzSXh1VkxXaXl1T3JvXzV3NEVxemZ2cWF6NENmRHc?oc=5",
-      "description": "John Deere dévoile un tracteur électrique de 130 ch La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2025-01-07T08:00:00+00:00",
+      "published_at": "2025-01-10T08:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
@@ -569,11 +479,20 @@
       "summary": ""
     },
     {
-      "title": "IMPOT SUR LES SOCIETES ET CONTRIBUTIONS ASSISES SUR L'IMPOT SUR LES SOCIETES - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcXU0WVpPeVJfZHlMZXozOHQxWkJ1YkJkMDh4SHRMYlRaQlpVSjUtWkR3ZDNrbGplMWRHVnVUdkUtX2RYZFhLbjl2UDMyOGJMeEVVcGdzdkZQODdxN3VqWW9pNm1RWWJ6UE9JTm5MY0wtTElxUkNvaTZLWXhJa3hHMEJaRnBzRVpCemg3dnZKVmZrdw?oc=5",
-      "description": "IMPOT SUR LES SOCIETES ET CONTRIBUTIONS ASSISES SUR L'IMPOT SUR LES SOCIETES Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2024-11-22T08:53:04+00:00",
+      "title": "Je n'émets pas de facture, ou je facture sans TVA. Suis-je concerné par la réforme de la facturation électronique - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcTdRM0xyU2FOZkItZ1ZMTG8yeTB3VVVEdVZPTnJSTXJOQ0FoVHRjajRBa19pdXpQM0JfdVZiZlMtQTlJM2stQzZyX2JFZG1XcUM3c3RadUhnY0Fodks2N2VQS1Iyems0djM1bFpKYmo4MG5kdS1weVFVemJVNWp2c1BNTzhsYldCRkMzVDZ4c1hfQldCUkp6dUFHcU9ycmxpbklhT050Nm8zZ241WE1EMnlPaWpkc2thVXVvX0ttcw?oc=5",
+      "description": "Je n'émets pas de facture, ou je facture sans TVA. Suis-je concerné par la réforme de la facturation électronique impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2024-11-15T08:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Je découvre la facturation électronique - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaC1BTVlfTXFhWDFMZ09RVTNpU0ZnQkpiMWNJajFISHJMOEVDUUx4bW8ydDBmMlh5YUZ2c1U3d25QY1lCVGZGV0pCWHlQbEVEM1ZiYmh2a25iUnROcGRzR1NlSHpZakU5R25nakJVTU1ZTmVWakxoMWFKVEVIcU5VcVVBVjA0UFk?oc=5",
+      "description": "Je découvre la facturation électronique impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2024-10-16T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
@@ -587,10 +506,10 @@
       "summary": ""
     },
     {
-      "title": "DGFiP Analyses | Le manque à gagner de TVA en France - Impots.gouv",
+      "title": "DGFiP Analyses | Le manque à gagner de TVA en France - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU0Fma0xBb2daMFkydi1DcU5aMnNkOFZKY1dMYm5rYkVUZ3NJYl9KaTV5dE1yY2x1YnhWam1WbW0yWFN5djhvSG5uV2FLalJFclBRZ2lJamVWU2JBa1FIYk55ZmMyYWY1bGR3dmdhemgwLWxCaUtaVENqXzNDczNFRA?oc=5",
-      "description": "DGFiP Analyses | Le manque à gagner de TVA en France Impots.gouv",
-      "source": "Impots.gouv",
+      "description": "DGFiP Analyses | Le manque à gagner de TVA en France impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2024-09-03T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
@@ -632,12 +551,30 @@
       "summary": ""
     },
     {
-      "title": "Le marché annuel indien du tracteur se rapproche du million d'unités - Terre-net",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdV9TQkJCT1d4aUkzYjFjZ1VYdHNrRTRDdnhjTzBkLVNyaGZXSXNENnVuaWtFT2lYVWp3WVZvcjVsSVVoVmtRMDhKSldjY1I5YmJOMEJiZnl2T191LW40MVljUlNXWkRjeFVvSnlHR0FCbXJib2FiMWNlYjl0YmpDczV2ZGx2Rm1RNEdyVGZVdFNHazRNYUxVUUtkY3IxY2lwVlQwcHlDMmpDZmRaNUoxTmdheVFlSHAwQnk2WXdKVGxUR0x4djI5alBuc0FBV2Ywd0pNRjAyOHd1UdIB3wFBVV95cUxPYnEzYy0yMFpfQmV3YTVpd2hyLUtFOV9tcjVuSnI4RERuRWlwNEpCSDBjbnZ1c2FpZEhkSGVQS0JkbEk2eXBSZzE2d01na19RZlN3R01PQkNQNnB6ZnBTQWJ0U1Vhb1Z3bGVTYXFBRWFCZlRuU0VJeWFMUF9OYXdZQ2dQVFlKWGY4Y1FHZ3U2dkJNQmdqQ0hnS2ZvTDVycTRKV3ZNTm9lbG5EQ0VJWVlSVUtwalZkSFY3S3dLVldhdElhRmFSc05wY2tnSllHYUpHTVUxTWUxTVRsMmlYcDdv?oc=5",
-      "description": "Le marché annuel indien du tracteur se rapproche du million d'unités Terre-net",
-      "source": "Terre-net",
-      "published_at": "2024-04-03T07:00:00+00:00",
-      "category": "Secteur professionnel",
+      "title": "Comment trouver son premier emploi, un stage ou une alternance, sans expérience ? Les conseils de Chloé Ngassa - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0wxS29SQmthVTh5RmJ4eHRROTVaWlRMTVA3LXJKVmotd3I3YU9OTTZLUDNmUEo1OVhMZGd1LU9OTGc0QV9YZEtCTXZPS0YyS2pmWWNVNUVVLWNoZWhEVmJRU051bkRYdE1vVmF2MWJLc3hpbXhaZ2xwTEswc0hsMHVyd3NGNmJkVEFhTTZtcGN3OUhSeVN3X1NVdmZCVjR6OVh2ZlI1MGczMkFOTGZkc3NIemFFWGs?oc=5",
+      "description": "Comment trouver son premier emploi, un stage ou une alternance, sans expérience ? Les conseils de Chloé Ngassa Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2024-06-12T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "site en maintenance - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4MDFVdzhHTHlpbGZ3aVd1SGVia2U5cFpueGxyZFMzSGhHc21ZVzlZbjFEUzhka294M2dOYzBJOEpZaXNOWmpOeFMwd1VEQkpSSjRXbm1ZWHJ6cEp2N2xz?oc=5",
+      "description": "site en maintenance impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2024-05-19T07:49:50+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "2062 - Déclaration de contrat de prêt - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDFTSzhfQ2owZzl2MkNuZVpCNV9XRkdTWHI0bWhGT2VXcmd1aHpqLXUwRGZBOW1UWHlzZTZoRlI5aVNZZnVNV2diRm90SDBwTUxyZnpUYTh5UEM3STIwSzI0Mjl3bnE0ZkdKNEpLM05WTlVCMjM2UGk1VUF0dDF5clBVZGR4Z2NGa2c?oc=5",
+      "description": "2062 - Déclaration de contrat de prêt impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2024-04-25T07:32:55+00:00",
+      "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
@@ -659,30 +596,30 @@
       "summary": ""
     },
     {
-      "title": "Un tracteur compact - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDNTZUw4M0FVaTl4TG51S3lKZGZnRmZBV0Fubm04a0hXUkhIZVgxdWx0WnI2cUc2NXJEeFJXWElrTkE0SERDWWk0TnJWWFhUb1JLNmN4OG54Z3FPLWF6b3JnRTVTcEtXZzNpX3JXTEQ1OWZvOGEzZTJsVUJxLWFtWm5KX2TSAYoBQVVfeXFMTjh3VWxhQkFBVk9KVUZsVnk4SWY1UjR0SUE2Qm1HQUxoSkdQSTlxRVZZLUdEdkNXTG9zbnJCVDRHVnkyRmdtT19ZSnZtVWxFRW1OUFJlejY0ZTh2SU1lMlM2Tld0c24yWkd5bWFfVVJ1VUI3ZzRXNlJlQ0MxN0prRzBPRGd4Z0hJTXNB?oc=5",
-      "description": "Un tracteur compact La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2024-03-13T07:00:00+00:00",
+      "title": "Le palmarès caprin du concours général agricole des produits laitiers 2024 - reussir.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU0VBWlQ3Tk4tbDNQSDlxUkVSbkU1OFJ1N01DWklwRkd6ZXZzUFp3bU5NLVNoanQ2aHBzM0RzQXFxN1pRSThUQmNCRkszU2ZuczYtSmo1VVVnRy14cXc0RU1oS3lIZV80YkFVOFM4LW5BSUh0MUZRRzVrZmxoMjJ6YWJWZFlCXzRXWDdvSl80QkNTV2g1RkYyb1lJT1BBUklnZjE1dVFqQXZ2Zw?oc=5",
+      "description": "Le palmarès caprin du concours général agricole des produits laitiers 2024 reussir.fr",
+      "source": "reussir.fr",
+      "published_at": "2024-02-26T08:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
     {
-      "title": "Salon de l'agriculture : le Trophée Gènes Avenir récompense les éleveurs d'alpines et de saanen - Réussir",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNanB2czNjMTJvVmxwN3hSdmNWV1AzcjJlLVFsV0hzQVdTRndIWHFDWjR0cGN3ZDNmSExtTGQzWXc5eGVsYWVmbzFFYlU4cUF3SkFNRlY3TzROczhycWpEVjRTeWZfUXZuWTdiOWQyODBkVVBKRGFiZ29kNF9vMkRxcVN4T3NYcjc1Q3dSWHF2d0RmcVRnYjBFb0dsZG5SUWt0eXNMRE5yVE5ESXZIUGFVekJIWVVLOTg?oc=5",
-      "description": "Salon de l'agriculture : le Trophée Gènes Avenir récompense les éleveurs d'alpines et de saanen Réussir",
-      "source": "Réussir",
-      "published_at": "2024-03-04T08:00:00+00:00",
-      "category": "Secteur professionnel",
+      "title": "Test : êtes-vous fait pour le métier de fleuriste ? - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZklLZTRVNVYtNC1fb05jSkE0d1NXM1RLMjI1QkpsenFRMkRNRENxWEVoamkzcV9kOWlOaGtuejQwb0RBTS0xLWxOeXNZeUlmaFRRb1BUdExuSkxidXJoZGRoSC1rUmJBSUtkVFYwVnhlVzBSR0VZTmIyMWdiSFYyOVNtenRReVlNclVJSnQ0bjRrSHF6REctaw?oc=5",
+      "description": "Test : êtes-vous fait pour le métier de fleuriste ? Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2024-02-09T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
-      "title": "La New Holland CR11 sera fabriquée à Zedelgem - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTnFRbGg5aVFma092ZERvUXVMeEJhdGg0V3VyNDdJLUoydWZJVlAtaGVkd3hvb0FOR3M5cmd6dnktMnE2cmRzQnB3UW1HS1VDNWZMUFByaG9HSEx0LV9LNmF4RDFWcmZsUzZ3NURPYk9Bc2J4cnhTUGk4Y3VGNGFYcWlOWlhXRU9WUlRaWFY5QUtGaDdsS0lGQzFVUnh3TW0zLTZORnZENVlUZUNfbDBSZEpSOXVzVkJLUHfSAb8BQVVfeXFMTXRYWmwxRG1SaVNTOWhHSW9xSkFqcFcybmNzclJhRXgtUmQ4aF9YMXh5aWF5M3JxMW1lWGloa0Z5Yzg0bndDYXdXUk1GMHRrQWVWU3ZjQTRkTzdjSE9tZXNpZHBTaXpZS3RmdE1MMVUwR18yZmFUbmVPRjRJNlg5MzUxb2l2YWpZY1RRa1otMmEzWUoxbnRnS21QV2NuWVZQOGlZYXVSUElsMFYya2Z4dXZ1Z3puVEluaFJyU1pGblk?oc=5",
-      "description": "La New Holland CR11 sera fabriquée à Zedelgem La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2024-01-18T08:00:00+00:00",
-      "category": "Secteur professionnel",
+      "title": "Alternance : 8 conseils d’étudiants pour trouver une entreprise pour la rentrée ! - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR0JrTndMYmcyazdPVDVBai1xOTd2ZmhydGxIY2dpZ213c2xQdkJfbXdTSEtoVGFaUlk3YmJBM1pCb2VSQnBiZVdiUTltSTJSUTNhUEpBUjhQMFRqUndHaFVGU193QVg0WFZGTjl6M0o4VVE4ak9ObDByc1JCeElvM0swREZxZmZNd0ZTQ0JfSDZXeW5rYjl1NHN6OXdnMDJNdjA0T3J5b1FzLWlFQ0JlOFczUHU3ZjJBajljbU5RZGFYdE5TVkJOU2pHT1Q?oc=5",
+      "description": "Alternance : 8 conseils d’étudiants pour trouver une entreprise pour la rentrée ! Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2024-02-09T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -695,39 +632,21 @@
       "summary": ""
     },
     {
-      "title": "Tricher aux examens : une mauvaise idée lourde de conséquences - Studyrama.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbUlPcEU1b3I5cUdnY2Z1eXdUdWJrRDVnMS1VMWh2QkNxVlU4YV9QckNYVVI4YjlJOHpTZ3ZPOHMxV0JiTHJodmFhalJjQ3BjZWhRRTh1akJFRWlNUDVhYnVMN3hJZ0NhOEppYmxRTXl1NVNkdHQ2U3ZsdkpmVzNpWGcxbmFIRjdISzA1a1l5cTNhS0tZSjZsd3QwLTUxSGFvbE1hajRjTTVkUQ?oc=5",
-      "description": "Tricher aux examens : une mauvaise idée lourde de conséquences Studyrama.com",
+      "title": "Portrait d’Emilia, étudiante et danseuse classique - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV1FGUmFVSGJ2dkhwNjM4Y0RseWt3cnZjMFo2MjNpM2Y5Q2txZ0Y0QlRPMUdKaU9wQkFENFZ1WXRmQjVMUTYtOTBZUFlKNFp0MDhGOWVYM1E1Q0RwMjZFWW11aE4xMVlaYXY2bWE1VnIwWUdDVzJSR3RCVDczVVkyM2xiZjdEaVhWT1V3cjEtNG1pN3FHT2JhZW9lb25TbFFpU2JFQzVZcHZfMXM5b0I3Y2NJYnFoNzZNZnM5ZUdHZXZOZ1EyQ09wUnBtbHlXSENGVVQ5a0tfLWlOV09QeWlYVw?oc=5",
+      "description": "Portrait d’Emilia, étudiante et danseuse classique Studyrama.com",
       "source": "Studyrama.com",
-      "published_at": "2023-11-09T08:00:00+00:00",
+      "published_at": "2023-11-29T08:00:00+00:00",
       "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
-      "title": "Les services publics proches de chez vous - Impots.gouv",
+      "title": "Les services publics proches de chez vous - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81eEY1LUpGWkdVOGItRS1oWmdFczZRNS1lWktFUVBkc0tCdENGaEgyWVlYRC01NU5NanBQZUNKdTZmZmpDTC01aTJSMXJ5SWgxdW1EX0VLZDg3eVFqN1dscHdMb19jZzJnTDNhd0dpYzV6LUtEdDBj?oc=5",
-      "description": "Les services publics proches de chez vous Impots.gouv",
-      "source": "Impots.gouv",
+      "description": "Les services publics proches de chez vous impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2023-10-25T11:34:51+00:00",
       "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Prévisions météo | Côte-d'Or - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnRHUktIVmk2dURVTko3T3JGQ285QkZaVkdOMzdRc0lnUXJIWnh6LTlwTXRrd3FtV2l2WkxDeUI2MTI3SmpFSjV0WkxPaVJGc2tsZldIRHhySTdyMU1XOW9tRjFIN3duWEFodGU4ckQ2ZHdVc0UyWHlXeFRBREtYTQ?oc=5",
-      "description": "Prévisions météo | Côte-d'Or La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2023-10-04T19:05:11+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "Agco s’offre 85 % de Trimble Agriculture - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVAtUHN0ekVEWDcyS05TMWZPa3NMa1ZEWkJCUkpzOE9KWWVUNVY5ZkxNU3JMZE9xZTdlaWc4enhJSXpFNkRMV1NPVWhxeUhOV2JFcUFLaUtYQWpMbkdmOGxyX0Mxdmh2ZF92bWtLOW1DU3F3SlFod3FkMFpyZVpmcHg2Y05laXRldUw5T1oxRF81b0djTERKR9IBngFBVV95cUxQMkY1QTltRUNrY2NxTTAtOVlfRmhlREhpWm4xNGhhNG5HU2JUbDhmZXU3azlMQXlDV0tvaVBkOFkybm92UHhVWDZTNTMzczRHcmJyNk5YZ1NXQ1pnWmhHV1EzNmF4UnpiaXNuVGhvY2pVS2h6Zzl0M3NZc0Y2allXMVl3RFprTUdEbUdIWFM5VUs3d1FOWm5KSmpGTjBKZw?oc=5",
-      "description": "Agco s’offre 85 % de Trimble Agriculture La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2023-09-28T07:00:00+00:00",
-      "category": "Secteur professionnel",
       "summary": ""
     },
     {
@@ -749,11 +668,11 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-CHAMP-20-50-30 - 23/08/2023 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlNjSVlRdlZRcXRHeDBjNUF2Qm90VGkxajVkNkVGaVpoT2J4ekZjWmdrV0VMc3JMVE1aYWVlYmV5NmpqNy01LUwtandYcURpa2l2MHFBNUFNa3BSN3h5NldNSWJqaThhZTJvSGpidlZ6dVpsVUhkN0tXeklTYmV4c0o5VkhCZTd4MnZ2MmNmSXFCcHE0TjIzcU9B?oc=5",
-      "description": "BOFiP BOI-TVA-CHAMP-20-50-30 - 23/08/2023 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2023-09-12T03:47:20+00:00",
+      "title": "Vous êtes un particulier et vous souhaitez obtenir un quitus fiscal - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDUzR0NldFFlQjhNRm41NlFlTF8tNkNibGltTjQzcWNlUnhQdlVpZm96OUFEeVZtejg1Z3I1ek01STdsak91eU04TkxzRW5NSTJHOTNkZi00MW1aZ01GSHhxNUNGQzIyVUlHdHM0eVMtWUQyN3JzdlNvaHhEVHJ4NDFZRlhneXJUODhGR2dfa1lTLUlhTFZrTllB?oc=5",
+      "description": "Vous êtes un particulier et vous souhaitez obtenir un quitus fiscal impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2023-09-12T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
@@ -767,39 +686,30 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-50-10-10 - 23/08/2023 - BOFiP",
+      "title": "Diplôme d’Expert Comptable (DEC) - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdk15WERlMkVHT0ozOUNpQUJnaXpWbTdxalZLb1ppckY2N1pVMHNqbHMzdUVFMFNndlloNEJzeWRQZDNuM092aGEtR01JZGdKckxzUFFNX1lCOHpGWUZXYVN0U09lUFF6VGhOTldaM2U0blVhVGNTaUtsdVBTTHVIMjVtQU45UEdjQnlHYnZHd3pRaHd1TDk0QkQtSzdES3c1YUhxdndYdm9EOGlPdktpOUZSTDNwN2l1SDhfNjl1YUJ0azJ6NGRnbDZVZkdPQmNwRnpLQjBzMFBDTVp4bWl2Y1IwbDBwZHg5QmdYZTQ1WUhqNnVHVVk0TklUSQ?oc=5",
+      "description": "Diplôme d’Expert Comptable (DEC) Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2023-08-31T06:42:56+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "BOFiP BOI-TVA-SECT-50-10-10 - 23/08/2023 - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHVyeVNPbUNvMUthWnotenlNZS1rSXAtNUpJaEQyLXQxQS1DZGpOb0taYzRZcDNiNlI2WXNENE9aTkQtTkRJZnpQdUJNMG1NeC12SS1mZ0xvdmgyTUc4SGJ5NUoyUFNSLXkyX09OcmdiZm82UGtIVWJYckFCaXoxRFdKelpLYUxVRi1DandkTDFEZGZnbEs2RA?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-50-10-10 - 23/08/2023 BOFiP",
-      "source": "BOFiP",
+      "description": "BOFiP BOI-TVA-SECT-50-10-10 - 23/08/2023 impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2023-08-23T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "Alternance : trouver un contrat en juillet et août, c'est encore possible - Studyrama.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNamx1ZWgwVWtVTUNURVJranpVMjZObi1tNXZhaEU5eGY0SmZfTks5SjdfMjFpUzJNM096b3FaRGs1NGw0YmJlZ3phWlVWTzE0TkRpZzVHeXpTbkxIRXpaSVRzdGxQdHdxYjNIaVdSclp2OUNlQk56U213bUYzdjhCOTNrbVlQN1QwR2hWQUstZlV3dWgwb0JnOUZhQUIyaDI5NHV6RDF1VXFRUVV6a3NCSUhxNHRybXE3NFRPU25xQUpzOWFJNnVxYmxyQnJKc1VCTnVOM3RTUERwR2xsVE1pc3lQN2xJQXFrRlpGOHlnMmVJeDlEM0N3?oc=5",
-      "description": "Alternance : trouver un contrat en juillet et août, c'est encore possible Studyrama.com",
-      "source": "Studyrama.com",
-      "published_at": "2023-07-12T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion",
-      "summary": ""
-    },
-    {
-      "title": "Case IH présente son tracteur sans chauffeur - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2VTTExob1B3M3JQanliZzdhTFZxZnNvUFBxUGJpWE5zU3JDWFp0Q3dFNm44Wm9oeC1vcUEyMVdabUNyc19JWng0ZFJEbVpDWGJyRmZQM3lwcDlpZGp5OW5uVDF0U0pZMFJFcWNubU8tT0JLaU1FaDlMcmRUeFdvSzZtdndKRndhQjVwRlJuZ2NYUndGcTdIMXhmRdIBoAFBVV95cUxNekhDUS1LUDBMN3pDS210OWNNTU5lSDRfWC1vbFFnTUlmTkpBT0hBNENwWnJCZkpaUjl0TGhEN013aC05VlZydTl5R1RNdHZQX245bkYwOGVtU0Q4SWxGZ0ZJMVpEWmVvMkdaX1hMN3NnNTlCSmU1Nmw0VUdzMklEemtoaVowUUlyQ2lKRXY0T2FWUllLS3hKaF92QUl6Znhp?oc=5",
-      "description": "Case IH présente son tracteur sans chauffeur La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2023-05-12T07:00:00+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
-      "title": "La X9 John Deere entre en action - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM00xTXB3S0lZbXVVZ193UFNQalhhVkFzYTlHSmZWSkViUDZFT2pLb3kwWENFSEY3YUFqY1duZlRHZHZkQ05qVkI0LXN2bUxIaUhsREJfTl9CcEFfbVdnQkcwX2oxWlpMNU5FTnYxM0hNd3hXYUZlaTdzS3g5SUZxS2R1cmVSMkl5SzVpSk95SW1IekxRb3lrWUxzWmJEd0hXUkdDcmhHdWh5SzB3WUHSAbMBQVVfeXFMT2l2WlhKTEJCQUc0VDhiX1pUSDZIcWQ5Si05MzZ4a2NfNWFsQ0dQbG1nUDVjSHcwRmZBbFBqUFN6cEItMWtwREZOMlg5QmdFc1N0dEZpdUVOSXc5OHp4SEhXV09TcXJ2b2lXN2NpZ2h0WmktYmVkTFNPOVZCakRtbE5TRGhuSnYxd0pMejRhTHIxdnBpY3RMLWR5cjlDR0xhTU9lRWRRQXVEM1JZTzBKdTZWems?oc=5",
-      "description": "La X9 John Deere entre en action La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2023-05-12T07:00:00+00:00",
-      "category": "Secteur professionnel",
+      "title": "Comment déclarer les plus ou moins values sur cessions d’actifs numériques (cryptomonnaies...) - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdDI3UXByZHBwVHpxcWZ4RnBFTXIyd2tJS04tZjctbGt2WG5tMzlZYlc4ekNtUG1HR0tQZ042Qmc2djlGOW1aQzBNVUpZeWJJN01BNTBwSk0za3RpcTkxN2xyTzljdVpHWGxvTlRsM25YVFJXenNKUEpCT0l6YkJaaHM2ZTVKbDZUWHFEM3V6a2hqeHJnNk1PQkRLcFo0SEZ0clVGVVJFbkV6VEJaQ1pTbUNGbm1tOFJ3N0lvcGZwWQ?oc=5",
+      "description": "Comment déclarer les plus ou moins values sur cessions d’actifs numériques (cryptomonnaies...) impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2023-06-16T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
@@ -821,15 +731,6 @@
       "summary": ""
     },
     {
-      "title": "Le paiement en ligne de la CFE et/ou IFER et des taxes foncières - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGl6eXJzRkhreFMtNUxaVTNVNmFqbjdhbHI1RW90ak1fUjhpY3BrZGJWR1dWSnBxWmt6eENXS3YzNjJvSVd0QmNOeGg1eTRrSzR3VzN5ZXB2bnlFMXBGM3BIYVNSMkZSRGVMTzhaeVdZY0VraldGeC1zZ1d2cDdVd05aaC1IQm43SFBCUGg5Y2VOOTIzZ25V?oc=5",
-      "description": "Le paiement en ligne de la CFE et/ou IFER et des taxes foncières Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2023-04-13T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
       "title": "Alternance et impôts 2026 : seuil, obligations, dates… ce qu’il faut savoir - Studyrama.com",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdHFGWUpXanlYd29mVlhJdkNlMjNHb000UUl6NUhReFY1M1pEcy16UFppSmVsSEphVVIxMkxDN3N5M193X3BZMFVqVkZPM3hLTzdCR19hUmNIOGxZa1VRQVJqOWZMb1QyREJYMmdQd1FpV0pFWEJ3VDVvbHlQMW50ZzlFZjEydjI0enN5SHdzRHF6aDRKYjNzTGY4WDBEY1AzWVNia1lOTjVHeDBCaGxmR0xDeHlOVW1ONXhPeTlFZEdtVzAzdmVUamJlZ3RhcDI4M2lnNkRUaEg5MFRFRmtLelc3TWxzamMxWEZTcA?oc=5",
       "description": "Alternance et impôts 2026 : seuil, obligations, dates… ce qu’il faut savoir Studyrama.com",
@@ -848,10 +749,10 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-CHAMP-30-40 - 18/01/2023 - BOFiP",
+      "title": "BOFiP BOI-TVA-CHAMP-30-40 - 18/01/2023 - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTy1QQVJXRXFnb2NKMEJLSG8tanBEcDczRTFjR2s0ZmtvamlveTliTGdQcW1jTFUzMmRCSzRWQU1CQjd5VExCUm5HVjd0SmpvVEdadUdhV1JsZHZHanRDa3BiWEo0VV9sb21GbEhTelpFX2Nud3U3V2JrenhWT2FtbW95dURUM2dsRUxQajk0MnIyd1JO?oc=5",
-      "description": "BOFiP BOI-TVA-CHAMP-30-40 - 18/01/2023 BOFiP",
-      "source": "BOFiP",
+      "description": "BOFiP BOI-TVA-CHAMP-30-40 - 18/01/2023 impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2023-01-18T08:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
@@ -866,33 +767,6 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-50-10-30-10 - 22/06/2022 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0VyWjR0WUtZQ0I4Z3RrWE9RLTdIWlpSRXFyVUpIcFdqZVdjd1RlT0ZmZG5UdFFwYnZUeGJ4NEhQVUZfNzJqei1GOHFDZnNkdmc3RmhwalpZeERYWXpkMnd3M0VFMjJyd3B6cmtocVRuZjJkRjZ4VmQ0aXliV1VnTy1yT3FFajJqMjdvck1kZkNoa21BYjlROU9rWmM?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-50-10-30-10 - 22/06/2022 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2022-06-22T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-50-10-30-20 - 22/06/2022 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUThHNl9uRTNjeEdQdlBfQXVXeEk5LUI1M1pncWdLVFJBLXprVDBXTHR5cG96MXp6MmVTYUFSVmt3b3V1em81cVllR2NJWWxKdGZldXRnLWtramloR1FfVWVINmNJSVEybkpIMWdfZVhZUmR2OE5vTlRDOUJNQnhqVWJ4anhBUDNhaWMxMVhZVVVYc2swZmpIOGhsTHA?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-50-10-30-20 - 22/06/2022 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2022-06-22T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Économie du machinisme - Terre-net",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxWmZfdERFYmlwTzVpTlNuSzVmUmhYdVpwYUt0dlRYai1TS0F5QjdBMTR3Sks5dUxmYnM0bUZ5bjdMZFVxclg5ZUhGNHE4X1BMWlNwOXdYbWZ4RHdGRG9JUkJ3?oc=5",
-      "description": "Économie du machinisme Terre-net",
-      "source": "Terre-net",
-      "published_at": "2022-06-17T16:31:15+00:00",
-      "category": "Secteur professionnel",
-      "summary": ""
-    },
-    {
       "title": "Comment rédiger un rapport de stage en BTS CG ? - Compta Online",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XOVk2ZXZReHJYdGRFNTZINmVMWVBObWhVX25NcjhIRHJocmx4ZUZSWVNOaGRVVldwaHJXaTRELXZMeU1GZ19MeGdqeUFYb3AtNDY4UUtUQi1kX002OFVvakptOWtWWkphU2twMmJPV080SEM1NWdXMg?oc=5",
       "description": "Comment rédiger un rapport de stage en BTS CG ? Compta Online",
@@ -902,20 +776,20 @@
       "summary": ""
     },
     {
-      "title": "Last update 01/06/2022 - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2hzaXZqMzBld1lKOEc3ZWw2UGxhR2RqY21zTlM4THBuU0djMUlPSHpEdWhjS2FhSDJaOHFZUFRGemxicjNjOXpYeENpaVJZNmd4Wk9HWUFjMm5OSnlKamRlYk40RzBydzQ5Vm9Zd0NoczBBNk4xRzhBejFsalJRTXlnOA?oc=5",
-      "description": "Last update 01/06/2022 Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2022-06-01T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "Alternance : les secrets d’un CV et d’une lettre de motivation qui font la différence - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY3pRckNqZFpUMmVKdm1yWGdVemRMUUM4eEJJVkZwTUU3SUx5TzY2R3dHQXNkbE9FUlZzY2RieXBGUzRXanE3N2lBamxjTVRSSVBCZkpaOVlYOVlHVnRuZ1JZd09LUTZ5MDZRMWtXMkVnVnpoeGIzTFdHMTJxNGJTZkpHUGxjLXpFdGlpa2tCTVVIM3ZuWEZuUGdva0ZkZURSODA1MVFHMy0yR3Byby05TWhnUUNOakhSSXBTNmtGMG82SzJBdFpjSi1xbEF0VWhBVHZwcG5JaXEwakhJNWRzY1VQZEN4ejFjaVoxeWk4SHg3SkU?oc=5",
+      "description": "Alternance : les secrets d’un CV et d’une lettre de motivation qui font la différence Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2022-03-30T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
-      "title": "Réussir sa candidature pour une alternance - Studyrama.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0pNc0xuZThXeWRuQy1XWDhJWWRHOV9KZWxQQmZpTEEzQ1dUTldkVHdZMnI5dXg3enlvUnhMME81aXRmSk81dHc1OVNEam9DdTNGS0RrSHpLMndQQnVXZ2ppZW9zb2YtY3FOX1F0QTB5ZVRaNEJ0LTFETjlIYnJkN0hPWkZFYTQxYW1BSFU1R1VPdGdoSlNMQjdCYVhhak1FZkJERw?oc=5",
-      "description": "Réussir sa candidature pour une alternance Studyrama.com",
+      "title": "Vous cherchez une alternance ? Voici comment réussir votre entretien d’embauche et décrocher le poste - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU3NoNTlZZWRMVVBqUHZ4VkYwMXg3UV9Ic25MeEtQTjdKRDRlVG9rMkdkdlhOc1IyNDJFYWs0di1Ed0x5YVpnYklNOGpuQWJjaFktRlEzRmo3V0lXNHlOZ3RrUXpsTG91V2xZUkhBd2U4TmNGay1hMG9UVmhoN0VzdWZ5Rkk2RjF6V21vWWpzUDcweHhTNkhYdVp0REJNR0xuLVJjQlU0VnFSZXc1VWVPZ3laa0dLZ3RaejdOVWhnVzg4dFhCVGllTTMtVXdpYldZOElBdERWaWFyX3B6ZDJMZnRUSFJrX3VEcGRIMTVsRUxsUQ?oc=5",
+      "description": "Vous cherchez une alternance ? Voici comment réussir votre entretien d’embauche et décrocher le poste Studyrama.com",
       "source": "Studyrama.com",
-      "published_at": "2022-03-30T16:08:39+00:00",
+      "published_at": "2022-03-30T07:00:00+00:00",
       "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
@@ -929,47 +803,128 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-90-80 - 16/02/2022 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1hOMWJtRGg4YW9ELWJRTUh1VGZNQ2RwZXBRdmpvc2J0UWN2S004MU1QMzNhWG1VdnJPYWhyWEJ4Qi03TWt1LUZBZmdJTnhxRHkzRWVHcEY5ZEhmc245MFlYQk1tV0FhTGZ6RU96Yzh4NGhPWXZEVTVMTldkRnowQm9PSVJJTXBxYVFodzR3YldlNGJL?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-90-80 - 16/02/2022 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2022-02-16T08:00:00+00:00",
+      "title": "Le rescrit établissement stable - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjMwUV9IYXRQX0V4QW55X2trd19EY0RRMi15cTl2dVNnbjRpY1NnQUtuQ25xQ0hrSkxubXFEa0RiWGlaQTlfZUJmTUNScVFyNVF6ODJmSGFKaUhyUmFpTFJvaXhidzBlbmxlZ0lCVjdCb3ljZHRjZ2hhNjludmtCOXdJY2pVcG5ESXdXN2JtUkxQeFJmUnhLSGRHdmJnLWRVOW1rWFVwU2ZzQ0FrQWYwQkFPVWpyWXhGUXc3eHZqUTBWaU9HLTk2ZmpXWkRWVE9ZTncyeWRsWHpXd0R1dmc?oc=5",
+      "description": "Le rescrit établissement stable impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-13T10:15:53+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "Formulaire n°3233-SD - Impots.gouv",
+      "title": "Modifier mes prélèvements - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UbS1uNDNUNTc3TDVMLVhLTUVsZTRmZEhtcWVSVE9yeV92SXl2dTZmaDRzdk5acmFzSkNTazVCNjc5dm1hMEhuamwycm1qRWE1VEwxY1dPeWc0Z0dZU25RZ3hfWm1XSWhfUmpGdHdXVGpfZw?oc=5",
+      "description": "Modifier mes prélèvements impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-10T05:44:17+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "En tant qu'entreprise, quelles démarches dois-je réaliser pour bénéficier d'une exonération de l'impôt sur le revenu ou de l'impôt sur les sociétés - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFBQcm1vUzFxajhCdTRWSWFZQUN4LVhfeDFGdVFoWDhhb3Z6bnlRVThkNEp0Y29iZC1saXpKYWhZblRWY2lKUTNQRVBtVDFMaGs5ZTNMZ1k5TVpreUFGQjI3NUh5bEgwdkd2MFUxWEtPVEp5MU9PazU5bHR4R0k5MnRqSGdoM3dkOG1MdFNmLUtSdml6UUhsNVRUaVJUN2NjU0tibEpuTUlnc0Q2NVltOU1nSFF3WVlrb0R0NURaZnVILTg?oc=5",
+      "description": "En tant qu'entreprise, quelles démarches dois-je réaliser pour bénéficier d'une exonération de l'impôt sur le revenu ou de l'impôt sur les sociétés impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-09T23:42:01+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Formulaire n°3233-SD - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTFWVlNUdUFEN1E2ZUZTYzBWUDNoM1dzNC16WmdYd0xVVkU2cEo4UTJoNWFoTHRIMHhXNWlrbkJlWXk0Z0FISFdSZjliaGRDV1BGLVdSekJnQnI4V1RQYTljdnYxZVJ3bUJIclpRdTVNbmFLNmhyQWRWY0stT2NWMnZUdWprejVpZEM4ckd6ejBUUlBUN1cyRk9Ebmk4VGpxaWxOQllVQnI5TExxNnZZNHNNSEJCQQ?oc=5",
-      "description": "Formulaire n°3233-SD Impots.gouv",
-      "source": "Impots.gouv",
+      "description": "Formulaire n°3233-SD impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2022-02-09T21:29:52+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "L’attribution d’un numéro de TVA intracommunautaire est-elle payante ? - Impots.gouv",
+      "title": "Formulaire n°3666-SD - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUlBSUxob3dyWjhBNUdiN1dzZkxUSDBneTUtenY2NWlXVzc3V1VUUmUtaGxCMUt1eVVXWmgxNUVOa2FyUDBkWUFoQlo3bWVBRXR5QlZ1elR6Ykp6TWRpQTBhR19YZEN3VzZYdUxWSXI4dXp1eEtQSDZoQWluOUMxdXVwMUtuQQ?oc=5",
+      "description": "Formulaire n°3666-SD impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-09T19:32:53+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "L’attribution d’un numéro de TVA intracommunautaire est-elle payante ? - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmtLcm9NX1NCbXlPRk5VVmdQRjVnR0pYaDZoU2l3aHdnejkxeVVMbWFOZTFuZGlxRnZNZmQzLVcxVjNFTEdpX3owQ2hCc05lWUpXa2hfYlo0WkFIVEFWZU9tOTA4WlM2VVp6VDRJSloyLXlMeFhCWHBicWtmeDVYRWFONXVDaW5QbnY5Z0ROYUxWaXZoX2lVMzV0bEtxWktnRzFqaHZfelZSWHQ3OHBxX2dONWhQVjQ4?oc=5",
-      "description": "L’attribution d’un numéro de TVA intracommunautaire est-elle payante ? Impots.gouv",
-      "source": "Impots.gouv",
+      "description": "L’attribution d’un numéro de TVA intracommunautaire est-elle payante ? impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2022-02-09T15:32:38+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "Particulier - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EQ3NfT0JuRnFBVXpROWVoWFZETEdYMVdoR1JGbDZQQ0ZXZW1jWnZLOU1YZllEc1pmNmpjc1F3aWVIZ0dYZ3V1dWtmMWJFY0U?oc=5",
-      "description": "Particulier Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2022-02-09T06:44:20+00:00",
+      "title": "En tant que micro-entrepreneur, puis-je être redevable de la TVA ? - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMjFJYm0xWlVNNGY3TTU5RGV1eThkQjBNSUF6NktPcmtaN1dXZ2YtVzA1QWh4WG5ENTlzZEZjRlE1T1NSa1h4MW5YOU1EdUVVQ2hJWWZ0WjZFWms0ams0NEEwbmlUYlIwSHF5WjNMTjJNZ1EyWlM2Y3kxNVkzRGcyTzNsTWhqdEFvLXZIMGwxSF9MWXNNeVFaV0JvVjBYVzFzRlRfdENMeFVDbC15RUFaMG9HVzg?oc=5",
+      "description": "En tant que micro-entrepreneur, puis-je être redevable de la TVA ? impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-09T11:38:54+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "Contact et prise de rendez-vous - Impots.gouv",
+      "title": "Fiches focus sur les téléprocédures des professionnels - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CM1lfSnctLUxGRTlybjh1VkgtRlQ2OHBaekJtS1F2Uy1NblA5Wno5N0ZpTGFQT1NraW5lY3ZJeWFKc2hoY2NyREl1OUFEb3oxbE1GN21HZWhneDgzZ0hVYllyWUQtYlN6X1p3bzVrQQ?oc=5",
+      "description": "Fiches focus sur les téléprocédures des professionnels impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-09T10:19:49+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Formulaire n°1447-C-SD - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGJrM25yUks0SzZNc2JXaEJ2eTdqVmplTVBwQXRmNlRseWoxNGktNWMwcXRmN1N5YlB4TWVFdnVNYmhvazA2ZlRqVU0tQ3cwbm9BR0FNV1J2NnFHQ3o3WjBVei0yUEZJQm1LbDV0MHlQX3hxQ1FHMXpGUVNvS1V4eWlTbUNTdEZOQkc2b05wVXp0MTZSdHJ4VzFueWtRM2VoWUsyU3NWLVJKamM?oc=5",
+      "description": "Formulaire n°1447-C-SD impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-09T08:54:36+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Plus-values imposées - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04emRoUzRpNU5IZFFUZUlqSlFLTjlkSnprNjZGS25FRnFlX200bHVrcDFlOW1QSVZsRTRlbUpMUlBtVTFSajZYYUl5NklWR29lWG42Yk85bGluTlMtdlM2bVBGa3l6ZXR3OVJz?oc=5",
+      "description": "Plus-values imposées impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-09T08:53:36+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "J'ai besoin d'un bordereau de situation fiscale. Comment l'obtenir ? - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2ViVElEY1BLVmdBT0N3d3ZzUGVNUnFWUkktYV95OXk4STMyQ1JUZzhSWHBaek9xNlE5ZzZGMEZvX25tUGE1ZE1zSTl0bnc4cFZrMkVBOGJDR1JuQXB4Y0tWU295Y183NW4xOFhXVWU5Z29SOUNkSGFqaUN6enh5M3FSSWNjdmtrM0cybDhuZFdvVVNFWXFGVG1QMlZfWkJKZWlENFBScU9yVFFmd2l5ZQ?oc=5",
+      "description": "J'ai besoin d'un bordereau de situation fiscale. Comment l'obtenir ? impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-09T08:18:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Formulaire n°2735 - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOE9XME9ZaGJzZWt0UXM0blYtUlhSY1JISzFXU3FKUXRWQVVQTnBJNHpBRXUtYXVkLUZmenhieXppalA5dl9ZWTJoZjhnWVcwNmYwV0RfUWRnaFNCR19BZTZKNk1CaWFGWXNRNU5CRUliYURIczZFMU9vTXVISGNjSzdfRDdya09aX2dRSF8yV0c1anZxT3c?oc=5",
+      "description": "Formulaire n°2735 impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-09T08:10:49+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Contact et prise de rendez-vous - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sVU5rZG1GYXNFOWJMb25lY1M1bzE5S3ZVWC1NQ2oyWWR3ZWVXWjlJZ0RLMHNyOUlpV3ZlM0RFYVVCN3RyMHBESkZaYw?oc=5",
-      "description": "Contact et prise de rendez-vous Impots.gouv",
-      "source": "Impots.gouv",
+      "description": "Contact et prise de rendez-vous impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2022-02-09T06:44:18+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "International - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wOUtjZjRrTmYxcmVlb0stRXA3NkJkc2xIYkg2bF9zX2lxd2FSeWRUVzNBZXN2ZnVnYnE5aTBsRHdtNHIzQXk3N3VpNDRLb25SMEE?oc=5",
+      "description": "International impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2022-02-09T06:44:16+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
@@ -992,12 +947,12 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-LIQ-20-10 - 22/12/2021 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYURMdmRPcjFDWExMSE02Z3RNcS1XY1g5X1RMMFNfNFdTd1FOQUZLZDJqMFg3NkIwRFRqcGVOOGM1N3BsLVh1QmptTkgyRk1Sd21xeTMwOWVPMHdsSFAtM19EVEhSMDN0dzJrMXhRakROZVQwMGl5eldtb3RDa2trdHN5Y09xRDI3dUlhVy1WVXlLUmM?oc=5",
-      "description": "BOFiP BOI-TVA-LIQ-20-10 - 22/12/2021 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2021-12-22T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "Le distributeur John Deere Terre Comtoise devient Déméterre - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXp6UXlhUHlSb1pYaVAtODdJMnQ5X1RQZTZ2Z05FdVRZcXZKSlRVRXhmeEZ0Vkdfb1RwX09hdEhmUndqYldpM1pqZVB5NVRjSnlkb3EtU184UUlETVVhRU5VTjVoN1VkQWhzdXJrLVpadUliVFhyQUozOGlRZW5BR2tRdWR0UFRPQ2xNR25WQVBhNzBva3o4dmNWSGl6QXh5U1pZQXJVTTkzYUlhREU3RlN2d0U3S1A4YjhRMtIBwgFBVV95cUxOS3JJejNLZjVBdUJHbmxqNEE4R21Ed25ZM1FMTDJxT3VEOXdnNDVpUWQ1dWRHam5LajNSV2Y4c3l4YXZpbHBRczVrX2VVRWlqTW9zQUZmTk11RXZRUzE5eENVSGFPQWh6WFFjUDQ5a2FpMTlhTnFDYnY5UVNuN3AxZWNzVGtVV1EyWU5WM3lpOWtfLTl3TDNmU29tcWVvVXhkaW5ibDNLN3R6X0d4Y2hkZXZKNmpSZFBDRTRnSWRRSkFqUQ?oc=5",
+      "description": "Le distributeur John Deere Terre Comtoise devient Déméterre La France Agricole",
+      "source": "La France Agricole",
+      "published_at": "2022-01-10T08:00:00+00:00",
+      "category": "Secteur professionnel",
       "summary": ""
     },
     {
@@ -1010,146 +965,74 @@
       "summary": ""
     },
     {
-      "title": "Consulter les résultats du DSCG 2026 - Compta Online",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObno5OVpPNkNqQ2V5VXJBUW5aNW92MTRJZVcyOHFYZTh2dTg1UjRSUGloZW5fV3J0bUlNam95MUM5R0VVRWExbVQzczM3SnAyZHpRRUxxdzg2eDVDaVp3c0VnUUtDYXFNU2cyeHQ2VUN4QTJyUWIxbGVLQjRwS2pJaTBB?oc=5",
-      "description": "Consulter les résultats du DSCG 2026 Compta Online",
-      "source": "Compta Online",
-      "published_at": "2021-10-26T07:00:00+00:00",
-      "category": "BTS Comptabilité-Gestion",
-      "summary": ""
-    },
-    {
-      "title": "How can I challenge my notice for residence tax and/or the public broadcast licence fee or property tax? - Impots.gouv",
+      "title": "How can I challenge my notice for residence tax and/or the public broadcast licence fee or property tax? - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaERacDFISUZjWWlNWjZhYlhsSTBBMHZUc09OcS1YUHE4Mi1FREhGc3ZSdlFmeWFIc0dFUWdUUHhMVXBXWUNvN3ZOdmJkRjBfRmVxZTVzLVp5UDRrOWE3cnY2NzFCc1RROEEwOG0xcGxuYWIyQ3h4Wi1seHExME9VNDQwLXY4NjFQTTNtUElMSlMzNTJlSVVkWU5oYnNzZWFVSHVHZkstLVdWRzY1NVRueUpNYkQzcDBjOHlV?oc=5",
-      "description": "How can I challenge my notice for residence tax and/or the public broadcast licence fee or property tax? Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2021-10-05T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Payment extensions - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wNDE1c004aHFVOUM3Q2pMRG52RWJaTHJCZ1FZZzNRMW94NFVlbVFOdG9oUXdyclB6cEVJV1lVUTlOaUwwRkV0bXo4RXp4NV8tYTFncms5YjZqZEJzR1gxbzk4Q3REREgyYjJ4UGNJRjRScnh1WlB1dWJmUQ?oc=5",
-      "description": "Payment extensions impots.gouv.fr",
+      "description": "How can I challenge my notice for residence tax and/or the public broadcast licence fee or property tax? impots.gouv.fr",
       "source": "impots.gouv.fr",
       "published_at": "2021-10-05T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-90-20-20 - 13/08/2021 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeHVUVWlsYzgxU19YMTYxSGhKZVFBOUZ6dnlSVVR6UmJtMHFaZU9wXy1GRFdkREZ4a291RHpxMFh4cDFxM05NTVdvVUhLLW1pQVRrLVJBQnVsdG54MV9hR2JrSlEtemU4WWxndXdwMHlCb3RwUEo0Vm5jVEY2bGlhZ25RbC00N0M3T2lmZG9ZZC0tQmItY0dtTGJB?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-90-20-20 - 13/08/2021 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2021-08-13T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-90-20-10 - 13/08/2021 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjNQbUpLZDNueEdPOS1ONHRWTUxiZE1aME1rNEhlN1VqYTFaV1JyRnJCS1JnMW5VREJ2MXRCYmxKZDhaYzBWR1Z2aHlSSVJtSmctLVU1Vi05UFFkU0VqbTd0VEljT3hpdFBWUW5idkxJSk9KMU1mS1ptc0VUMlM4WUhZam0tNFF4UkdCaDRMN3RTazY0ZEFnaQ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-90-20-10 - 13/08/2021 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2021-08-13T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-LIQ-20-10 - 13/08/2021 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONDJYTTlJR3BVNV9VenpjSVpIM2ZKV2JzZE1NaDd1MXB4UlM5cVB5a1lEeER0dEVGY2F1SEx4ZXBweFdKNmUxZDZYajdZaU1nVGotWXY4cEJnZWM4WC1iTnRmd0ZnWEFDcWJJT2g5WVpDMGZGaDBJVmhtbTdFTVktQW10MDQzOXVXRk52dHNsUTZhVDA?oc=5",
-      "description": "BOFiP BOI-TVA-LIQ-20-10 - 13/08/2021 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2021-08-13T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-90-20 - 13/08/2021 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWURYekNfODZIQXprYmxCMGdKZjlzdFR3djE1bHlBd0RVdmxLZnpYLVRGSXBNSFJEaldFRmd6d3ltcjRhd1kwOFdPLVR4djBlc0VvVUp0QXZFUms3SWFTeTRKWVBZbmFlbnQ3N1pFWVJWSDlwNUlGTGtPVnFMbVRCTVlQb1BycU9SRmMzVllCb096NjRsYXc?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-90-20 - 13/08/2021 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2021-08-13T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT - 24/02/2021 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ2FROW05dXJjZzQtaWVqSjlUS0ZKSjFJQkRTMGIyY2FuVjdSMEZ6RXZTSHdKdGhsbU5zMGNlRzVzSW5IN0ZZYW9BTE9BT09QX2NxNW90VDJBX0FXUnhTSVgwMUVSN2VXVDdTcFFvTDZqdHJnQVNmTEdqVWlPQ25NdUJnODlKRE5XY1FCNQ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT - 24/02/2021 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2021-02-24T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-10-30 - 24/02/2021 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcW9yY0d5ZEwxTlh0dk1ad0xjV0hhRFVBUzJVMm11TmY5cnF0MGVhWVZjcG1rRDNXcHdsSzhXbTdDYnc0eVVMV1hUZ1Y3ZjdSN2RwajdMSzZhSWNPcVFHVU14WFVhb1V3SFRodHdFMk9IWDNtMmRCVU5zNS1EaU1kRVFuR08xV0dUMDd5aDNaZE1mVnkz?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-10-30 - 24/02/2021 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2021-02-24T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Les sujets et corrigés du DSCG 2026 à télécharger gratuitement - Compta Online",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85Nm52MVMwR0U4VlVRRkhPaTE3ekxzelhJR0pkQ1ZRQXRBcl8yVHowa1lIMDE2eWFDSU85WWMwYWgzTGhMN3VTRkNrZmRIcjhKcnJkRVh0QmRMU2V0OGhodl9MUTlVcTJPbGNJUTBzZ0JNYlVQN3c?oc=5",
-      "description": "Les sujets et corrigés du DSCG 2026 à télécharger gratuitement Compta Online",
-      "source": "Compta Online",
-      "published_at": "2021-01-18T08:00:00+00:00",
+      "title": "Sujets et Corrigé d’Anglais - BTS Professions Immobilières - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdWRMbU9rWjcxR3BGaUhydzlRTDEtdkpCdkVRazB1WWxtdDhYTlVtRnF3S084cHVCQmNWVVlLRUNVVk8xUmlOZVpUU1RicUlLbmh2OHR6RlkyOElraFN2dmdVRDRJd3JsZjNCZnpJSmxOWEhaR2NkLU5semQxeVBFWHM2YTMwdG52VUNSdGxPc0dNdDc0Nmt4cGJNanl1VVRRakpaUmZ6ZUptS2FqTG16Tm1zcjgwdXM5SWR1N19ucVkybFhKUnBReEJUNVVxV3ozYTAtRzRoYlB0amswSWdhMzRlWFVFWl9ZUVF4UzFPaGl6RndvZmROMW1zazUycng3ckZiaDBPcGVuLW53Zmsw?oc=5",
+      "description": "Sujets et Corrigé d’Anglais - BTS Professions Immobilières Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2021-08-24T07:00:00+00:00",
       "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-LIQ-20-10 - 14/10/2020 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3NYZXNWUmVQQnliYjd1d045cjFVV1FTSVdlSkNZeVM3MEVGandNYzVXMVl3Slk4WUJCNlY4YWNHSktmcXRaT0xXakxSenJZWnVIRWdsN2RRVlB5UWxCVVRqTlVjZUVQR1AwVWJVU3NqNjEwV0lUQUJzbEJ6VUl5ZjlVWHB5dGdid3JPNWZTZkp0Mmc?oc=5",
-      "description": "BOFiP BOI-TVA-LIQ-20-10 - 14/10/2020 impots.gouv.fr",
+      "title": "ameliorer lerendement de votre tracteur - Terre-net",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODRrMFJ5YzVHMlFESVZyaThmOExSVDE2ZVJDVVFCUDhqblhOMTJkVGFhNGhlQm5hT01OeHNZb2tuOFE0U194ZUVyX3RKUUhLbEZkaDcxWG5xRllDQ1Z5SUJfazhSa0k0WHVXY1pOYjJCRmJSel9fWXQ0T09jV2t4UjVUSWt2ZFhrTVZ5UXJaSWlobk9mc1lYT2xKSDEwWlI3Z01sVTAycHZzV1BaUGZPOVRCdGzSAboBQVVfeXFMTVJ4NXZ1T1p5MU9jdTNEZ2JIYzdHUmNyQWU1RDZ6MTRVNWF6aFlBeTdZa2hZRVpmOE5sd3BpMTZaamFVQzloTno2Z3lOVkJlNHplLU1KU1ZpUVMxZjdJU2Q3ZWpvekY4amZxd2JSSUNDdjFnRXFtajFpY3VVRkhjX3U0RjJlQVIybVl0WURkZW5qdUduclRGT1N5OERldFA0RDFVZ3U5aTd6WVpPQUV6c1R0clpIcV9aazBR?oc=5",
+      "description": "ameliorer lerendement de votre tracteur Terre-net",
+      "source": "Terre-net",
+      "published_at": "2021-06-21T07:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Comment puis-je augmenter mon taux de prélèvement à la source ? - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHJBU2VrQmVYUDNqMWswZ3h0aXFob3NaSGxpSlpkelprXzJEZmhkQ1Q2UmtUNUNmLVBQRGpOdFdGNUc5LXBLOWdZa0JqSDNIMktvbkVBZko3MFhZbko4aUx6TGR5a2o0dVN1NXVKdDA5RnREVlNLZS1CWlNQLTJLbFNjNS1HS2VFOGY2MXl0RTllUVBfOXYydVJsd3FZUURQemFqMG4xUC1zMWxL?oc=5",
+      "description": "Comment puis-je augmenter mon taux de prélèvement à la source ? impots.gouv.fr",
       "source": "impots.gouv.fr",
-      "published_at": "2020-10-14T07:00:00+00:00",
+      "published_at": "2021-03-11T08:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-80-10-20-50 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMkZVVWRlUXFvTlZoSDFYNXFQMkN2eE5tWWU4emZHc2NTZlJPV1lKQnk2c3JNLWR1MmQtYUtWYVp2SzVrN3dSNDBDOVhGMG9zSWhGR19mcS1XdzNnSVFYY2J2ZkdEeFN2dTQ3REQ1YV9uZ3dGYnpzdkVzMmNBSWNJODRFZjJOdTEta3NwWU5SR2xWaUtDUzVOMkJvTjQ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-10-20-50 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2020-07-24T14:26:50+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-10-30 - 31/01/2014 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGF0bGNLUUp1U1k3cHNlb3VIa2RzamRCMmwzbWJyMkxVd3lxRk16bnlwbk96dnRlTVlMbzAyOE5IREFCdS14dEFoUzlrSVE4VXhLcVR1U1liQzFwUjdvWUFxT1g2YkxJOFUtREd2elhwLUF2eXZaMHpVQTR4WkpJcmVKdEQ1dHVIVGl3WmZvU2Z1MDJMcE0w?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-10-30 - 31/01/2014 impots.gouv.fr",
+      "title": "BOFiP BOI-TVA-SECT - 24/02/2021 - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ2FROW05dXJjZzQtaWVqSjlUS0ZKSjFJQkRTMGIyY2FuVjdSMEZ6RXZTSHdKdGhsbU5zMGNlRzVzSW5IN0ZZYW9BTE9BT09QX2NxNW90VDJBX0FXUnhTSVgwMUVSN2VXVDdTcFFvTDZqdHJnQVNmTEdqVWlPQ25NdUJnODlKRE5XY1FCNQ?oc=5",
+      "description": "BOFiP BOI-TVA-SECT - 24/02/2021 impots.gouv.fr",
       "source": "impots.gouv.fr",
-      "published_at": "2020-07-24T07:27:12+00:00",
+      "published_at": "2021-02-24T08:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-DECLA-10-10-20 - 11/03/2020 - BOFiP",
+      "title": "BOFiP BOI-TVA-DED-20-10-20 - 10/06/2013 - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1FTRkRSNHZtMXg3a0JiTG5EcnFEY21OSUNwVjQ4T2VLZ09qcE5pbTh0ZEtvNmJLaVhKSU9MZEVldXJTVks5ZnFFZXY2c3dTMG1GVVBKSW96TDg2bmxPblJOUUJxQ3d4VFh2Rmxaa0FHTHpnYUpmeXRSdGJacTNmTHVnWXdlbjJzRGFQRzZTbWZIc0RXV3NJ?oc=5",
+      "description": "BOFiP BOI-TVA-DED-20-10-20 - 10/06/2013 impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2020-07-24T08:15:40+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "BOFiP BOI-TVA-DECLA-10-10-20 - 11/03/2020 - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUIwV1JrZkltTy16QU82ZkZqZF9MOVNxak9zZHpFaDdZVFpMdklMcHRKRWI4bklnbFNfdWRKQmh2RmY3NlZBdFVvM2dBWnJiNGlpMEhkY3RpMlgwV1JhbFY2VHFRZ05EanMxUkdIS1BUMGppQ01rb3lLM05OVmg0VTRodWdXSEEwV3pZSWpVWW03OHNzT1JfUmJ3?oc=5",
-      "description": "BOFiP BOI-TVA-DECLA-10-10-20 - 11/03/2020 BOFiP",
-      "source": "BOFiP",
+      "description": "BOFiP BOI-TVA-DECLA-10-10-20 - 11/03/2020 impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2020-07-24T02:42:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-CHAMP-10-10-30 - 15/02/2013 - BOFiP",
+      "title": "BOFiP BOI-TVA-CHAMP-10-10-30 - 15/02/2013 - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2VXQTNGR29ReFhDU1EtQi15cHE4OU1fb2ZyVVNVZGdLdFRhZV8yRW4wZ0F3eURQY0ZvaWlSUFE2blU1ZVZLdWctSjdPdDhUSXRvdFVja1FDRDd4MmhCQW9BY1ItTHBtZ3hvSjZkaC1IZThPaDVqdnYxMGZoSXc5Q1ZOMlhvVXdYOUxNTHdaMUlRb3BrLXE3NA?oc=5",
-      "description": "BOFiP BOI-TVA-CHAMP-10-10-30 - 15/02/2013 BOFiP",
-      "source": "BOFiP",
+      "description": "BOFiP BOI-TVA-CHAMP-10-10-30 - 15/02/2013 impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2020-07-23T13:58:25+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-BIC-PVMV-10-10-10 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTdzS2k3ZEozWTNWeVljWmF0eG5YMUVBNjdWbmxEeWJjQXpXc0x1eExSWDBJMHRzRDk0Y2ZtbnRJNjNhWnhGbk1IdW42VnhXWDFaUktha3M5X2ZFNDhVOHRUQk55M2Zsc2tnUGtGMkVCR09tbkxkWjdUMVVaRGRERUQwUEk0UFJEbXdBVUxiM25iZ2pIVXpqZQ?oc=5",
-      "description": "BOFiP BOI-BIC-PVMV-10-10-10 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2020-07-23T05:35:49+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
@@ -1163,11 +1046,20 @@
       "summary": ""
     },
     {
-      "title": "« J’ai adapté ma moissonneuse pour le chanvre » - La France Agricole",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDlZVVhUbjFmTHBNcWNSWVcwYWtCdFh1OHgtM1ctWFhkbHJYdEhLbUJ6eWZXQ1gzLXNZNVdtV0hTUlVhNlpuaGtWNThLVWxwckpKa2djcWM1aFlBUUNKVmFqOFBRd3dBSEl3SkZWQ3BYZHVoWjhPcFdoVEZoSm1ITGlvQUdCTmlLMjJRQVVFdU5MNk42Q3FTZHZtZjk5ZlZCZzdUY2lqNjJIOTJtWFEzV1ZFQ2dSU2RiaHfSAb8BQVVfeXFMTnRxd2lsQXpzS1Y2bWJYTlRDb1ZoamxxY2xpYnlJckxTTEs1R1UzQnNxdnMyOVR1Ni1BckpseHJvTzZybXlUQlhXYnBXeHVQY044anY3b2NjaWxzSDhpVmZhMnF4RG4xa0w0S3F5Wk8wdVp2OS1xZFVGYW1vcTdxckpxUk5wMVJOLUI2aGpBZ25wUGxFLWZqeUdQTDRvRG1tbllYMTBQUGRBTHZaZ0lOeGpPVmZBN0gzZVRHeGtXaG8?oc=5",
-      "description": "« J’ai adapté ma moissonneuse pour le chanvre » La France Agricole",
-      "source": "La France Agricole",
-      "published_at": "2020-02-14T08:00:00+00:00",
+      "title": "Vermande - Un tracteur enjambeur monorang et une nouvelle gamme de laboureurs - www.reussir.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmtaRVlVaWJNX0xadUFDU0EtV0RudEY4VF9JalRUNmdVRXJJcGxQYUdxSkN0czNrdloxbjEyeDczTTZzR1hrUDNRYU1oMjV2RFMyYjA4anBhcjZ4VjhZRWxPZ1FHYUhsd3JZdTE0aFhLY3dMb2RVT2FRV19hQTdsUU9CLUQ2T2ZYYnIzdHl6QUtZa2hTX2F2UnppT25nbXhPZjZIeWJQUnkxeDQ?oc=5",
+      "description": "Vermande - Un tracteur enjambeur monorang et une nouvelle gamme de laboureurs www.reussir.fr",
+      "source": "www.reussir.fr",
+      "published_at": "2020-03-11T07:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "À Paris du 22 février au 1er mars Un salon de l’agriculture pour séduire grand public et professionnels - reussir.fr",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMEJDeUw1LWlwVVNEc2FwbzI4VllVMDUxeUt6SFlTR0tfWDFRdEtUZjNLQ0lLVDFJbmdHUFVRWGt5RF9nT3dYdmk0VTd3RW9vYmo1Tm94M0dVX1hoTk4teG8zVlM3STlWaElPMHNITjRwd2JTRzhwS2tDRUZsOVRhZTNwSEJJcDlKQS1qR1Y5YTZ1TTkyVkRPck41WVlSb3FLTUE?oc=5",
+      "description": "À Paris du 22 février au 1er mars Un salon de l’agriculture pour séduire grand public et professionnels reussir.fr",
+      "source": "reussir.fr",
+      "published_at": "2020-02-27T08:00:00+00:00",
       "category": "Secteur professionnel",
       "summary": ""
     },
@@ -1181,11 +1073,11 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-50 - 25/09/2019 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkxPWnU2cm93ZUNJTHcwQ1o3QlREMk5SdXBrNE95b3ZhaHZnWXM1bjdxcUZNQ1o4d2tyOE5WNnZlN1YzczI4dG5oamhjY0E0WEZ4MGcyRDZlenFuaUYzQ2NnWUV6SW1DM1NKLXJjNU9UOTduSUNMbThrUlp6SlJ4RVdlY01fanBNQlJGNmt2aks?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-50 - 25/09/2019 impots.gouv.fr",
+      "title": "Accueil | bofip.impots.gouv.fr - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE92N0hZeXNBcXRVdktBN0xyd1FhbnZtRERxWGhMUkMtZmVPVEY3emMxZWQxSVRmejVVTThWZGU5OVQ1Zzg?oc=5",
+      "description": "Accueil | bofip.impots.gouv.fr impots.gouv.fr",
       "source": "impots.gouv.fr",
-      "published_at": "2019-09-25T07:00:00+00:00",
+      "published_at": "2019-09-06T01:13:47+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
@@ -1208,12 +1100,48 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-RPPM-PVBMC-20-10 - 31/12/2018 - BOFiP",
+      "title": "BOFiP BOI-RPPM-PVBMC-20-10 - 31/12/2018 - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbTRETWhDVjVVYWgzRlAwZFpuTnBxSVh4Tk00dG9GUjU2cFByeDhrbGIxME1FejUxemZfbE1WUk04c2pHOUlDOXpHUlV6c2tQaTAtdjI5ZFNUSGF1Y3BrNnJWMjNiQzF1QThWUkFQUURscEdjUDhORXZEdzNFbzdyMU41VFdFaDBlTWNZOVB4dC01cU5qdk5z?oc=5",
-      "description": "BOFiP BOI-RPPM-PVBMC-20-10 - 31/12/2018 BOFiP",
-      "source": "BOFiP",
+      "description": "BOFiP BOI-RPPM-PVBMC-20-10 - 31/12/2018 impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2018-12-31T08:00:00+00:00",
       "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Se débarrasser du stress des examens en 5 méthodes - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM3NtbXROblZsNWxpSjE1Z2xxUWRzQ0ZlTVQ1LTlBRGJ3R2NMRGRoQXpiaWVXc0I5a0tFODFGUHBuN0FWZzQzLWhiVnJENkNqVTEzSTNONldwMm5henZNWDlWdnZ1MWx2MTVQeVV5Z0lJLVo2cXJGNGxEb19oZUZhc0ZPTTg2YWt2NTZOSkNtTTFfYzd3MUpQc3dTRjMxWGh3MHdyOEM1T0N4QlJvWnBNUzZ1cjJKVFAtQUk2dlNhQlBsa2E4RGt2ZHI3ZDFEMHZ0NzVPZzB3MmdXUmlEMFA1djhqYTRNZU5mZWUyTGdn?oc=5",
+      "description": "Se débarrasser du stress des examens en 5 méthodes Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-12-03T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Couper et extraire le filet de la balle sans descendre du tracteur - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSERXNWVxc3MwS2FmSzZuZVRGR2w5ZjJYU2d6TGtvMFViZHRTUEZialZwQkM2cXpNMUJWRU45YjVoeFprWWZlVW16Z29qVVVWU0dPcG5aM0VZcU12RU9WeHp1NjBBenZuUVIwNHZlUVJNS2xnbW1DYktfVVRPRFd6TDQ3aDFFQVhqbWV0QndPSUtQVHRzTDM0SlFITFRJelEzNFNpWllCR0JOSWIzQmVHbDgzaWdDUjlHOWZPNTZsRUFXbkXSAcgBQVVfeXFMTTZXWXBRZTEwbE9tLTJ5ZnN5Q2NReVlMLWNZV1VFWnM5RWJyOFM1RXd0R2EzZ1RzRUprVy1QcFg4QjgxYXJEZVlZVVRhRDBXRUZyb3M5SVVzcHlWWVRiR0swdlFWMXVQSGhsYTNmcTdYdmFhU3oyZzVnNHNFbjNvRU01c2owcjZ2TlRTbDZWVkNnZUVnZVZKLXVTc2RGTVN2OEhxVHUtVXFTcU1XTWJfc05fTWF1b1BRbW16YVpHX0JfbHN0ZXdRc2Y?oc=5",
+      "description": "Couper et extraire le filet de la balle sans descendre du tracteur La France Agricole",
+      "source": "La France Agricole",
+      "published_at": "2018-10-04T07:00:00+00:00",
+      "category": "Secteur professionnel",
+      "summary": ""
+    },
+    {
+      "title": "Comment passer son BTS en candidat libre ? - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLU1iR3EwcHRtMWsyMlFlb0drVnR3LW9RU1FrRG5hTFZsc2c3UE5QbGtLS1B1Q01uMy1UajZLTHRhUkRmeUVpTXNMRUpkbEZFUFVBUjJjQ2lKNkc3OWlGY0JjNDhpZVlKZEYycTByMFZpQjgxaEJMRXBCRmRXUVIzWUNoeGtKcWVrdHZueF9DWUp3UC05a0ZVbzVLempuZmo2TnRBdzRidGY?oc=5",
+      "description": "Comment passer son BTS en candidat libre ? Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-09-26T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Lindner Un tracteur pensé pour le handicap - reussir.fr",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zdnJXUXlieDBneFRoUFF4cm1tY0cxeFlidmNlbHkyNzNqNTA1aUViYVUtNHVERjBpclJBRzRqeUhYY205WEFCQXh6R3pGMFdjZFNCTVNZSVV4ejdmb3ZNLW9yQ1luSmJUS3hkaldrSjdUaGdY?oc=5",
+      "description": "Lindner Un tracteur pensé pour le handicap reussir.fr",
+      "source": "reussir.fr",
+      "published_at": "2018-09-25T07:00:00+00:00",
+      "category": "Secteur professionnel",
       "summary": ""
     },
     {
@@ -1240,6 +1168,33 @@
       "description": "Les entreprises qui recrutent en alternance Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2018-06-10T14:44:24+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Réussir son BTS - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54d3hYX2hwUHBoTndUcFgxWEY3QmhQVkpqUmdRbFFxWF9nTjRKcExTeVMybW1RSktSLTZYbENHSDhZUmxxMHhmUVVqbGZiY0ZzVjg0dmJWU1VCNDR0bl93WHhFeFVjdWdY?oc=5",
+      "description": "Réussir son BTS Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-06-10T05:49:17+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Bac 2026 : les sujets et corrigés des épreuves - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXVfWV9FaHExRmNPN01lQmFqY05HREExZ1RCRG9rOVhqMXZ6MkRkemJUc1kyaGEteW5nWjVuT01sT3huaUxJSmZuZ1BOTUtadVBJS3hLQ2ZZRkpVTV9KS00zT05VRURPVVBSY2thVnB1cy1xLW9SUEx4QXdoT1FiRA?oc=5",
+      "description": "Bac 2026 : les sujets et corrigés des épreuves Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-06-08T18:14:20+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "CFA DIFCAM Paris : S'inscrire, Cursus, Formation - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXNZRlJOeVVVdHZXMkVMamNBUmlsZG5jMzhMcmlGcm1ST096LXdpVU1lRHhlWUJzS1R1U2tnN2RDajFLZG05Z3V5M25raENBNDQ1bUlMR0FUYS10bnFmVEVURUlILXBmbkpjbGJMUDIyb3ViT0VsTnQ3elp6eTMxVUltV1R4NHpvb08za1llTUJGazlhX19z?oc=5",
+      "description": "CFA DIFCAM Paris : S'inscrire, Cursus, Formation Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-06-08T18:11:37+00:00",
       "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
@@ -1280,6 +1235,15 @@
       "summary": ""
     },
     {
+      "title": "Anglais : \"Avec un diplôme Cambridge, on sort du lot\" - Interview - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU2tyU3pTQkRJbjBfS0pXeWZXRHQwYlMxaDBZN3FFNThMUXk5N0Q1Z0dkMTNVRXYyVnF1S2Z6QVZKWEIxQm9EaEZ3MjJWRkk4MVNyQ2VLNkRnMEk2eHFnYjNRTWNSQXVpbWpXZjBCZG0tZjNZSHhURnR4RjlhaWtlMDQweEZtZ1FkOUVRNGpoamthX2MtbDdzX2s0VFNlOVI0VkxzcTZqZm5kaXFwOWZ2Yks2SGNsbTdKeVNQV2FpLUVaa2dZN2FLcXV4ZVZLTHBFem1mTTdjSFBuaE1rQUN3R3paeUk1TnU5V2c?oc=5",
+      "description": "Anglais : \"Avec un diplôme Cambridge, on sort du lot\" - Interview Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-05-25T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "Sujet et corrigé - Anglais LVE - BTS Gestion de la PME - Studyrama.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaHE2VW9BSDN5aTdIeURoU1ZnOFlTaXVIdzJPbElmNUdzcFVCU2ZoUzR1aDBKdUZ0QzZiSWNqc1hJdFZrcjRhRjJoWHJxSGNVSlFEdjhvR1FaMUd0NURnWkZ2TGo0bUYtNWNyd0dVLUNaY2x0UzQ3aFhKbWdEOUt2OERaVEhiUDlQOHNxYjBMSzU4SmV0UjREMzBVMUJFQ2piNS1XOFd5RTBzZ0xwQnlHcmtfN3NGb2NjZmh0X2R3bVlIMUFEbjY5dW5tcndva2IwdEdnTXpuY2J6ekpK?oc=5",
       "description": "Sujet et corrigé - Anglais LVE - BTS Gestion de la PME Studyrama.com",
@@ -1294,6 +1258,24 @@
       "description": "BTS SIO SUJET ET CORRIGÉ ANGLAIS Studyrama.com",
       "source": "Studyrama.com",
       "published_at": "2018-05-15T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Sujet et corrigé d’Anglais - BTS Notariat - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSk5MX0xoYU94QmdTTm0wWWlIVFhvMTNocFpRRmhYVFNvdkEwT0F1akNLTGRJcjZHLUVCNDFxSG45MTBvMV9LbmJvU0Itb04wbnVYeEMxRlRvY0lubVIzY3ptVXcyWk9vLWZBbzk2RTVKcWVpallVNDRRQ1JUX2RuclFvdGp3b0dReFA4azJCRVBoSk9COXZtTkhXSkZxQm9pMXdJWDNmLV8xU1BZWFlkd2hKdnZkaTZ4Qy1lakdUdUNjekZ3NmtQbU1ZcGpJenZXZmVHZFpLdFc4TVNMMFl1aFN4X3ZsbHlzVDhNQnpR?oc=5",
+      "description": "Sujet et corrigé d’Anglais - BTS Notariat Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-05-07T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
+      "title": "Sujet et corrigé d’Anglais - BTS Communication - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdVhQSGxPTmViMmJvanVET2NIS2E4cHoyWXNIQTU0WXNzVzFyandqbkFYc1Nhanp4U2ZMaWNiSVphS3B5WEhEUG83VUo2YnBYVHBoY2x4YVhNVFFHS3ZCVGFqWEdvMW50RVRTcHBYVWNoek5sWGh4dnNCczk0VWdnTV9STVpyWXlhZzFaZ0NVY1BaUGFxcl9PSzJjS21FTUpHZFgycTJHV0E5UnYtU21hYlc0TVFENTUwNU5mN1I3azhsY2xvUnhycXZMQnVtdFdMbTFXS3YzaGFsWVlYdXhUaEVrSWVtMzFjSDdqUXNtcW9OaGhQRlA4WWtIdUltUQ?oc=5",
+      "description": "Sujet et corrigé d’Anglais - BTS Communication Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-05-07T07:00:00+00:00",
       "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
@@ -1325,6 +1307,15 @@
       "summary": ""
     },
     {
+      "title": "BTS : 5 règles d’or pour réussir l’épreuve d’économie - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQXzRvNUo1aENORTNxb2J4U3pZRTZGSnoyOXh3aF90MVM1enVlNHlFQWxoVlhVR051OFFOLUMxckdONktIdVFLZkJqa2lWMm5QYzQzTDMzX1MxVnp3M0R1bHlpemR4TERWWE1YUzRVcGtyOG9oaGNKY0QwNldhdDVUcmlucTMwR0lGU1JuT25PSkhTbGZrMlRTZlExaVhrOUV4Mk9EM1VOYTNrX0FyQlR5ZFFjME5UN1JNM2lJ?oc=5",
+      "description": "BTS : 5 règles d’or pour réussir l’épreuve d’économie Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2018-01-26T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
+      "summary": ""
+    },
+    {
       "title": "BTS : 5 conseils pour réussir l’épreuve de culture générale et expression - Studyrama.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUZZcmE1UXNHalU1cDA1dXlFZ3laVUxnVUU2MnJwWHJYWjBYOXg0VGE4MVJDRlo2WTRydFpTMnp3OWVHc3BrOUljZTZ1d29jRlhXS3VFWDY2VHZGQXRUbXV0TnlYbXFTYV9xaTdXblFrTDFBY2tPRXJNTEJ1cWlSUmktWTdxWVBGTGh6RXp0akdFTzVDd2lkVFFUMFYzMHJya2dRa2M4WWJFZGhiZUx4MmMxVQ?oc=5",
       "description": "BTS : 5 conseils pour réussir l’épreuve de culture générale et expression Studyrama.com",
@@ -1334,11 +1325,20 @@
       "summary": ""
     },
     {
-      "title": "Ecoles d’art et formations artistiques à Dijon - Studyrama.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYkFYeEVzNm1YN0dBOVJ5UWl5MlkzOHlpTWc5YlJ2aWNXUkZtbG96RHd4TEM2SWFFRkFaSklaWEw3Ynlxenp4WjlsR1laaG1IX3E3eVNBZmhpenJyQ3NuTU5YdXZQbFdZMzZaVHNYMkNfYU1Vc3FRRl9raVhKX01qV29OSXFGTERJZEdZQlBXTmhROS1kbWc4QlZyWUl3RWJvajMtRlloaFVnVVNyX3ZiTHl4R183OF84NU9CbEJPUk56T3V2LUx5TGlQRGVHMnh5aEE?oc=5",
-      "description": "Ecoles d’art et formations artistiques à Dijon Studyrama.com",
-      "source": "Studyrama.com",
-      "published_at": "2017-07-11T07:00:00+00:00",
+      "title": "Une direction dédiée aux non-résidents / Exclusively for non residents - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0hpVExWSjhDbFNrVmMxUXJnUHVtS2JWazVHbHpzd2ozaGJLWV9Jc0tTZS1qYUxja2FMV3pyNGVINmg5bUI3clBLV0xxRWVoWF9YZGYyZHZ0T2R1R0prclJKa2ZnRmpVMjhUbWR6Tjk3WUk2YlN5X2hGUU9GeF95Z1dwYXlReHF3REtoQkVoVm12SXFPMEE?oc=5",
+      "description": "Une direction dédiée aux non-résidents / Exclusively for non residents impots.gouv.fr",
+      "source": "impots.gouv.fr",
+      "published_at": "2017-09-21T07:00:00+00:00",
+      "category": "Comptabilité & fiscalité",
+      "summary": ""
+    },
+    {
+      "title": "Épreuve d'aptitude experts-comptables étrangers : tout savoir sur l'examen écrit et oral - Compta Online",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQURQc0dqbk9BWlN5SHg4ZGk5S1UwZEdJVnpUcXhkbXFUU01JcW1INkZNemJEXzBoTlJyTldCWlZnbS1iTzR5cmtTX2NFMExwVHAzS3lNQmUzbkdiZWNMTDBKaXdrQ2t6NlBfY0ZnNVZUU1ZuSWlaYjRLaHY2bVI2TFh2bGs3eDFsUGJJOG5tclZUQ3dZeVBtUml5V3lmRFU2dndRRGNSTWNoS21ENkJHMQ?oc=5",
+      "description": "Épreuve d'aptitude experts-comptables étrangers : tout savoir sur l'examen écrit et oral Compta Online",
+      "source": "Compta Online",
+      "published_at": "2017-08-17T07:00:00+00:00",
       "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
@@ -1361,30 +1361,12 @@
       "summary": ""
     },
     {
-      "title": "Property wealth tax (IFI) for non-residents who own property in France and/or abroad - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHphVDdURWtsQ0VfN2xpR19hV0xtWTlPOTBnVVhLRU1BX2wxa3dhVkQ2RFFabjhfLVE5U1FOajNRVmpmUmY0NnpsV0MwTmtvUXA2WWdDX0Z5TGhpanFoWFVzd3BTQVZKY2tEeDQzMHZzZ28yWVdhdVJGVGlxeVc2c1dZLXRJWkFKZjhVVUVkSTEzNGZOR011VTc2MDZheEhKeU9fSTZkUUprNWdHWGJJWUsxYURlc2FuS1JN?oc=5",
-      "description": "Property wealth tax (IFI) for non-residents who own property in France and/or abroad impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2017-04-25T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-DED-40-10-20 - 05/04/2017 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0JySm16NFd3dktyNXZvSC1pVGpVS0R6MERtRDRXTEhjSUk1QnFjdUhoWkxEanFMRUxad2FxSmF3V0labXRBcVZSMnV6cnZmd3libUJ2elNadjRTT1ZveUdsLXkyekozZnFCaEl6Q3Z1ZHpKd3k2TDhSbzF4Sk5BaW84ZHRVYV9CX2JRWkpVZS15aVBrV1JJ?oc=5",
-      "description": "BOFiP BOI-TVA-DED-40-10-20 - 05/04/2017 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2017-04-05T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "Value Added Tax - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EbUpDNE84enpsc28wRlVWWkFvZ3MzRThkN0ZqSU9nVE9LUzBySTdQT09fY21DYmNoTWJCdUxiRGJBbXdOOUNNdnVQYW9Sblg5MThZZVVybUNlQzFkbDFzSnpJLU10eWI0emVCTnh3dlh4elRwTDBOWUpR?oc=5",
-      "description": "Value Added Tax Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2016-12-29T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "BTS : 10 conseils pour réussir les épreuves - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUlRSbnRaUXN5YWxka2w5b1JKOVFMRGMxaEMwRjZsazA1VUpqcEtPMFEtb1kxaVZqQmlBWEo5bktUWmttSlRrVVoxcFFyZnFTbVE0SG5TTFBLOUtadUpOQ2JRRVNhelJMLUdqclJWOVlUVmhsTFU3TkZiWTd4YVhwVXhjdVJpZHIxdHNwLWVpVndCcE5QX2luZGJPM29GcHF0NHU2NUlSaw?oc=5",
+      "description": "BTS : 10 conseils pour réussir les épreuves Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2017-01-09T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1397,66 +1379,57 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-50-40 - 07/12/2016 - BOFiP",
+      "title": "BOFiP BOI-TVA-SECT-50-40 - 07/12/2016 - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNallKWHRjR09vX0RBeXp2d0plNTQ1UUhwbVBEZGFkLURNbGRHUk9YSDgxcWswY2hta2lJSzNsQW8taE5Wb2ZXXzA5Zmt0WlZYTm9hbEZDX3lhUEVKb2dxM19kU1d4OV9NY00za3o3bnlJckEtd0lmRVY4dExpOXowdnpjTzlKRGZUUlViX0xDM2pCejlG?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-50-40 - 07/12/2016 BOFiP",
-      "source": "BOFiP",
+      "description": "BOFiP BOI-TVA-SECT-50-40 - 07/12/2016 impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2016-12-07T08:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "Qu'est-ce que l'Avis de Situation Déclarative à l'Impôt sur le Revenu (ASDIR) ? - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTGJ3VG1LWU8xNXNYeGVaT1dYaVYybVRKekNCWWxjOThmWUkzOVFfVWt2WGNYbUM0OFpUSzZtdEswb1IzN1d4c0s0R1c3UTJ2VkQ3Q1RXYUFQNUs1RVhRZTJSZHhWR0lTWlk2Z2FXZjh0bUdON0ltaTZ6WkdPZ0pPR3J1Y0FfdW9hdjFuQ3c3ZncyWDZGeFFlbGk5blZZcVU?oc=5",
-      "description": "Qu'est-ce que l'Avis de Situation Déclarative à l'Impôt sur le Revenu (ASDIR) ? Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2016-08-18T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-70-30 - 02/09/2015 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdXlaQnlTMGM4cnBIUE9Rc2dra2hTVHF0T1BFWDhQQlNVaTh2cUJESmVSdmJRdVQ5VHBxM3k2a2FWRkNrcGFidFYzbUUzZUMzMUdlS0FqQkdRRGdUelluSlA3a2J3REtsRUZfQTZTYjFUTEpHZldxUlRBQWZ4OXlGblQxTThUMEpYMHl4RmFjQWtzaGM?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-70-30 - 02/09/2015 impots.gouv.fr",
+      "title": "Je veux corriger la déclaration que j'ai déjà déposée. Comment procéder ? - impots.gouv.fr",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmpOTmNmaHNRaUIweW90Zm1ZRTNnSVdsSkJVd3VRcWVKaTg1QjYyQTdaSm44MkVQTWtYVDlrV2lwamgwb0h0RTdDLVM0R1JkVGR0TGNuV3ZUZGQ2RjNQdnNPdXVTNExvR1hIRzh2NkdVZ1VLeGM2ZEFzNlA0U0xRdmFCVVJWbjFxZzBhbDdWMUtFOTgxLWMyVDZIdHdaMzhNYnZBUi13RkpSMU15T2lvTEtFYkhWekRSR0E?oc=5",
+      "description": "Je veux corriger la déclaration que j'ai déjà déposée. Comment procéder ? impots.gouv.fr",
       "source": "impots.gouv.fr",
-      "published_at": "2015-09-02T07:00:00+00:00",
+      "published_at": "2016-03-22T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-90-20 - 06/05/2015 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjJETW9kTk5GNVg2WXZ3dW83V1R5Y012d2R2NS1pNmtNeFlCQS1mWk1SLW01eXM0b1UyWVhvbW1WM0Mza1l1Y0xaT3Z3Szlfd25Wc2ZTazEtTTRRV3J6aE1HQ2NjLTA4UHR1bVRMUTFUU04wdTlKakpDRzFSMEJsR1lySDdJX0xvbUk4Yjhpa2RITmJF?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-90-20 - 06/05/2015 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2015-05-06T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "Un étudiant en médecine sur trois aurait recours aux \"smart drogues\" - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRFJuZ0VOcHhEZ2dHclRtYnRrazhkc3hUSVhuZVVacFNWcnFYRkY5cHBLaTNKOHlkSU9rUXkxaGQzOHZyWjc4OE5hNGpCOFU4UUFETzhqMkl6OXNoSWM0R1ZacFN1OUhBdTZvSW16Z3ZzYjAwV25jZXhPVHhlREtVdWMyVV9Qak5veHY3T1dvaXpDUnl6VkJLOFNqWk5NLWhSWHotU3NDOTNHbjBzbHlKZ0ZabXU2dE9mVG10bjZsZ0p6MGRjRWxUaWdRQlM?oc=5",
+      "description": "Un étudiant en médecine sur trois aurait recours aux \"smart drogues\" Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2015-08-27T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
-      "title": "TVA - Champ d'application et territorialité - Opérations exonérées à l'importation - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XNnAyWll3Z0Y2T1g2SjlGaUphbGY1LVgxUnYtX3pZM25PTjRXTHFEamk1R1Zqam5UMVltQm5GYXdmWGFtUk82TVdhXzl6d1djWVR6OXBrbw?oc=5",
-      "description": "TVA - Champ d'application et territorialité - Opérations exonérées à l'importation impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2015-03-04T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "Visite interactive de la cabine du tracteur - La France Agricole",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFBpTVJfbEtxcHR2Q2VIM1FHbndjdGV2UThNaUFXeFNydnRDZWctRmZpczhIWFlmbmY0Mk1CSmhVbVBTN0twR2RWaGNRSE5uS04zS3B4ejBIUmhNTFJhcG5xYzY5R2xyQnl6UzFLUzc1MVQ1NlVVaENuZGhBRmM5ZVA1cjhJX0dfRVNYZmZpeFd1SU1ZZFhOU2NxTdIBoAFBVV95cUxNTE4wdDZadW1lMGI4RkpsdW1vRFV6QWZNTDlnRGJyVXN4Yzdxalo4UDRtTnFvT1hIV2NGWExpQ25pWG51b21rWE05cEx6NGxYSGhPSVJicW1jMDdLdjMzcEVfMkZwYnZVVW92THdGd1hfbWRWZV93Zm10eE1oR2l2S1hwWTNSM01rYWI1QnNDT1BZY19pT25GT1ItbWxhX29l?oc=5",
+      "description": "Visite interactive de la cabine du tracteur La France Agricole",
+      "source": "La France Agricole",
+      "published_at": "2015-06-25T07:00:00+00:00",
+      "category": "Secteur professionnel",
       "summary": ""
     },
     {
-      "title": "Accueil - Achat de timbres électroniques - Impots.gouv",
+      "title": "Accueil - Achat de timbres électroniques - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wMlQzNVVGdDFIaGtrR2t3bFBjcXp2QTl2OTdXZHc0MXhDRkxHRm5NLWwtbXR1QWpDTlNLTTQwWkctV0M2eXc?oc=5",
-      "description": "Accueil - Achat de timbres électroniques Impots.gouv",
-      "source": "Impots.gouv",
+      "description": "Accueil - Achat de timbres électroniques impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2015-03-01T16:09:01+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-20-50 - 29/04/2014 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQkRjRmhvSmRVU3pEVVdRNEIyZmFYMDZQb1o4R2t6VFVOLWVlOGxCc3NBWnU3ck9IMGZOSkg1bFhUWVVWTmM4bnNhQVE5TVprYXE0d1RiRzk0bkNMd1N2UGFyV1hnZkx0WFFCcFhxMFdzTnFNTk56S0psTVlOYTV2Q08tZmVOSVdYcy16THRQM2V2UHBI?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-20-50 - 29/04/2014 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2014-04-29T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "Concours : 5 conseils pour réussir l’épreuve de synthèse de documents - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXVidlAtMEVwOXhlNldhdkUyYjhIUnlpdUFvSjB3cjFfXy1fUVZNS19ybndQdjZEWHpKNlhNY3VOZ3hiN0YxWklONlYxUlB3c25tY0hoQ0hlcEliZzRCQWhJWXZoNThrOFljVnlXcGdwOG40Q2NkZmFxRVFPc2E2dGROM1VpTDJzYkpOOWNsZFgyVkk4WElxRDZnSGUxVnkwdWZYYjZpbWVQV2FQSkhISTVyd3FNbWRKYllBRUQyalY1Tlk?oc=5",
+      "description": "Concours : 5 conseils pour réussir l’épreuve de synthèse de documents Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2014-04-07T07:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1469,47 +1442,11 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-80-50-20 - 04/04/2014 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTNTejh2Ukh4YllpUF9BMUdlSFM5bk02ajFEaENRYXNCaWF3LTQ1MTlQXzNCMUJObG1CMEw2WkV0Zi1weFIxTTY1WTJXLXZneG9QZFJHQ1E1UzItQXlIWVVJTFBUUE5hR1ptYm1xVGJlam5QN0V4XzNqbHJ6QmxfaVpFMXFKdnItTXF5QU5VM3VGT0IwNkkw?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-50-20 - 04/04/2014 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2014-04-04T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-50-30 - 04/04/2014 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHhJOUJKVFJRTHkySGdVUl9YLWRuT1VUX0RfUzdHZmhCTVp2cElfMWxEMXBlNWVxN2VTalZIYndZeGMybF9IUWdRQzlGMVc1MTF3aDM0MlRabmRmN2dnTGdYUndsdFpjZW8wajlSTzdMejZVOGsxVHNEX19MS3hQRkZtUEV5MmZmMVdTSU4wcFF3MDBiWDdJ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-50-30 - 04/04/2014 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2014-04-04T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-LIQ - 02/01/2014 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjJLRDFlUm8yaTRteUdaeXYtUEltaHBRR3hERUFSRmxuTVZ2LTl3M2NkNkU0VWlGRzJQZEFLVERHWUZpWVlRU3ZkTDNobkJodDI4VFNJcUVRSDJ4TlBCV1lXa05IZTc0ZzlDa1V6X2JQY2pFMThrbXdtTHRKZjlaU25YTzhmZHR5QVRB?oc=5",
-      "description": "BOFiP BOI-TVA-LIQ - 02/01/2014 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2014-01-02T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-50-20 - 23/12/2013 - BOFiP",
+      "title": "BOFiP BOI-TVA-SECT-50-20 - 23/12/2013 - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNnJlbmdnQUFobUFYeWRoME9XY0JQQzJkQ1J1djkwRjNCdW9sM2ZjRjNGZ0w1dDBSalVENEN3bVp5ajEtUXNaUEN6X3VZT21NWEViME1YSTZ1Q1BrbzNzVEZZV1BQQWpQLUhxRXNob25pbG1Lemd5QmlmcXBZbjV4bW5EeEJUTFlJdkZ6Q1ZlNTRwTUVu?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-50-20 - 23/12/2013 BOFiP",
-      "source": "BOFiP",
+      "description": "BOFiP BOI-TVA-SECT-50-20 - 23/12/2013 impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2013-12-23T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-CHAMP-30-30-10-10 - 18/11/2013 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMzFvamV5d2UtbTVKRXAtdC0zX2dJaUNWSGllVkhFdUhQZHF4d3hvU2pmUjdDenZNMWlWbEdydzRJNEZqSGlLOGVTY19UbXhQVWtYUnNLQXVCbFlpSk1ra1ByTGUzb3IwYmdURlhuS2t0eFNIamI4Q0dYSE0ydFFFMUlfTEx2U21lWFNxOWkyRDd0dG9SRlpsTFl3VTZadw?oc=5",
-      "description": "BOFiP BOI-TVA-CHAMP-30-30-10-10 - 18/11/2013 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2013-11-18T08:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
     },
@@ -1523,12 +1460,12 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT-80-60-10-40 - 28/01/2013 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGZFbzN0bXFsZ0JKMUlKV2VfOGNSTHlHaUlFVlhrb0RlNGdRUFV4ZUdiZzdpaTRXOFpKVzVkQWQzNFp3c0Y1Q1p2RGxEdFJQUmdrMlZNM2c2cEQtSkJPOWw0bThQOWJlX2ZCMVN5ZkdIc0FZWkh3Ri1qQ0QxRUhoWXJmR2lNc3ZGSVUwMXRWV0tGcG9CUlpDSnVrRQ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-60-10-40 - 28/01/2013 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2013-01-28T08:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "CAP Doreur à la feuille ornemaniste : formation et débouchés - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTF9CbUU4eWZVT3lvUm1YY0Z4a2VJZVVEZEkwSnJrZVJldlZISEk3Wjd0NGxyakR3cjlIbnB0OGE2NW5BUDFSUVNQYXpKaEJUdVJIOUdlbFpYTnFGbGduNnJiNXhnRmVEVnlaYzQ3U3VwSC1WS0hMQlFBaTVXZGdxUTg1enFPNWpmckxaMWJ1WURhUzVlUjBtNDh3?oc=5",
+      "description": "CAP Doreur à la feuille ornemaniste : formation et débouchés Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2013-01-23T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1541,10 +1478,10 @@
       "summary": ""
     },
     {
-      "title": "TVA – Régimes sectoriels – Régime de l’or industriel - BOFiP",
+      "title": "TVA – Régimes sectoriels – Régime de l’or industriel - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85VldQYWd6dVhjUDFpOU5lRWJyLTJjNlBWRE9IWUJqR1owU200VmphQXMzdzlIdzcxR3FtY1VwVXpTb1A5MGpWTkMtS21sNUM5VGw4UUhvOA?oc=5",
-      "description": "TVA – Régimes sectoriels – Régime de l’or industriel BOFiP",
-      "source": "BOFiP",
+      "description": "TVA – Régimes sectoriels – Régime de l’or industriel impots.gouv.fr",
+      "source": "impots.gouv.fr",
       "published_at": "2012-09-12T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
@@ -1595,226 +1532,10 @@
       "summary": ""
     },
     {
-      "title": "BOFiP BOI-TVA-SECT - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWVPZEVVOGlzVlVGR1l0RG82ZGVTR0tueTRJSlFoX3hhV0Z6QzVYX3ZJSHJhdnYxczNmaklLSlU4Y3YtOTFWMFNicWluWDB2UmRsS0VPU1I3SHZBeV9yZVFRcDdHeXJHX2ZYZGw3WFhLVkxtaVRseVlQVlppWDI5NnBJTlpkOV9qMmFrMQ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-50-40 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXpjbXQtQU41TTU4VVBRcEFzY2dDcC1lUEtWdXJHUXFnbVNmSGYzSVhMYWF2VUhlUzRnX25qdFJwc3Etd0lvSndVdGtnczdlMDJnQXU1TDRRNlQzbWVwdDlSWW1ucmJUaDgtWnptTGdrdGZBSTZ0a2FvVmdMWE1HcmoydWl5MVR0SjRzU29HbGd3Nmkw?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-50-40 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-30-30 - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlpGLXpoaURob2tWM3ZaTXNIVm5oUURqaDlQZGI0S3hUel8wVlROaW9aa0U0WGJxaFVtbW50aTlVWnQ4RTVmQWpQelNhQ1lyTEpfemM0a0NQQ0llMDVhWU5VN2FiRnhwcndsVWRVYkowb1FVWC04SXdPVEJtMW9DNHFRak5MMy0tVjl0OGdlUVp4T0R0RGh3?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-30-30 - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-50-30 - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYjZJeGM1QTMzamt1TjZSR3N5dnA3TG0xZFlhQnd3dzhvZmVRM3RZU19CajFRWUxEOGI1U3FLaXhkREFrUWkzMWdvMlg5SkVMejdYd1JNM2o1dGIta1J0YWw0LW5OTVc0STZWTzNlT1Z0TExjSUFfamxwSzJyTzlqYW5aQ2dzejR0cFc1M2Q4SkdUdjZ3?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-50-30 - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-60-10 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzFJbHN5YWdoUW5WcnVCdWN4NEdQeHpmam1vRmphRk51aUJlMUJjTWZuc3N1UlJ3S2pCYTM2TkRqQlMyVklEeEE0b1dobmJBZjZvZklwbkNfNFMtLWh4R1BZUTBCdTNvbGJDX0R1N1QtenAxSTB6dEdSYnhwZS0xNlE1TWwyczdYeXRTQzFuR2FkMWQ0UjhtUA?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-60-10 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-50 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEdCdXJoTmZYVE5rTF9RN0g4N3ZNZXpraUFCVVkyZEM5RmRIcWh4TV82TTk1cXlQNGZEN2g5YTNvaHhlMDYxX21abjQ0Z0xaV1ZES2RlU3F5R3JUZUhyNUFFU1MtODVCMHRKczR1REhZcGIwaFdkejBYbTNhYUFDREh4LWhGME5LbFhlR3U3Rjczdmk4?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-50 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-60-10-30 - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcV9HdXIyS28yNm9kME8tdndHVHJiQjM1OTdjd3U5aEJvOEU2Qll4RUxZYUlJT2lOaGpNM3JvcHY3SUtNMUc3SzcxRGJQQkpleDdNNVVhMmVMRTZDT3laMHBJS0ZqeGNpVEhNd2FRbFMtNi1Fd3VMdjY0QnU4cGRXZVgwVzVXX0d4V0tBSGFrbmJNSzVYX3EtelhXQQ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-60-10-30 - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-30-60-10 - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHE1WGQ5bEJ4OFhENUVTLUw1d0pMQ2dsclk4S05paEwyU3d6SHJDLW95ekJrdWRhYWp0bHU5LU1TM2ROVFAtUDJhX19xNXFxX1E5a0RERW5yZnR2M1dlWVZWOUt1bzk3eGpWbmpxMFlPMHVYclBUSUFMY1hGWmU5b3VQQnQ3UndwWHdqTzhjQTVJbHVSOC1EZ3psQQ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-30-60-10 - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-CHAMP-30-20-20 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYUVxbUQwQ0pNTFlCaXBjNnl5ODlZNlAtaHRLMGpHcm9KM1JaYUVkOEhQOHNoU25tdGJPbEE3NGtnSVdkVnNGanJzbEdhUGZhcU1lRnR5cjdlcHRyT21xS2FJQUNib3M0OHc0TUVqWFcxNHg3b1RVMmNIMmpEUVBnSmlaeGdIX0JSM2dnLUlrUTZmVFppVmIwSw?oc=5",
-      "description": "BOFiP BOI-TVA-CHAMP-30-20-20 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-40-20 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTG1lbmJicmc5WGtyU3pvcXB1U0s2QlJqZDRiRmZxd0ItdWxQdVRyTW1kOFlDcnVWbUdvYkoxR2R6X3hzNjk0RTdHWlVaZVNFWDBoR29veUpQNWVHMlFmNEtiUnJ6YVNvZXNvNFo3T2laaEJZRDhFMUtFWlZtdEE1cEpLcXh2Ql9zZjlmZk1ON3dvdTBna2pv?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-40-20 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-20 - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQzZmTGZBeGZtaHZhcXByMUxLVkJQTHd2dFl6WngxZ3ZBY0lHeXlubkxydjNCYzR2bUk1dDlyMXpfNzJRRjQzTjdaQjZBVk9Nemh3YzNWc1JONzFPeVdUbFhPWmctNzg3OHVmLU92YUplNWgtTGZwX0pmVmhGMkJLZnZqVTZrejROOEIwd29oTXVZbkE?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-20 - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-90 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3djb3EycEJ6VXpnSTBDaWEyRTFvY2xtdWhzbzFKOWd3Zi1ldGp4Y0V2R0JhUmx6bk5FWVFIVEZJRlhRcnlDbEFjbGRYaFdIYjZEOGlvTXFaaDA5OWdTQzdyT0JlTi1DTDBDQUppb2lZNmlqbExZWUg4VTdGNVdld2g3MVFZTFk0cFgtZzJzRno?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-90 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-20-40 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFZuNzVYcFctdjhrNllpUDJFTjZvbHMwdldfOUpUNTZmaVNEZ25JaEh1S2tPNkJmQzVsaUhjMW1FLTZMejB5Zmx1c3hKRzF2RmxmY3o1WjlOVkROS29saXQ1dDBvREFVV0F3cV9vRkdLUWxRMlZaT3NRS2ZSY0RveVI4d001Mk80T1RGZV9XZjVoUjdQ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-20-40 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-60 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdF96a1E3NVdmejZ0T3I1TTVsNHhnQTVVcENsazYzazZVTkJfc3ZkRUlmcmdqdWpmT2JldzBqZEctczkyOVNHNUt0aFNqSXFVc2tsMHJNNVRkSVpUbnZsYVJKa3Y3VXZZY3V4Slh1NVRCTXRpcVZSelkwVVJNYUVqaFBaUDZHcWJtRElFYUYzczM4cVdK?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-60 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-30-60-30 - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWTg4Ul9MWGNfYVRoMjB3N2xaX0YzcjdyTzlmR19nbFZxOUhobW9lc2FiYnA5ZElNaWVTUW12VVlGM1R0NzAwYXFmUjExUDNocmFPTzhzbVZhTHBPUFVfcEdEdHNpMlh6OENCVkZkMGN2VXVzMUpkV2UtMzF2MmdZd2d6OE9YMVdiNWJycUZmVEdTanVUVHlsRVgwOA?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-30-60-30 - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-40-10 - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkh1TXAtdGZtX18zeHNaT01jaDRyd2FnLVhldXpad3VFSlBWQ0pvRlhmRFZBZ29TTW9rX2ExTXBDSmQycjVFLXpKQUp5VlE0ZlBhRG5OcjlaWjMtOHIzSGdlMVNUSW1Gb1dwRTQ1dkd2ZmV5cnNNNGV4YkpObHRvOEg2c3BkbnhUSEU3bjNPWnU0X0E?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-40-10 - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-60-30 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3BrQjltNEItSFEzX1Y5VURYLUgyaFdvbDh0TkdpV0I1VnNjOTI3YnhLSTNnVUlWbWhWZkV4ZmlwUC1fbXVSYndNYTJ1MDlyTDFLcktHMTBCcExLWklac21sWkhnMnJNZXZTVXpTenBCTUxsY3lud1F2eFJfR25ZSmhIYmZReHhZSHVxMWxzUTV5ZlVQbEJR?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-60-30 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-CHAMP-30-30-10 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1c2Yi1taDZWdGttWENMM2ZRbldtWU1LVF9YeWNKZVZUZ0V5SFl3U1NhdW81eGRIcmFzd015TkEyQVU4MHo3RmxHVDVUOU51SlVfTzhKLWlTRER0b05fd2JvaWJBMU5zVS1KOHZORU8zTENzZTFpNThVa1hOMGdBVEFIOFZSM2thS1JwT2xRNV9Ldkc3cXc0bGVn?oc=5",
-      "description": "BOFiP BOI-TVA-CHAMP-30-30-10 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-30-60 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQczVxc1dLY2w4WkxxaEV1WmxFRWdvamFwbm1IMzBlMVdHMlpidUlrNzI3R3ZQbTVDOGh1cTRrendKVFJ2OC1ocUE3amFRQ05FZENYSmtDVzNtcUxnTy0wNXNXVVl4UUVZMmVLNFM1NmlCRk1RaHBYNE5FT2pJYWQ0dVp2N0pEZ0YxbUk5bXA4bVI3dlNXdlF6aw?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-30-60 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
       "title": "BOFiP BOI-TVA-SECT-90-80 - 12/09/2012 - impots.gouv.fr",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGE4YkNtVmpKR0lYanRXbDYtNzF1aTllZTA4MGQ0dE11RnRwamQ4LUxIUHhiLUdzOHhsdFNmZGRvbFpPckxaX3M2MkhKejVscks5SlpPV2VLZ2hjSVpPNklqX2VHX0M2b0h5R19hTHVraDQ4NDZBRVVMVUdfdFZUOTYtb01TYURmNlMxMTlISzZNRGRF?oc=5",
       "description": "BOFiP BOI-TVA-SECT-90-80 - 12/09/2012 impots.gouv.fr",
       "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-10 - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQkQ4VnhEY0phQTB3SGI5VE9qX0Z6dXhUTlpZdFdKSGZJa3lsWTVxQl80ZzRvZXRKVkVTQmg0U1JMYTRTSm9PdUdWRFBUdGlqR3NISWdCQjdfS2wtWUNkQ1lPcEtXaEtRV0V0QVdZdC1lbXdoYUxsNGtWZUJmcUZDS1JfVTJFc0F6bGt0R1Z2NkpIOUk?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-10 - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-80-60-10-20 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQk1VSnhVMFFfSmxicmdlNjJ0UjkxZF8xVDJ4eTlmTDM3ZzV5eXBjU0M3UVh4b3hOT1dPeERyMWhNUkZ6cDVyVG5VQ19Zb3NiNktSZWlLZTM4SWdpdnNuQWVkRElUQ0c0a3ctZnBSZVo5aEl4UDdhQktGcTFyQng0NUFlODJrS2xHUkp4WTNTTk1qcHlKUlNoSmxGUQ?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-80-60-10-20 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "TVA - Régimes sectoriels - Opérations bancaires et financières - Champ d'application - Opérations imposables de plein dr - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02a2I3S2s4NFVCZ2pEcWQ4Sy1rWU5DT0RNck0ySFBJSkl2ZV9wdmw3TEg5SUNxT1FPVF9nN0pLY2hDQ0dVczU2Mm56eFdLenVkNVFJR0Zpbw?oc=5",
-      "description": "TVA - Régimes sectoriels - Opérations bancaires et financières - Champ d'application - Opérations imposables de plein dr impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-40-20 - 12/09/2012 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUExVEF1Q0dBYzB0OHFUZ09aR1RFWllfUzVCY2YxQjlGd3o2aldqOGZIQ0Jfc2t2eDZGMXp3TE1Hd3BQZ21pMHktQndvc25lR3FWbThNMldoMmhCUlowRHY1dUpNZGEwMVNNWEFiNDhNTVhtLXhMekNfSXpXUTRsZGhRSVZsR0xvS2g5MklzU0FnRlk?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-40-20 - 12/09/2012 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "2012-09-12T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP BOI-TVA-SECT-70-10 - 12/09/2012 - BOFiP",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUlF0dUVsSmlwMlU2c3NIbW9Mdl9DYVJzaDJJZEptRE5QTlJKc2pqYlRmQ1poX1ptbDVGaFNrb3BzMFpEX3NuQWd2N1B0eklwN1pDN0hIblZMYWkyQlNKY01DeXJvX2N2NExhVHVJdVlNRkxmd3Y1TEdHZ1FGU1NtMXJRUWhDdU9fbWJaSUk5RUh5dEE?oc=5",
-      "description": "BOFiP BOI-TVA-SECT-70-10 - 12/09/2012 BOFiP",
-      "source": "BOFiP",
       "published_at": "2012-09-12T07:00:00+00:00",
       "category": "Comptabilité & fiscalité",
       "summary": ""
@@ -1829,21 +1550,21 @@
       "summary": ""
     },
     {
-      "title": "Le site impots.gouv.fr est actuellement en maintenance. - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5xWDRZa2hkNkxvMnQxUi1OaE9JZC1qYXVaSDQtVWg2bDMybTZfZlVWb2xtM0R2WF93RDZ4RFdtYkg?oc=5",
-      "description": "Le site impots.gouv.fr est actuellement en maintenance. Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2006-05-10T15:13:54+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "L’alternance en 10 questions : redoublement, emploi, droits - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0w4Yy1jOXRpaXZtYnlQNWVkZG5mTklUaTBJYi1FSjZUdHE3NV85UHBCWXZTaDJXaWYwR0czZWtqWFV2TVNsS2tQb3hnN0VmRHhJcnMzU2t0eUFhUklpRjNTRm1QUGVPakFNUnZYMlFYTWgwZmxRcUhYMmJiWnhER2NMWmZrOHMyYnJoaWtLcnpnMzEzeHhiQUpRUE5vWEljWHJoZVFzaEtMdl9YTVk5SXpON005djg?oc=5",
+      "description": "L’alternance en 10 questions : redoublement, emploi, droits Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2012-02-29T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
-      "title": "COLLOQUE AFEI - Impots.gouv",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFFFSDhLVXpJTWpIU0VTY0E0b0g4bkxkU1hnQlBDVEVCamhrTktpLVh0bWtkeVh0anRrd1pKSHY4aXljWHAyXy04ZFVxcVloekxEcEN6SWlPZ1B4QWJ4SFE5UHVjVDlPRW94aXZwNjN4MzQ1b1J4amh2NzdRY0pYeHpLM1NOck9oeVhSMFJIdUppV29X?oc=5",
-      "description": "COLLOQUE AFEI Impots.gouv",
-      "source": "Impots.gouv",
-      "published_at": "2005-09-27T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
+      "title": "Métier Concierge de grand hôtel : missions, formations et salaire - Studyrama.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUkFsQ0hjbVJoUFpGUzlHeGFWS1laRklQLTFGSHoyY2x3QUY1MXRWVmRZazhybHFvZzdmUWNGSmw5amZGZFlBRGh0aFFZb1doVHEzWHJrS0hmMGtsNHlPUVJWUnJiV0VtMHIyaVVEdUh2cXFpRklCeGlhbTZvNS1pYW9Qdm1QdWtOY2pxSnJhc0hmbmJISEFBV1I4TTlLTHAxLTByeDBEbms?oc=5",
+      "description": "Métier Concierge de grand hôtel : missions, formations et salaire Studyrama.com",
+      "source": "Studyrama.com",
+      "published_at": "2011-03-10T08:00:00+00:00",
+      "category": "BTS Comptabilité-Gestion",
       "summary": ""
     },
     {
@@ -1853,24 +1574,6 @@
       "source": "Studyrama.com",
       "published_at": "2005-05-02T07:00:00+00:00",
       "category": "BTS Comptabilité-Gestion",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP 3L1437 - 10/05/1996 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaVEwdWZBd2NSTWRRZWNlODdLV0dtcWlNTkh1ZDYxMUJ1TWc5WVlOOVBpTzg3azBxbEhVMDZnYVFDOGxUVlNHNHc0eFpSdzEzcE10YXd6bVlCRkZnR0lJSzVrNS1CMXBaV0tWbDEtNy1hc2JaUjh3S1N0bHo0a09XYS1seGZsb0ZHOWFQMlZ6OWlGYkk?oc=5",
-      "description": "BOFiP 3L1437 - 10/05/1996 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "1996-05-10T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
-      "summary": ""
-    },
-    {
-      "title": "BOFiP 3L612 - 01/05/1990 - impots.gouv.fr",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0pJZzVsUWQtUjdYa0g0Rzh0Z1FVeUF3S0NEX2VhckRlQVpqMmtoTlA0eGNCUVg2SVQ0ZTRRT1hIdjRMVHc4YWZXd3VNelhUUl96WEdQUzZvRjlLMEw0WV91eWZRZlljMTF5aEw2UkRyZzNzcU9keWhHR3RRM3hnSC12TnVWQUVwTlBsejRueTB2dw?oc=5",
-      "description": "BOFiP 3L612 - 01/05/1990 impots.gouv.fr",
-      "source": "impots.gouv.fr",
-      "published_at": "1990-05-01T07:00:00+00:00",
-      "category": "Comptabilité & fiscalité",
       "summary": ""
     }
   ]
