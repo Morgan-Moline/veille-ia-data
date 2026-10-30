@@ -92,6 +92,7 @@ CATEGORIES = [
 ]
 
 MAX_ARTICLES_PER_CATEGORY = 100
+TARGET_SUMMARIES_PER_CATEGORY = 8
 MAX_DESCRIPTION_LENGTH = 2500
 
 
@@ -275,24 +276,50 @@ def main():
         article["summary"] = old_summaries.get(article["link"], "")
 
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
-    limit = 8
     summarized = 0
 
     if not api_key:
         print("ATTENTION : secret GEMINI_API_KEY absent.")
     else:
-        for article in articles:
-            if summarized >= limit:
-                break
-            if article["summary"]:
-                continue
+        # Chaque catégorie dispose de son propre objectif : une catégorie
+        # déjà à 8 résumés ne bloque plus les autres.
+        for category in CATEGORIES:
+            category_articles = [
+                article for article in articles
+                if article["category"] == category["name"]
+            ]
+            already_summarized = sum(
+                1 for article in category_articles
+                if (article.get("summary") or "").strip()
+            )
+            remaining = max(
+                0, TARGET_SUMMARIES_PER_CATEGORY - already_summarized
+            )
+            created_for_category = 0
 
-            try:
-                article["summary"] = summarize_with_gemini(article, api_key)
-                summarized += 1
-                print(f"Résumé créé : {article['title']}")
-            except Exception as error:
-                print(f"Résumé non créé : {error}")
+            for article in category_articles:
+                if created_for_category >= remaining:
+                    break
+                if (article.get("summary") or "").strip():
+                    continue
+
+                try:
+                    summary = summarize_with_gemini(article, api_key)
+                    if summary.strip():
+                        article["summary"] = summary
+                        summarized += 1
+                        created_for_category += 1
+                        print(f"Résumé créé : {article['title']}")
+                except Exception as error:
+                    print(
+                        f"Résumé non créé ({category['name']}) : {error}"
+                    )
+
+            total_for_category = already_summarized + created_for_category
+            print(
+                f"Objectif {category['name']} : "
+                f"{total_for_category}/{TARGET_SUMMARIES_PER_CATEGORY} résumés"
+            )
 
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
