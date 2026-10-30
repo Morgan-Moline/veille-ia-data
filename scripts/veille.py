@@ -4,6 +4,8 @@ import re
 import html
 import urllib.parse
 import urllib.request
+import urllib.error
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
@@ -144,8 +146,26 @@ def fetch_category(category):
         url, headers={"User-Agent": "VeilleIA/1.0"}
     )
 
-    with urllib.request.urlopen(request, timeout=30) as response:
-        xml_data = response.read()
+    # Google Actualités peut renvoyer temporairement HTTP 503.
+    # On retente plusieurs fois avant de considérer la catégorie indisponible.
+    xml_data = None
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(request, timeout=45) as response:
+                xml_data = response.read()
+            break
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError):
+            if attempt == 3:
+                raise
+            wait_seconds = 2 ** (attempt + 1)
+            print(
+                f"Flux temporairement indisponible pour {category['name']}. "
+                f"Nouvel essai dans {wait_seconds}s ({attempt + 1}/3)."
+            )
+            time.sleep(wait_seconds)
+
+    if xml_data is None:
+        raise RuntimeError("Flux Google Actualités indisponible après plusieurs essais.")
 
     root = ET.fromstring(xml_data)
     articles = []
@@ -247,6 +267,8 @@ def main():
     all_articles = {}
     errors = []
 
+    previous_articles = previous.get("articles", [])
+
     for category in CATEGORIES:
         try:
             category_articles = fetch_category(category)
@@ -259,6 +281,19 @@ def main():
         except Exception as error:
             errors.append(f'{category["name"]}: {error}')
             print(f'ERREUR : {category["name"]}: {error}')
+
+            # En cas de panne du flux, on conserve les articles déjà publiés
+            # de cette catégorie au lieu de la faire disparaître du fichier.
+            fallback_articles = [
+                article for article in previous_articles
+                if article.get("category") == category["name"]
+            ]
+            for article in fallback_articles:
+                all_articles.setdefault(article["link"], article)
+            print(
+                f'Repli : {len(fallback_articles)} anciens articles conservés '
+                f'pour {category["name"]}.'
+            )
 
     if not all_articles:
         raise RuntimeError(
